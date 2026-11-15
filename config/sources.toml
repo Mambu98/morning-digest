@@ -16,7 +16,7 @@
 preferred_sources = ["BeBeez", "FinanceCommunity", "Milano Finanza", "MF", "Il Sole 24 Ore", "Reuters", "Bloomberg",
   "Financial Times", "Les Echos", "9fin", "Debtwire", "Private Equity International", "Private Equity Wire",
   "Unquote", "Mergermarket", "PitchBook", "Corriere della Sera", "Teleborsa", "Radiocor"]
-blocked_sources = ["BigGo", "Traders Union", "Investing.com", "tmgm", "Mott Capital", "lavx", "Tech Times", "DirettaCalcioMercato",
+blocked_sources = ["BigGo", "Traders Union", "tmgm", "Mott Capital", "lavx", "Tech Times", "DirettaCalcioMercato",
   "Sbircia la Notizia", "The Flight Club", "MarketBeat", "Benzinga", "Yahoo", "AInvest", "StocksToTrade",
   "Calciomercato", "Tuttomercatoweb", "Seeking Alpha", "Motley Fool", "TipRanks", "GuruFocus", "Simply Wall St"]
 # titoli scartati se contengono una di queste parole (filing automatici, rumore)
