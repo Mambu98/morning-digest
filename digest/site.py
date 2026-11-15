@@ -59,6 +59,13 @@ ul.archive{list-style:none;padding:0}ul.archive li{padding:10px 0;border-bottom:
 
 JS = """
 (function(){
+  // Sull'app della home iOS non c'è il "tira giù per aggiornare": ricarica da sola se torni dopo un po'
+  var loaded=Date.now();
+  document.addEventListener('visibilitychange',function(){
+    if(document.visibilityState==='visible'&&Date.now()-loaded>10*60*1000){location.reload()}
+  });
+})();
+(function(){
   var KEY='md-votes';
   function load(){try{return JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){return {}}}
   function save(s){try{localStorage.setItem(KEY,JSON.stringify(s))}catch(e){}}
@@ -104,7 +111,7 @@ def _page(title: str, body: str, root: str) -> str:
 <link rel="apple-touch-icon" href="{root}apple-touch-icon.png"><link rel="manifest" href="{root}manifest.webmanifest">
 <meta name="robots" content="noindex,nofollow"><title>{escape(title)}</title><style>{CSS}</style></head>
 <body><main>{body}
-<footer><a href="{root}index.html">Oggi</a> · <a href="{root}archive/index.html">Archivio</a></footer>
+<footer><a href="{root}index.html">Oggi</a> · <a href="{root}archive/index.html">Archivio</a> · <a href="#" onclick="location.reload();return false">Aggiorna</a></footer>
 </main><script>{JS}</script></body></html>
 """
 
