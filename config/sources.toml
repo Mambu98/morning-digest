@@ -8,6 +8,17 @@
 # [[rss]]: feed RSS diretti (es. newsletter con feed pubblico). url + topic.
 #
 # Per aggiungere una fonte basta copiare un blocco e cambiare i valori.
+#
+# [filters]: preferred_sources = testate da privilegiare; blocked_sources = testate scartate prima di Claude
+#   (basta una parte del nome, maiuscole/minuscole indifferenti).
+
+[filters]
+preferred_sources = ["BeBeez", "FinanceCommunity", "Milano Finanza", "MF", "Il Sole 24 Ore", "Reuters", "Bloomberg",
+  "Financial Times", "Les Echos", "9fin", "Debtwire", "Private Equity International", "Private Equity Wire",
+  "Unquote", "Mergermarket", "PitchBook", "Corriere della Sera", "Teleborsa", "Radiocor"]
+blocked_sources = ["BigGo", "Traders Union", "Investing.com Nigeria", "Investing.com India", "DirettaCalcioMercato",
+  "Sbircia la Notizia", "The Flight Club", "MarketBeat", "Benzinga", "Yahoo", "AInvest", "StocksToTrade",
+  "Calciomercato", "Tuttomercatoweb"]
 
 [[google_news]]
 q = '"private equity" acquisizione OR rileva OR maggioranza'
@@ -28,6 +39,21 @@ topic = "Debt financing Italia"
 q = 'site:bebeez.it'
 lang = "it"
 topic = "BeBeez (private markets Italia)"
+
+[[google_news]]
+q = 'site:financecommunity.it'
+lang = "it"
+topic = "FinanceCommunity (deal e advisor Italia)"
+
+[[google_news]]
+q = 'site:milanofinanza.it private equity OR acquisizione OR fondo OR M&A OR finanziamento'
+lang = "it"
+topic = "Milano Finanza"
+
+[[google_news]]
+q = 'site:ilsole24ore.com "private equity" OR acquisizione OR LBO OR fondo'
+lang = "it"
+topic = "Il Sole 24 Ore"
 
 [[google_news]]
 q = 'M&A operazione acquisizione società italiana advisor'

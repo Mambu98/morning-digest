@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import os
+import tomllib
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -60,11 +61,14 @@ def main() -> None:
         raw = select.mock(candidates)
     else:
         profile = (ROOT / "config" / "profile.md").read_text(encoding="utf-8")
-        raw = select.ask_claude(select.build_prompt(candidates, profile, fb_text, day))
+        cfg = tomllib.loads((ROOT / "config" / "sources.toml").read_text(encoding="utf-8"))
+        preferred = cfg.get("filters", {}).get("preferred_sources", [])
+        raw = select.ask_claude(select.build_prompt(candidates, profile, fb_text, day, preferred))
     digest = select.validate(raw, candidates)
     digest["date"] = day
     (DATA / "digests" / f"{day}.json").write_text(json.dumps(digest, ensure_ascii=False, indent=1), encoding="utf-8")
     added = append_deals(digest["deals"], DATA / "deals.csv")
+    print(f"  fonti lette per le top: {sum(t['verified'] for t in digest['top'])}/{len(digest['top'])}")
     print(f"  top {len(digest['top'])}, brevi {len(digest['briefs'])}, deal nuovi nel database {added}")
 
     print("4/4 Sito")

@@ -22,4 +22,6 @@ Obiettivo: Leverage Finance a breve, poi Londra/Parigi, poi buy side (private eq
 ## Meno interessante
 - Risultati trimestrali di large cap US senza impatto macro.
 - Crypto, gossip societario, notizie di consumo.
+- Sport e calcio, anche quando si tratta di acquisizioni di club.
+- Aggregatori e siti di bassa qualità: meglio una fonte autorevole che due mediocri.
 - Comunicati stampa senza numeri né controparti.

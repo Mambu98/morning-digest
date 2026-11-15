@@ -18,6 +18,10 @@ PROMPT = """Sei il redattore del digest mattutino personale di un banker. Data d
 ## Feedback del lettore (voti +/− sul sito)
 {feedback}
 
+## Fonti autorevoli da privilegiare
+{preferred}
+A parità di notizia scegli la fonte autorevole; scarta aggregatori, siti di bassa qualità e notizie fuori profilo (es. sport).
+
 ## Notizie candidate (ultime 36 ore)
 Formato: [id] data | fonte | topic di ricerca | titolo
 {candidates}
@@ -25,7 +29,9 @@ Formato: [id] data | fonte | topic di ricerca | titolo
 ## Compito
 1. Scegli le 3 notizie più rilevanti per il lettore (campo "top"), seguendo le priorità del profilo e pesando il feedback.
    Una delle 3 può essere "esplorativa" (fuori dalle preferenze recenti ma importante): segnala con "exploratory": true.
-2. Per ciascuna delle 3, usa WebSearch e WebFetch per leggere la notizia sulla fonte originale (massimo 2-3 chiamate per notizia).
+2. Per ciascuna delle 3, leggi la notizia sulla fonte originale (massimo 3 chiamate per notizia).
+   I link dei candidati sono redirect di Google News e NON sono leggibili: cerca il titolo con WebSearch,
+   poi apri l'articolo originale (o un articolo equivalente di una fonte autorevole) con WebFetch.
    - "summary": 2-3 frasi in italiano con i fatti chiave.
    - "why_it_matters": 1-2 frasi dal punto di vista di un banker LevFin / structured lending (sponsor, multipli, leva, chi finanzia, cosa dice sul mercato).
    - Numeri (EV, multipli, leva, importi) SOLO se letti nella fonte. Mai stimare o dedurre.
@@ -51,7 +57,7 @@ Rispondi SOLO con un oggetto JSON valido, senza testo prima o dopo, con questo s
 """
 
 
-def build_prompt(candidates: list[dict], profile: str, feedback: str, date: str) -> str:
+def build_prompt(candidates: list[dict], profile: str, feedback: str, date: str, preferred: list[str] = ()) -> str:
     lines = [
         f"[{c['id']}] {(c['published'] or '')[:10]} | {c['source']} | {c['topic']} | {c['title']}" for c in candidates
     ]
@@ -59,6 +65,7 @@ def build_prompt(candidates: list[dict], profile: str, feedback: str, date: str)
         date=date,
         profile=profile.strip(),
         feedback=feedback,
+        preferred=", ".join(preferred) or "nessuna indicazione",
         candidates="\n".join(lines),
         categories=", ".join(CATEGORIES),
         deal_types=", ".join(DEAL_TYPES),
@@ -77,13 +84,18 @@ def ask_claude(prompt: str) -> dict:
         "claude", "-p", prompt,
         "--output-format", "json",
         "--model", MODEL,
-        "--max-turns", "25",
-        "--allowedTools", "WebSearch,WebFetch",
+        "--max-turns", "30",
+        "--allowedTools", "WebSearch", "WebFetch",  # deve restare l'ultima opzione (accetta più valori)
     ]
     res = subprocess.run(cmd, capture_output=True, text=True, timeout=1200)
     if res.returncode != 0:
         raise RuntimeError(f"Claude Code ha restituito un errore ({res.returncode}):\n{res.stderr[-3000:]}\n{res.stdout[-3000:]}")
     envelope = json.loads(res.stdout)
+    denials = envelope.get("permission_denials") or []
+    print(f"  Claude: {envelope.get('num_turns')} turni, {round((envelope.get('duration_ms') or 0) / 1000)}s, "
+          f"permessi negati: {len(denials)}")
+    for d in denials[:5]:
+        print(f"    negato: {d.get('tool_name')}")
     if envelope.get("is_error"):
         raise RuntimeError(f"Claude Code: {envelope.get('result') or envelope}")
     return _extract_json(envelope.get("result", ""))
