@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Archivio digest</title><style>
+:root{--bg:#f7f6f2;--card:#fff;--text:#1d1d1b;--muted:#6b6a65;--line:#e4e2da;--accent:#0f5c4d;--accent-bg:#e3f1ec;--down:#9b2c2c;--down-bg:#f8e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--card:#1e1e1c;--text:#ecebe6;--muted:#9c9a92;--line:#33322e;--accent:#6fd0b4;--accent-bg:#17352e;--down:#f09595;--down-bg:#3a1d1d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 18px 64px}
+header .date{color:var(--muted);font-size:14px}header .date::first-letter{text-transform:uppercase}
+h1{font:500 30px/1.25 Georgia,"Times New Roman",serif;margin:6px 0 28px}
+h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:36px 0 12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 20px 14px;margin-bottom:14px}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13px;color:var(--muted);margin-bottom:6px}
+.pill{background:var(--accent-bg);color:var(--accent);border-radius:999px;padding:1px 10px;font-weight:600}
+.pill.explore{background:transparent;border:1px solid var(--line);color:var(--muted);font-weight:500}
+.card h3{font:500 20px/1.35 Georgia,serif;margin:4px 0 10px}
+a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}a:hover{text-decoration-color:var(--accent)}
+.why{border-left:3px solid var(--accent);padding-left:12px;margin:10px 0}
+.why b{color:var(--accent);font-weight:600}
+.note{font-size:12px;color:var(--muted)}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:8px}
+.votes{display:flex;gap:6px;flex-shrink:0}
+.votes button{width:36px;height:32px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--muted);font-size:18px;cursor:pointer;line-height:1}
+.votes button.on.up{background:var(--accent-bg);color:var(--accent);border-color:var(--accent)}
+.votes button.on.down{background:var(--down-bg);color:var(--down);border-color:var(--down)}
+.votes button.err{border-color:var(--down)}
+.brief{display:flex;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.brief p{margin:2px 0 0;color:var(--muted);font-size:14px}
+.brief .t{font-weight:500}
+table{width:100%;border-collapse:collapse;font-size:13px}td,th{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:top}th{color:var(--muted);font-weight:600}
+.scroll{overflow-x:auto}
+footer{margin-top:40px;font-size:13px;color:var(--muted)}
+ul.archive{list-style:none;padding:0}ul.archive li{padding:10px 0;border-bottom:1px solid var(--line)}
+</style></head>
+<body><main><header><h1>Archivio</h1></header><ul class="archive"><li>Ancora vuoto.</li></ul>
+<footer><a href="../index.html">Oggi</a> · <a href="../archive/index.html">Archivio</a></footer>
+</main><script>
+(function(){
+  var KEY='md-votes';
+  function load(){try{return JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){return {}}}
+  function save(s){try{localStorage.setItem(KEY,JSON.stringify(s))}catch(e){}}
+  function paint(box,v){box.querySelector('.up').classList.toggle('on',v===1);box.querySelector('.down').classList.toggle('on',v===-1)}
+  var state=load();
+  document.querySelectorAll('.votes').forEach(function(box){
+    var item=JSON.parse(box.dataset.item);
+    paint(box,state[item.date+':'+item.id]||0);
+    box.querySelectorAll('button').forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var key=item.date+':'+item.id, cur=state[key]||0, v=parseInt(btn.dataset.v,10), nv=cur===v?0:v;
+        var payload=Object.assign({},item,{vote:nv});
+        fetch('/api/vote',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(payload)})
+          .then(function(r){if(!r.ok)throw new Error(r.status);state[key]=nv;save(state);paint(box,nv)})
+          .catch(function(){btn.classList.add('err');setTimeout(function(){btn.classList.remove('err')},1500)});
+      });
+    });
+  });
+})();
+</script></body></html>

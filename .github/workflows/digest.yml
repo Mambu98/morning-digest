@@ -1,0 +1,57 @@
+name: Morning digest
+
+on:
+  schedule:
+    # 05:30 UTC = 06:30 a Roma con l'ora solare, 07:30 con l'ora legale.
+    # GitHub può partire con qualche decina di minuti di ritardo: il margine garantisce il digest entro le 8.
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+    inputs:
+      mock:
+        description: "Prova senza chiamare Claude (sito con testi finti)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa dipendenze Python
+        run: pip install -r requirements.txt
+
+      - name: Installa Claude Code
+        if: ${{ !inputs.mock }}
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Genera il digest
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          FEEDBACK_TOKEN: ${{ secrets.FEEDBACK_TOKEN }}
+          DIGEST_MOCK: ${{ inputs.mock && '1' || '0' }}
+        run: python -m digest.run
+
+      - name: Salva su GitHub (Cloudflare pubblica in automatico)
+        run: |
+          git config user.name "morning-digest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site
+          git diff --cached --quiet || git commit -m "Digest $(TZ=Europe/Rome date +%F)"
+          git push

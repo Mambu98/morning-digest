@@ -1,0 +1,70 @@
+# Fonti del digest.
+#
+# [[google_news]]: ricerca su Google News (copre Il Sole 24 Ore, MF, Reuters, Bloomberg, BeBeez, ecc.).
+#   q     = query (sintassi Google: OR, "frase esatta", site:dominio)
+#   lang  = "it" (Google News Italia) oppure "en" (Google News UK)
+#   topic = etichetta interna, aiuta Claude a capire da dove arriva la notizia
+#
+# [[rss]]: feed RSS diretti (es. newsletter con feed pubblico). url + topic.
+#
+# Per aggiungere una fonte basta copiare un blocco e cambiare i valori.
+
+[[google_news]]
+q = '"private equity" acquisizione OR rileva OR maggioranza'
+lang = "it"
+topic = "PE Italia"
+
+[[google_news]]
+q = 'LBO OR "leveraged buyout" OR buyout fondo'
+lang = "it"
+topic = "LBO Italia"
+
+[[google_news]]
+q = 'unitranche OR "direct lending" OR "private debt" OR "finanziamento" fondo acquisizione'
+lang = "it"
+topic = "Debt financing Italia"
+
+[[google_news]]
+q = 'site:bebeez.it'
+lang = "it"
+topic = "BeBeez (private markets Italia)"
+
+[[google_news]]
+q = 'M&A operazione acquisizione società italiana advisor'
+lang = "it"
+topic = "M&A Italia"
+
+[[google_news]]
+q = 'OPA OR delisting OR "Euronext Growth Milan" Piazza Affari'
+lang = "it"
+topic = "Piazza Affari / EGM"
+
+[[google_news]]
+q = 'Italy "private equity" OR buyout deal'
+lang = "en"
+topic = "PE Italy (EN)"
+
+[[google_news]]
+q = '"leveraged finance" OR "leveraged loan" OR "high yield" Europe'
+lang = "en"
+topic = "LevFin Europe"
+
+[[google_news]]
+q = '"private credit" OR "direct lending" Europe fund'
+lang = "en"
+topic = "Private credit Europe"
+
+[[google_news]]
+q = 'private equity "final close" OR fundraising OR "raises" fund Europe'
+lang = "en"
+topic = "PE fundraising"
+
+[[google_news]]
+q = 'ECB OR Fed OR "Bank of Japan" rates markets'
+lang = "en"
+topic = "Macro / banche centrali"
+
+[[google_news]]
+q = 'site:reuters.com markets'
+lang = "en"
+topic = "Mercati globali"
