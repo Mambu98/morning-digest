@@ -52,7 +52,9 @@ def _entries(url: str):
 def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, limit: int = 200) -> list[dict]:
     cfg = tomllib.loads(config_path.read_text(encoding="utf-8"))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
-    blocked = [b.lower() for b in cfg.get("filters", {}).get("blocked_sources", [])]
+    filters = cfg.get("filters", {})
+    blocked = [b.lower() for b in filters.get("blocked_sources", [])]
+    blocked_words = [w.lower() for w in filters.get("blocked_title_words", [])]
     seen: set[str] = set()
     items: list[dict] = []
 
@@ -63,7 +65,7 @@ def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, lim
         published = _published(entry)
         if not url or not title:
             return
-        if any(b in source.lower() for b in blocked):
+        if any(b in source.lower() for b in blocked) or any(w in title.lower() for w in blocked_words):
             return
         if published and published < cutoff:
             return

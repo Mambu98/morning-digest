@@ -45,13 +45,15 @@ Formato: [id] data | fonte | topic di ricerca | titolo
 1. "top_ranked": le {ranked_n} notizie più rilevanti in ordine di importanza (le prime {top_n} andranno in apertura,
    le altre sono riserve). Segui le priorità del profilo e pesa il feedback. Una delle prime {top_n} può essere
    "esplorativa" (fuori dalle preferenze recenti ma importante): "exploratory": true.
+   "category" coerente con il contenuto (es. "LBO / PE Italia" solo per operazioni italiane).
 2. "briefs": altre 6-8 notizie, con "one_liner" in italiano di massimo 25 parole basato sul titolo.
 3. "international": 3-4 pillole dal mondo (notizie NON italiane), preferibilmente da Financial Times, Bloomberg,
    Reuters, WSJ: deal e trend globali di PE / LevFin / private credit e macro. "one_liner" in italiano, massimo 30 parole,
    basato sul titolo. Non ripetere notizie già in top_ranked o briefs.
 4. Evita doppioni: se la stessa notizia compare da più fonti, scegline una sola.
-5. "deals": TUTTE le operazioni presenti tra i candidati (M&A, LBO, financing, fundraising, IPO, OPA).
-   Campi compilati solo con informazioni esplicite nel titolo, altrimenti null. Mai stimare.
+5. "deals": le operazioni presenti tra i candidati (M&A, LBO, financing, fundraising, IPO, OPA) con un target
+   (o un fondo, per il fundraising) identificato per nome. Escludi trend generici e società non nominate.
+   "deal_type" deve essere esattamente uno dei tipi ammessi. Campi solo con informazioni esplicite, altrimenti null.
 6. "headline": una frase in italiano che sintetizza il tema della giornata.
 
 Categorie ammesse: {categories}
@@ -147,16 +149,20 @@ def run(candidates: list[dict], profile: str, feedback: str, date: str, preferre
 
     sel = ask_claude(build_select_prompt(candidates, profile, feedback, date, preferred), "selezione")
     ranked = [e for e in sel.get("top_ranked", []) if e.get("id") in by_id][:RANKED_N]
-    chosen = ranked[:TOP_N]
-    if not chosen:
+    if not ranked:
         raise ValueError("Claude non ha restituito notizie valide per la sezione top.")
 
     print("  Lettura articoli (Python, zero token)")
-    picks = []
-    for e in chosen:
+    read = []
+    for e in ranked:
         c = by_id[e["id"]]
         art = articles.read(c)
-        picks.append({**c, "text": art["text"], "resolved_url": art["url"], "meta": e})
+        read.append({**c, "text": art["text"], "resolved_url": art["url"], "meta": e})
+    # Nell'ordine di importanza, prima le notizie leggibili (numeri verificabili); le riserve
+    # non leggibili entrano solo se non bastano quelle con testo.
+    readable = [p for p in read if p["text"]]
+    picks = (readable + [p for p in read if not p["text"]])[:TOP_N]
+    picks.sort(key=lambda p: read.index(p))
 
     need_tools = any(p["text"] is None for p in picks)
     written = ask_claude(build_write_prompt(picks), "scrittura", tools=need_tools, max_turns=15 if need_tools else 2)
@@ -198,6 +204,14 @@ def mock(candidates: list[dict]) -> dict:
         ],
         "deals": [],
     }
+
+
+def _deal_type(value):
+    v = (value or "").strip()
+    for t in DEAL_TYPES:
+        if v.lower().startswith(t.lower()):
+            return t
+    return v or None
 
 
 def _num(value):
@@ -254,7 +268,7 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
         deals.append({
             "date": (c["published"] or "")[:10],
             "target": e.get("target"), "buyer": e.get("buyer"), "seller": e.get("seller"),
-            "deal_type": e.get("deal_type"), "sector": e.get("sector"), "country": e.get("country"),
+            "deal_type": _deal_type(e.get("deal_type")), "sector": e.get("sector"), "country": e.get("country"),
             "ev_eur_m": _num(e.get("ev_eur_m")), "ev_ebitda": _num(e.get("ev_ebitda")),
             "leverage_x": _num(e.get("leverage_x")), "debt_package": e.get("debt_package"),
             "banks_advisors": e.get("banks_advisors"), "source": c["source"], "url": c["url"], "title": c["title"],

@@ -16,9 +16,11 @@
 preferred_sources = ["BeBeez", "FinanceCommunity", "Milano Finanza", "MF", "Il Sole 24 Ore", "Reuters", "Bloomberg",
   "Financial Times", "Les Echos", "9fin", "Debtwire", "Private Equity International", "Private Equity Wire",
   "Unquote", "Mergermarket", "PitchBook", "Corriere della Sera", "Teleborsa", "Radiocor"]
-blocked_sources = ["BigGo", "Traders Union", "Investing.com Nigeria", "Investing.com India", "DirettaCalcioMercato",
+blocked_sources = ["BigGo", "Traders Union", "Investing.com", "tmgm", "Mott Capital", "lavx", "Tech Times", "DirettaCalcioMercato",
   "Sbircia la Notizia", "The Flight Club", "MarketBeat", "Benzinga", "Yahoo", "AInvest", "StocksToTrade",
-  "Calciomercato", "Tuttomercatoweb"]
+  "Calciomercato", "Tuttomercatoweb", "Seeking Alpha", "Motley Fool", "TipRanks", "GuruFocus", "Simply Wall St"]
+# titoli scartati se contengono una di queste parole (filing automatici, rumore)
+blocked_title_words = ["Form 4", "Form 13D", "Form 13G", "Form 8-K", "Form 10-Q", "Form 144", "SEC Filing"]
 
 [[rss]]
 url = "https://www.bebeez.it/feed/"
