@@ -49,7 +49,7 @@ def _entries(url: str):
     return feed.entries
 
 
-def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, limit: int = 150) -> list[dict]:
+def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, limit: int = 200) -> list[dict]:
     cfg = tomllib.loads(config_path.read_text(encoding="utf-8"))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
     blocked = [b.lower() for b in cfg.get("filters", {}).get("blocked_sources", [])]

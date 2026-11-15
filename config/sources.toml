@@ -95,6 +95,28 @@ q = 'private equity "final close" OR fundraising OR "raises" fund Europe'
 lang = "en"
 topic = "PE fundraising"
 
+# --- Sezione "Dal mondo": testate internazionali (titoli; il testo spesso è dietro paywall) ---
+
+[[google_news]]
+q = 'site:ft.com "private equity" OR "private credit" OR buyout OR "leveraged finance" OR M&A'
+lang = "en"
+topic = "Internazionale: Financial Times"
+
+[[google_news]]
+q = 'site:bloomberg.com "private equity" OR "private credit" OR buyout OR "leveraged loan"'
+lang = "en"
+topic = "Internazionale: Bloomberg"
+
+[[google_news]]
+q = 'site:reuters.com "private equity" OR buyout OR "private credit" OR M&A'
+lang = "en"
+topic = "Internazionale: Reuters"
+
+[[google_news]]
+q = 'site:wsj.com "private equity" OR buyout OR "private credit" OR markets'
+lang = "en"
+topic = "Internazionale: WSJ"
+
 [[google_news]]
 q = 'ECB OR Fed OR "Bank of Japan" rates markets'
 lang = "en"

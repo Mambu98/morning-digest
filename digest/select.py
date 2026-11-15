@@ -46,10 +46,13 @@ Formato: [id] data | fonte | topic di ricerca | titolo
    le altre sono riserve). Segui le priorità del profilo e pesa il feedback. Una delle prime {top_n} può essere
    "esplorativa" (fuori dalle preferenze recenti ma importante): "exploratory": true.
 2. "briefs": altre 6-8 notizie, con "one_liner" in italiano di massimo 25 parole basato sul titolo.
-3. Evita doppioni: se la stessa notizia compare da più fonti, scegline una sola.
-4. "deals": TUTTE le operazioni presenti tra i candidati (M&A, LBO, financing, fundraising, IPO, OPA).
+3. "international": 3-4 pillole dal mondo (notizie NON italiane), preferibilmente da Financial Times, Bloomberg,
+   Reuters, WSJ: deal e trend globali di PE / LevFin / private credit e macro. "one_liner" in italiano, massimo 30 parole,
+   basato sul titolo. Non ripetere notizie già in top_ranked o briefs.
+4. Evita doppioni: se la stessa notizia compare da più fonti, scegline una sola.
+5. "deals": TUTTE le operazioni presenti tra i candidati (M&A, LBO, financing, fundraising, IPO, OPA).
    Campi compilati solo con informazioni esplicite nel titolo, altrimenti null. Mai stimare.
-5. "headline": una frase in italiano che sintetizza il tema della giornata.
+6. "headline": una frase in italiano che sintetizza il tema della giornata.
 
 Categorie ammesse: {categories}
 Tipi di deal ammessi: {deal_types}
@@ -59,6 +62,7 @@ Rispondi SOLO con un oggetto JSON valido:
   "headline": "string",
   "top_ranked": [{{"id": "id candidato", "category": "string", "tags": ["string"], "exploratory": false}}],
   "briefs": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
+  "international": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
   "deals": [{deal_schema}]
 }}
 """
@@ -170,7 +174,8 @@ def run(candidates: list[dict], profile: str, feedback: str, date: str, preferre
 
     deals = {d.get("id"): d for d in sel.get("deals", []) if d.get("id")}
     deals.update({d.get("id"): d for d in written.get("deals", []) if d.get("id")})  # i dati dal testo prevalgono
-    return {"headline": sel.get("headline", ""), "top": top, "briefs": sel.get("briefs", []), "deals": list(deals.values())}
+    return {"headline": sel.get("headline", ""), "top": top, "briefs": sel.get("briefs", []),
+            "international": sel.get("international", []), "deals": list(deals.values())}
 
 
 def mock(candidates: list[dict]) -> dict:
@@ -186,6 +191,10 @@ def mock(candidates: list[dict]) -> dict:
         "briefs": [
             {"id": c["id"], "category": CATEGORIES[i % len(CATEGORIES)], "one_liner": c["title"], "tags": []}
             for i, c in enumerate(candidates[3:10])
+        ],
+        "international": [
+            {"id": c["id"], "category": "Macro & Mercati", "one_liner": c["title"], "tags": []}
+            for c in candidates[10:14]
         ],
         "deals": [],
     }
@@ -230,6 +239,13 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
             b["one_liner"] = e.get("one_liner", "")
             briefs.append(b)
 
+    international = []
+    for e in raw.get("international", [])[:4]:
+        b = base(e)
+        if b:
+            b["one_liner"] = e.get("one_liner", "")
+            international.append(b)
+
     deals = []
     for e in raw.get("deals", []):
         c = by_id.get(e.get("id"))
@@ -246,4 +262,4 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
 
     if not top:
         raise ValueError("Claude non ha restituito notizie valide per la sezione top.")
-    return {"headline": raw.get("headline", ""), "top": top, "briefs": briefs, "deals": deals}
+    return {"headline": raw.get("headline", ""), "top": top, "briefs": briefs, "international": international, "deals": deals}

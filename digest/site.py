@@ -104,11 +104,13 @@ def render_digest(d: dict, root: str) -> str:
 <p>{escape(it.get('summary', ''))}</p><div class="why"><b>Perché conta.</b> {escape(it.get('why_it_matters', ''))}</div>
 <div class="row">{note or '<span></span>'}{_votes(it, day, 'top')}</div></article>""")
 
-    if d.get("briefs"):
-        parts.append("<h2>In breve</h2>")
-        for it in d["briefs"]:
+    for key, label, kind in (("international", "Dal mondo", "international"), ("briefs", "In breve", "brief")):
+        if not d.get(key):
+            continue
+        parts.append(f"<h2>{label}</h2>")
+        for it in d[key]:
             parts.append(f"""<div class="brief"><div><a class="t" href="{escape(it['url'], quote=True)}" target="_blank" rel="noopener">{escape(it['title'])}</a>
-<p>{escape(it.get('one_liner', ''))} · {escape(it['source'])}</p></div>{_votes(it, day, 'brief')}</div>""")
+<p>{escape(it.get('one_liner', ''))} · {escape(it['source'])}</p></div>{_votes(it, day, kind)}</div>""")
 
     if d.get("deals"):
         parts.append('<h2>Deal tracker di oggi</h2><div class="scroll"><table><tr><th>Target</th><th>Tipo</th><th>Acquirente / sponsor</th><th>EV (€m)</th><th>Fonte</th></tr>')

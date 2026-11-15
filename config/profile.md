@@ -14,6 +14,9 @@ Obiettivo: Leverage Finance a breve, poi Londra/Parigi, poi buy side (private eq
 4. M&A italiano mid-market e operazioni su Piazza Affari (OPA, delisting, EGM).
 5. Macro globale che muove l'asset allocation: banche centrali (BCE, Fed, BoJ), tassi, Giappone, AI infrastructure, oro, credito.
 
+## Sezione "Dal mondo"
+3-4 pillole internazionali (FT, Bloomberg, Reuters, WSJ) su deal e trend globali di PE, LevFin, private credit e macro, per non guardare solo all'Italia.
+
 ## Taglio desiderato
 - Fatti e numeri verificabili, niente opinioni generiche.
 - "Perché conta" letto con gli occhi di un banker LevFin: sponsor, multipli, leva, chi finanzia, cosa dice sul mercato.
