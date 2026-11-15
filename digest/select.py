@@ -55,6 +55,15 @@ Formato: [id] data | fonte | topic di ricerca | titolo
    (o un fondo, per il fundraising) identificato per nome. Escludi trend generici e società non nominate.
    "deal_type" deve essere esattamente uno dei tipi ammessi. Campi solo con informazioni esplicite, altrimenti null.
 6. "headline": una frase in italiano che sintetizza il tema della giornata.
+7. "market_pill": la pillola mercati del giorno, costruita SOLO sui titoli macro/mercati dei candidati.
+   - "what_is_happening": 2-3 frasi su cosa sta muovendo i mercati (banche centrali, tassi, valute, credito, temi).
+   - "for_you": 1-2 frasi su cosa significa per il portafoglio del lettore, confrontandolo con la sua tesi di
+     allocazione (vedi profilo): la conferma, la mette in discussione o non la tocca?
+   - "watch": uno spunto concreto a livello di asset allocation o di cosa monitorare (un dato in uscita, una soglia,
+     un tema). Mai raccomandazioni di comprare o vendere singoli titoli, mai trading di breve: il lettore ha
+     restrizioni di compliance sul trading personale. Se non c'è niente da fare, dillo ("nessuna azione: ...").
+   - "ids": id dei candidati su cui ti basi.
+   Nessun numero che non sia nei titoli.
 
 Categorie ammesse: {categories}
 Tipi di deal ammessi: {deal_types}
@@ -65,16 +74,24 @@ Rispondi SOLO con un oggetto JSON valido:
   "top_ranked": [{{"id": "id candidato", "category": "string", "tags": ["string"], "exploratory": false}}],
   "briefs": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
   "international": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
+  "market_pill": {{"what_is_happening": "string", "for_you": "string", "watch": "string", "ids": ["id candidato"]}},
   "deals": [{deal_schema}]
 }}
 """
 
-PROMPT_WRITE = """Scrivi le sintesi delle notizie di apertura del digest mattutino di un banker
-(LevFin / structured lending a Milano, interessato a PE, private credit, M&A Italia, macro).
+PROMPT_WRITE = """Scrivi le sintesi delle notizie di apertura del digest mattutino di un banker.
+
+## Profilo del lettore
+{profile}
+
+## Istruzioni
 
 Per ogni notizia trovi titolo, fonte e il TESTO dell'articolo letto in automatico.
 - "summary": 2-3 frasi in italiano con i fatti chiave.
 - "why_it_matters": 1-2 frasi dal punto di vista di un banker LevFin (sponsor, multipli, leva, chi finanzia, cosa dice sul mercato).
+- "for_you": 1-2 frasi su cosa significa per il lettore in concreto e per il suo percorso (Leverage Finance, poi
+  Londra/Parigi, poi buy side): un argomento da usare in un colloquio, un player o un tema da seguire, una competenza
+  da allenare. Deve essere specifico; se il collegamento non c'è davvero, metti null.
 - Numeri (EV, multipli, leva, importi) SOLO se presenti nel testo. Mai stimare o dedurre.
 - "verified": true se hai basato la sintesi su un testo dell'articolo.
 Se il testo è "NON DISPONIBILE", puoi usare WebSearch e WebFetch (massimo 3 chiamate per notizia) per trovare
@@ -88,7 +105,7 @@ Se nel testo ci sono operazioni (M&A, LBO, financing, fundraising), compila anch
 
 Rispondi SOLO con un oggetto JSON valido:
 {{
-  "top": [{{"id": "id", "summary": "string", "why_it_matters": "string", "verified": true, "original_url": "string o null"}}],
+  "top": [{{"id": "id", "summary": "string", "why_it_matters": "string", "for_you": "string o null", "verified": true, "original_url": "string o null"}}],
   "deals": [{deal_schema}]
 }}
 """
@@ -109,13 +126,13 @@ def build_select_prompt(candidates: list[dict], profile: str, feedback: str, dat
     )
 
 
-def build_write_prompt(picks: list[dict]) -> str:
+def build_write_prompt(picks: list[dict], profile: str = "") -> str:
     blocks = []
     for p in picks:
         body = p["text"] or "NON DISPONIBILE"
         url = p["resolved_url"] or p["url"]
         blocks.append(f"### [{p['id']}] {p['title']}\nFonte: {p['source']}\nURL: {url}\nTesto:\n{body}\n")
-    return PROMPT_WRITE.format(items="\n".join(blocks), deal_schema=DEAL_SCHEMA)
+    return PROMPT_WRITE.format(items="\n".join(blocks), deal_schema=DEAL_SCHEMA, profile=profile.strip())
 
 
 def _extract_json(text: str) -> dict:
@@ -165,7 +182,7 @@ def run(candidates: list[dict], profile: str, feedback: str, date: str, preferre
     picks.sort(key=lambda p: read.index(p))
 
     need_tools = any(p["text"] is None for p in picks)
-    written = ask_claude(build_write_prompt(picks), "scrittura", tools=need_tools, max_turns=15 if need_tools else 2)
+    written = ask_claude(build_write_prompt(picks, profile), "scrittura", tools=need_tools, max_turns=15 if need_tools else 2)
     texts = {t.get("id"): t for t in written.get("top", [])}
 
     top = []
@@ -174,14 +191,15 @@ def run(candidates: list[dict], profile: str, feedback: str, date: str, preferre
         top.append({
             **p["meta"],
             "summary": t.get("summary", ""), "why_it_matters": t.get("why_it_matters", ""),
-            "verified": bool(t.get("verified")),
+            "for_you": t.get("for_you"), "verified": bool(t.get("verified")),
             "original_url": t.get("original_url") or p["resolved_url"],
         })
 
     deals = {d.get("id"): d for d in sel.get("deals", []) if d.get("id")}
     deals.update({d.get("id"): d for d in written.get("deals", []) if d.get("id")})  # i dati dal testo prevalgono
     return {"headline": sel.get("headline", ""), "top": top, "briefs": sel.get("briefs", []),
-            "international": sel.get("international", []), "deals": list(deals.values())}
+            "international": sel.get("international", []), "market_pill": sel.get("market_pill") or {},
+            "deals": list(deals.values())}
 
 
 def mock(candidates: list[dict]) -> dict:
@@ -190,7 +208,8 @@ def mock(candidates: list[dict]) -> dict:
         "headline": "Digest di prova (modalità mock): nessuna chiamata a Claude.",
         "top": [
             {"id": c["id"], "category": CATEGORIES[i % len(CATEGORIES)], "summary": "Testo di prova.",
-             "why_it_matters": "Testo di prova.", "tags": ["test"], "verified": False,
+             "why_it_matters": "Testo di prova.", "for_you": "Testo di prova." if i == 0 else None,
+             "tags": ["test"], "verified": False,
              "exploratory": i == 2, "original_url": None}
             for i, c in enumerate(candidates[:3])
         ],
@@ -202,6 +221,8 @@ def mock(candidates: list[dict]) -> dict:
             {"id": c["id"], "category": "Macro & Mercati", "one_liner": c["title"], "tags": []}
             for c in candidates[10:14]
         ],
+        "market_pill": {"what_is_happening": "Testo di prova sui mercati.", "for_you": "Testo di prova.",
+                        "watch": "Nessuna azione: prova.", "ids": [c["id"] for c in candidates[:2]]},
         "deals": [],
     }
 
@@ -241,7 +262,9 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
         b = base(e)
         if b:
             orig = e.get("original_url")
+            fy = e.get("for_you")
             b.update(summary=e.get("summary", ""), why_it_matters=e.get("why_it_matters", ""),
+                     for_you=fy if isinstance(fy, str) and fy.strip() and fy.strip().lower() != "null" else None,
                      verified=bool(e.get("verified")), exploratory=bool(e.get("exploratory")),
                      original_url=orig if isinstance(orig, str) and orig.startswith("http") else None)
             top.append(b)
@@ -276,4 +299,11 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
 
     if not top:
         raise ValueError("Claude non ha restituito notizie valide per la sezione top.")
-    return {"headline": raw.get("headline", ""), "top": top, "briefs": briefs, "international": international, "deals": deals}
+    mp = raw.get("market_pill") or {}
+    pill = None
+    if mp.get("what_is_happening"):
+        pill = {k: str(mp.get(k) or "") for k in ("what_is_happening", "for_you", "watch")}
+        pill["sources"] = [{"title": by_id[i]["title"], "source": by_id[i]["source"], "url": by_id[i]["url"]}
+                           for i in mp.get("ids", []) if i in by_id][:4]
+    return {"headline": raw.get("headline", ""), "top": top, "market_pill": pill, "briefs": briefs,
+            "international": international, "deals": deals}

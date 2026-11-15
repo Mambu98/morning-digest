@@ -7,6 +7,13 @@ Analyst nel team structured lending di una banca a Milano (clientela UHNW, holdi
 Background in project finance ed equity research su small/mid cap italiane (EGM).
 Obiettivo: Leverage Finance a breve, poi Londra/Parigi, poi buy side (private equity).
 
+## Portafoglio personale (per la pillola mercati)
+PAC mensile su un portafoglio prevalentemente azionario globale diversificato, con underweight USA,
+tesi su Giappone e infrastrutture per l'AI, una piccola quota in oro. Nessun private credit: tesi bearish
+(default in crescita, distribuzione retail). Orizzonte lungo: niente trading di breve.
+Ha restrizioni di compliance sul trading personale: gli spunti devono restare a livello di asset allocation e temi,
+mai singoli titoli.
+
 ## Priorità (in ordine)
 1. Deal italiani con sponsor finanziario: LBO, secondary buyout, add-on, exit, con dettagli su struttura del debito (unitranche, TLB, high yield, banche/fondi coinvolti, leva).
 2. Leveraged finance e private credit in Europa: mercato dei leveraged loan, direct lending, refinancing, default, nuovi fondi.
