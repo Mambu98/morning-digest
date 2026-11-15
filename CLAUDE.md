@@ -5,7 +5,8 @@ Digest mattutino personale di Francesco (LevFin, PE, private credit, M&A Italia,
 ## Come funziona
 - `.github/workflows/digest.yml` gira ogni mattina su GitHub Actions ed esegue `python -m digest.run`.
 - `digest/fetch.py` raccoglie i candidati da Google News/RSS (fonti in `config/sources.toml`): nessun token.
-- `digest/select.py` chiama Claude Code headless (`claude -p`, piano Pro via secret `CLAUDE_CODE_OAUTH_TOKEN`) per scegliere 3 top + brevi ed estrarre i deal.
+- `digest/select.py` chiama Claude Code headless (`claude -p`, piano Pro via secret `CLAUDE_CODE_OAUTH_TOKEN`) in due passaggi: selezione dai titoli (senza strumenti), poi scrittura delle sintesi sul testo degli articoli.
+- `digest/articles.py` legge gli articoli scelti in Python (decodifica link Google News + trafilatura): zero token. Claude usa WebSearch/WebFetch solo per gli articoli che Python non riesce a leggere (paywall).
 - `digest/site.py` genera il sito statico in `site/`; Cloudflare Pages lo pubblica a ogni push.
 - `functions/api/` sono le Cloudflare Pages Functions per i voti +/− (KV binding `VOTES`, secret `FEEDBACK_TOKEN`).
 - Dati: `data/digests/YYYY-MM-DD.json`, `data/deals.csv` (database deal), `data/feedback.json` (snapshot voti).

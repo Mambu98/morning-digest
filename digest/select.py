@@ -1,4 +1,10 @@
-"""Selezione e sintesi con Claude Code (headless, piano Pro via CLAUDE_CODE_OAUTH_TOKEN)."""
+"""Selezione e sintesi con Claude Code (headless, piano Pro via CLAUDE_CODE_OAUTH_TOKEN).
+
+Due chiamate brevi invece di un agente che naviga:
+  1. SELEZIONE: Claude sceglie dai titoli (nessuno strumento).
+  2. SCRITTURA: Python legge gli articoli scelti (articles.py) e Claude scrive le sintesi dal testo.
+     Solo per gli articoli che Python non riesce a leggere (paywall) Claude può cercare con WebSearch/WebFetch.
+"""
 
 from __future__ import annotations
 
@@ -6,11 +12,20 @@ import json
 import os
 import subprocess
 
+from . import articles
+
 CATEGORIES = ["LBO / PE Italia", "LevFin & Private credit", "Fondi PE", "M&A Italia", "Piazza Affari / EGM", "Macro & Mercati"]
 DEAL_TYPES = ["LBO", "Secondary buyout", "Add-on", "M&A", "Minoranza", "Exit", "Financing", "Refinancing", "Fundraising", "IPO", "OPA / Delisting"]
 MODEL = os.environ.get("DIGEST_MODEL", "sonnet")
+TOP_N = 3
+RANKED_N = 5
 
-PROMPT = """Sei il redattore del digest mattutino personale di un banker. Data di oggi: {date}.
+DEAL_SCHEMA = ('{"id": "id candidato", "target": "string", "buyer": "string o null", "seller": "string o null", '
+               '"deal_type": "string", "sector": "string o null", "country": "string o null", "ev_eur_m": "numero o null", '
+               '"ev_ebitda": "numero o null", "leverage_x": "numero o null", "debt_package": "string o null", '
+               '"banks_advisors": "string o null"}')
+
+PROMPT_SELECT = """Sei il redattore del digest mattutino personale di un banker. Data di oggi: {date}.
 
 ## Profilo del lettore
 {profile}
@@ -26,50 +41,75 @@ A parità di notizia scegli la fonte autorevole; scarta aggregatori, siti di bas
 Formato: [id] data | fonte | topic di ricerca | titolo
 {candidates}
 
-## Compito
-1. Scegli le 3 notizie più rilevanti per il lettore (campo "top"), seguendo le priorità del profilo e pesando il feedback.
-   Una delle 3 può essere "esplorativa" (fuori dalle preferenze recenti ma importante): segnala con "exploratory": true.
-2. Per ciascuna delle 3, leggi la notizia sulla fonte originale (massimo 3 chiamate per notizia).
-   I link dei candidati sono redirect di Google News e NON sono leggibili: cerca il titolo con WebSearch,
-   poi apri l'articolo originale (o un articolo equivalente di una fonte autorevole) con WebFetch.
-   - "summary": 2-3 frasi in italiano con i fatti chiave.
-   - "why_it_matters": 1-2 frasi dal punto di vista di un banker LevFin / structured lending (sponsor, multipli, leva, chi finanzia, cosa dice sul mercato).
-   - Numeri (EV, multipli, leva, importi) SOLO se letti nella fonte. Mai stimare o dedurre.
-   - "verified": true se hai letto la fonte, false se hai potuto usare solo il titolo (in quel caso limita il summary ai fatti del titolo).
-   - "original_url": URL della fonte originale che hai letto, se lo hai trovato (altrimenti null).
-3. Scegli altre 6-8 notizie per "briefs", con "one_liner" in italiano di massimo 25 parole basato sul titolo.
-4. Evita doppioni: se la stessa notizia compare da più fonti, scegline una sola.
-5. "deals": estrai TUTTE le operazioni (anche non selezionate sopra) presenti tra i candidati: M&A, LBO, financing, fundraising, IPO, OPA.
-   Compila i campi solo con informazioni esplicite (titolo o fonte letta); altrimenti null. Mai stimare.
-6. "headline": una frase in italiano che sintetizza il tema della giornata.
+## Compito (lavora solo sui titoli, non usare strumenti)
+1. "top_ranked": le {ranked_n} notizie più rilevanti in ordine di importanza (le prime {top_n} andranno in apertura,
+   le altre sono riserve). Segui le priorità del profilo e pesa il feedback. Una delle prime {top_n} può essere
+   "esplorativa" (fuori dalle preferenze recenti ma importante): "exploratory": true.
+2. "briefs": altre 6-8 notizie, con "one_liner" in italiano di massimo 25 parole basato sul titolo.
+3. Evita doppioni: se la stessa notizia compare da più fonti, scegline una sola.
+4. "deals": TUTTE le operazioni presenti tra i candidati (M&A, LBO, financing, fundraising, IPO, OPA).
+   Campi compilati solo con informazioni esplicite nel titolo, altrimenti null. Mai stimare.
+5. "headline": una frase in italiano che sintetizza il tema della giornata.
 
 Categorie ammesse: {categories}
 Tipi di deal ammessi: {deal_types}
 
-## Output
-Rispondi SOLO con un oggetto JSON valido, senza testo prima o dopo, con questo schema:
+Rispondi SOLO con un oggetto JSON valido:
 {{
   "headline": "string",
-  "top": [{{"id": "id candidato", "category": "string", "summary": "string", "why_it_matters": "string", "tags": ["string"], "verified": true, "exploratory": false, "original_url": "string o null"}}],
+  "top_ranked": [{{"id": "id candidato", "category": "string", "tags": ["string"], "exploratory": false}}],
   "briefs": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
-  "deals": [{{"id": "id candidato", "target": "string", "buyer": "string o null", "seller": "string o null", "deal_type": "string", "sector": "string o null", "country": "string o null", "ev_eur_m": "numero o null", "ev_ebitda": "numero o null", "leverage_x": "numero o null", "debt_package": "string o null", "banks_advisors": "string o null"}}]
+  "deals": [{deal_schema}]
+}}
+"""
+
+PROMPT_WRITE = """Scrivi le sintesi delle notizie di apertura del digest mattutino di un banker
+(LevFin / structured lending a Milano, interessato a PE, private credit, M&A Italia, macro).
+
+Per ogni notizia trovi titolo, fonte e il TESTO dell'articolo letto in automatico.
+- "summary": 2-3 frasi in italiano con i fatti chiave.
+- "why_it_matters": 1-2 frasi dal punto di vista di un banker LevFin (sponsor, multipli, leva, chi finanzia, cosa dice sul mercato).
+- Numeri (EV, multipli, leva, importi) SOLO se presenti nel testo. Mai stimare o dedurre.
+- "verified": true se hai basato la sintesi su un testo dell'articolo.
+Se il testo è "NON DISPONIBILE", puoi usare WebSearch e WebFetch (massimo 3 chiamate per notizia) per trovare
+l'articolo o una fonte autorevole equivalente; se ci riesci "verified": true e "original_url" = URL letto,
+altrimenti "verified": false e limita la sintesi ai fatti del titolo. Per le notizie con testo NON usare strumenti.
+
+Se nel testo ci sono operazioni (M&A, LBO, financing, fundraising), compila anche "deals" con i dati espliciti
+(null se assenti, mai stimare).
+
+{items}
+
+Rispondi SOLO con un oggetto JSON valido:
+{{
+  "top": [{{"id": "id", "summary": "string", "why_it_matters": "string", "verified": true, "original_url": "string o null"}}],
+  "deals": [{deal_schema}]
 }}
 """
 
 
-def build_prompt(candidates: list[dict], profile: str, feedback: str, date: str, preferred: list[str] = ()) -> str:
-    lines = [
+def _candidate_lines(candidates: list[dict]) -> str:
+    return "\n".join(
         f"[{c['id']}] {(c['published'] or '')[:10]} | {c['source']} | {c['topic']} | {c['title']}" for c in candidates
-    ]
-    return PROMPT.format(
-        date=date,
-        profile=profile.strip(),
-        feedback=feedback,
-        preferred=", ".join(preferred) or "nessuna indicazione",
-        candidates="\n".join(lines),
-        categories=", ".join(CATEGORIES),
-        deal_types=", ".join(DEAL_TYPES),
     )
+
+
+def build_select_prompt(candidates: list[dict], profile: str, feedback: str, date: str, preferred=()) -> str:
+    return PROMPT_SELECT.format(
+        date=date, profile=profile.strip(), feedback=feedback,
+        preferred=", ".join(preferred) or "nessuna indicazione",
+        candidates=_candidate_lines(candidates), ranked_n=RANKED_N, top_n=TOP_N,
+        categories=", ".join(CATEGORIES), deal_types=", ".join(DEAL_TYPES), deal_schema=DEAL_SCHEMA,
+    )
+
+
+def build_write_prompt(picks: list[dict]) -> str:
+    blocks = []
+    for p in picks:
+        body = p["text"] or "NON DISPONIBILE"
+        url = p["resolved_url"] or p["url"]
+        blocks.append(f"### [{p['id']}] {p['title']}\nFonte: {p['source']}\nURL: {url}\nTesto:\n{body}\n")
+    return PROMPT_WRITE.format(items="\n".join(blocks), deal_schema=DEAL_SCHEMA)
 
 
 def _extract_json(text: str) -> dict:
@@ -79,26 +119,58 @@ def _extract_json(text: str) -> dict:
     return json.loads(text[start : end + 1])
 
 
-def ask_claude(prompt: str) -> dict:
-    cmd = [
-        "claude", "-p", prompt,
-        "--output-format", "json",
-        "--model", MODEL,
-        "--max-turns", "30",
-        "--allowedTools", "WebSearch", "WebFetch",  # deve restare l'ultima opzione (accetta più valori)
-    ]
+def ask_claude(prompt: str, label: str, tools: bool = False, max_turns: int = 2) -> dict:
+    cmd = ["claude", "-p", prompt, "--output-format", "json", "--model", MODEL, "--max-turns", str(max_turns)]
+    if tools:
+        cmd += ["--allowedTools", "WebSearch", "WebFetch"]  # deve restare l'ultima opzione (accetta più valori)
     res = subprocess.run(cmd, capture_output=True, text=True, timeout=1200)
     if res.returncode != 0:
-        raise RuntimeError(f"Claude Code ha restituito un errore ({res.returncode}):\n{res.stderr[-3000:]}\n{res.stdout[-3000:]}")
+        raise RuntimeError(f"Claude Code ({label}) errore {res.returncode}:\n{res.stderr[-3000:]}\n{res.stdout[-3000:]}")
     envelope = json.loads(res.stdout)
-    denials = envelope.get("permission_denials") or []
-    print(f"  Claude: {envelope.get('num_turns')} turni, {round((envelope.get('duration_ms') or 0) / 1000)}s, "
-          f"permessi negati: {len(denials)}")
-    for d in denials[:5]:
+    usage = envelope.get("usage") or {}
+    tokens_in = sum(usage.get(k) or 0 for k in ("input_tokens", "cache_read_input_tokens", "cache_creation_input_tokens"))
+    print(f"  Claude [{label}]: {envelope.get('num_turns')} turni, {round((envelope.get('duration_ms') or 0) / 1000)}s, "
+          f"token in {tokens_in:,} / out {usage.get('output_tokens') or 0:,}")
+    for d in (envelope.get("permission_denials") or [])[:5]:
         print(f"    negato: {d.get('tool_name')}")
     if envelope.get("is_error"):
-        raise RuntimeError(f"Claude Code: {envelope.get('result') or envelope}")
+        raise RuntimeError(f"Claude Code ({label}): {envelope.get('result') or envelope}")
     return _extract_json(envelope.get("result", ""))
+
+
+def run(candidates: list[dict], profile: str, feedback: str, date: str, preferred=()) -> dict:
+    by_id = {c["id"]: c for c in candidates}
+
+    sel = ask_claude(build_select_prompt(candidates, profile, feedback, date, preferred), "selezione")
+    ranked = [e for e in sel.get("top_ranked", []) if e.get("id") in by_id][:RANKED_N]
+    chosen = ranked[:TOP_N]
+    if not chosen:
+        raise ValueError("Claude non ha restituito notizie valide per la sezione top.")
+
+    print("  Lettura articoli (Python, zero token)")
+    picks = []
+    for e in chosen:
+        c = by_id[e["id"]]
+        art = articles.read(c)
+        picks.append({**c, "text": art["text"], "resolved_url": art["url"], "meta": e})
+
+    need_tools = any(p["text"] is None for p in picks)
+    written = ask_claude(build_write_prompt(picks), "scrittura", tools=need_tools, max_turns=15 if need_tools else 2)
+    texts = {t.get("id"): t for t in written.get("top", [])}
+
+    top = []
+    for p in picks:
+        t = texts.get(p["id"], {})
+        top.append({
+            **p["meta"],
+            "summary": t.get("summary", ""), "why_it_matters": t.get("why_it_matters", ""),
+            "verified": bool(t.get("verified")),
+            "original_url": t.get("original_url") or p["resolved_url"],
+        })
+
+    deals = {d.get("id"): d for d in sel.get("deals", []) if d.get("id")}
+    deals.update({d.get("id"): d for d in written.get("deals", []) if d.get("id")})  # i dati dal testo prevalgono
+    return {"headline": sel.get("headline", ""), "top": top, "briefs": sel.get("briefs", []), "deals": list(deals.values())}
 
 
 def mock(candidates: list[dict]) -> dict:
@@ -142,7 +214,7 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
                 "published": c["published"], "category": entry.get("category") or "", "tags": entry.get("tags") or []}
 
     top = []
-    for e in raw.get("top", [])[:3]:
+    for e in raw.get("top", [])[:TOP_N]:
         b = base(e)
         if b:
             orig = e.get("original_url")

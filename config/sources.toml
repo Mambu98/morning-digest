@@ -20,6 +20,16 @@ blocked_sources = ["BigGo", "Traders Union", "Investing.com Nigeria", "Investing
   "Sbircia la Notizia", "The Flight Club", "MarketBeat", "Benzinga", "Yahoo", "AInvest", "StocksToTrade",
   "Calciomercato", "Tuttomercatoweb"]
 
+[[rss]]
+url = "https://www.bebeez.it/feed/"
+source = "BeBeez"
+topic = "BeBeez (feed diretto)"
+
+[[rss]]
+url = "https://www.financecommunity.it/feed/"
+source = "FinanceCommunity"
+topic = "FinanceCommunity (feed diretto)"
+
 [[google_news]]
 q = '"private equity" acquisizione OR rileva OR maggioranza'
 lang = "it"

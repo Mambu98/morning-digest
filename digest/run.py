@@ -63,7 +63,7 @@ def main() -> None:
         profile = (ROOT / "config" / "profile.md").read_text(encoding="utf-8")
         cfg = tomllib.loads((ROOT / "config" / "sources.toml").read_text(encoding="utf-8"))
         preferred = cfg.get("filters", {}).get("preferred_sources", [])
-        raw = select.ask_claude(select.build_prompt(candidates, profile, fb_text, day, preferred))
+        raw = select.run(candidates, profile, fb_text, day, preferred)
     digest = select.validate(raw, candidates)
     digest["date"] = day
     (DATA / "digests" / f"{day}.json").write_text(json.dumps(digest, ensure_ascii=False, indent=1), encoding="utf-8")

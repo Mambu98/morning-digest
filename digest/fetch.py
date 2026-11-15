@@ -82,6 +82,13 @@ def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, lim
             }
         )
 
+    # Prima i feed diretti: hanno l'URL originale, leggibile da Python senza decodifica
+    for feed in cfg.get("rss", []):
+        entries = _entries(feed["url"])
+        print(f"  {feed.get('topic', feed['url'])}: {len(entries)} risultati")
+        for entry in entries[:per_query]:
+            add(entry, feed.get("topic", ""), feed.get("source", ""))
+
     for q in cfg.get("google_news", []):
         hl, gl, ceid = LOCALES[q.get("lang", "it")]
         url = GOOGLE_NEWS.format(q=urllib.parse.quote(f"{q['q']} when:2d"), hl=hl, gl=gl, ceid=ceid)
@@ -89,12 +96,6 @@ def collect(config_path: Path, max_age_hours: int = 36, per_query: int = 15, lim
         print(f"  {q.get('topic', q['q'])}: {len(entries)} risultati")
         for entry in entries[:per_query]:
             add(entry, q.get("topic", ""))
-
-    for feed in cfg.get("rss", []):
-        entries = _entries(feed["url"])
-        print(f"  {feed.get('topic', feed['url'])}: {len(entries)} risultati")
-        for entry in entries[:per_query]:
-            add(entry, feed.get("topic", ""), feed.get("source", ""))
 
     items.sort(key=lambda i: i["published"] or "", reverse=True)
     return items[:limit]
