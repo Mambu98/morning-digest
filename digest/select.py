@@ -60,8 +60,13 @@ Formato: [id] data | fonte | topic di ricerca | titolo
    - "for_you": 1-2 frasi su cosa significa per il portafoglio del lettore, confrontandolo con la sua tesi di
      allocazione (vedi profilo): la conferma, la mette in discussione o non la tocca?
    - "watch": uno spunto concreto a livello di asset allocation o di cosa monitorare (un dato in uscita, una soglia,
-     un tema). Mai raccomandazioni di comprare o vendere singoli titoli, mai trading di breve: il lettore ha
-     restrizioni di compliance sul trading personale. Se non c'è niente da fare, dillo ("nessuna azione: ...").
+     un tema). Se non c'è niente da fare, dillo ("nessuna azione: ...").
+   - "stock_ideas": 0-2 spunti su singoli titoli quotati, SOLO se una notizia tra i candidati offre un catalizzatore
+     concreto (OPA, deal, risultati, rating, cambio di guidance). Preferenza per small/mid cap italiane ed EGM e per i
+     temi del portafoglio. Per ciascuno: "name", "ticker" (null se non lo conosci con certezza),
+     "direction" ("Acquisto", "Vendita" o "Da monitorare"), "rationale" (1-2 frasi: il catalizzatore e perché),
+     "risk" (1 frase: cosa smentirebbe lo spunto), "id" (candidato da cui nasce).
+     Niente target price né numeri che non siano nei titoli. Se non ci sono catalizzatori veri, lista vuota.
    - "ids": id dei candidati su cui ti basi.
    Nessun numero che non sia nei titoli.
 
@@ -74,7 +79,9 @@ Rispondi SOLO con un oggetto JSON valido:
   "top_ranked": [{{"id": "id candidato", "category": "string", "tags": ["string"], "exploratory": false}}],
   "briefs": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
   "international": [{{"id": "id candidato", "category": "string", "one_liner": "string", "tags": ["string"]}}],
-  "market_pill": {{"what_is_happening": "string", "for_you": "string", "watch": "string", "ids": ["id candidato"]}},
+  "market_pill": {{"what_is_happening": "string", "for_you": "string", "watch": "string",
+                  "stock_ideas": [{{"name": "string", "ticker": "string o null", "direction": "Acquisto", "rationale": "string", "risk": "string", "id": "id candidato"}}],
+                  "ids": ["id candidato"]}},
   "deals": [{deal_schema}]
 }}
 """
@@ -305,5 +312,16 @@ def validate(raw: dict, candidates: list[dict]) -> dict:
         pill = {k: str(mp.get(k) or "") for k in ("what_is_happening", "for_you", "watch")}
         pill["sources"] = [{"title": by_id[i]["title"], "source": by_id[i]["source"], "url": by_id[i]["url"]}
                            for i in mp.get("ids", []) if i in by_id][:4]
+        pill["stock_ideas"] = []
+        for idea in (mp.get("stock_ideas") or [])[:2]:
+            if not isinstance(idea, dict) or not idea.get("name") or not idea.get("rationale"):
+                continue
+            c = by_id.get(idea.get("id"))
+            direction = idea.get("direction") if idea.get("direction") in ("Acquisto", "Vendita", "Da monitorare") else "Da monitorare"
+            pill["stock_ideas"].append({
+                "name": str(idea["name"]), "ticker": idea.get("ticker") or None, "direction": direction,
+                "rationale": str(idea["rationale"]), "risk": str(idea.get("risk") or ""),
+                "url": c["url"] if c else None, "source": c["source"] if c else None,
+            })
     return {"headline": raw.get("headline", ""), "top": top, "market_pill": pill, "briefs": briefs,
             "international": international, "deals": deals}

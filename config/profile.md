@@ -11,8 +11,8 @@ Obiettivo: Leverage Finance a breve, poi Londra/Parigi, poi buy side (private eq
 PAC mensile su un portafoglio prevalentemente azionario globale diversificato, con underweight USA,
 tesi su Giappone e infrastrutture per l'AI, una piccola quota in oro. Nessun private credit: tesi bearish
 (default in crescita, distribuzione retail). Orizzonte lungo: niente trading di breve.
-Ha restrizioni di compliance sul trading personale: gli spunti devono restare a livello di asset allocation e temi,
-mai singoli titoli.
+Vuole anche spunti di acquisto/vendita su singoli titoli quando una notizia offre un catalizzatore concreto
+(preferenza per small/mid cap italiane ed EGM e per i temi del portafoglio).
 
 ## Priorità (in ordine)
 1. Deal italiani con sponsor finanziario: LBO, secondary buyout, add-on, exit, con dettagli su struttura del debito (unitranche, TLB, high yield, banche/fondi coinvolti, leva).

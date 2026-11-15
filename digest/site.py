@@ -34,6 +34,11 @@ a{color:inherit;text-decoration-color:var(--line);text-underline-offset:3px}a:ho
 .pill-card h3{font:500 19px/1.3 Georgia,serif;margin:0 0 10px}
 .pill-card .lbl{display:block;font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-top:12px}
 .pill-card .src{font-size:13px;color:var(--muted);margin-top:12px}
+.idea{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.idea p{margin:4px 0}
+.idea .risk{font-size:14px;color:var(--muted)}.tick{font-size:13px;color:var(--muted)}
+.dir{font-size:12px;font-weight:600;border-radius:999px;padding:1px 9px}
+.dir.buy{background:var(--accent-bg);color:var(--accent)}.dir.sell{background:var(--down-bg);color:var(--down)}
+.dir.watch{border:1px solid var(--line);color:var(--muted)}
 .note{font-size:12px;color:var(--muted)}
 .row{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:8px}
 .votes{display:flex;gap:6px;flex-shrink:0}
@@ -122,12 +127,25 @@ def render_digest(d: dict, root: str) -> str:
     if pill:
         srcs = " · ".join(f'<a href="{escape(x["url"], quote=True)}" target="_blank" rel="noopener">{escape(x["source"])}</a>'
                           for x in pill.get("sources", []))
+        ideas = ""
+        if pill.get("stock_ideas"):
+            rows = []
+            for i in pill["stock_ideas"]:
+                cls = {"Acquisto": "buy", "Vendita": "sell"}.get(i["direction"], "watch")
+                tick = f' <span class="tick">{escape(i["ticker"])}</span>' if i.get("ticker") else ""
+                src = (f' · <a href="{escape(i["url"], quote=True)}" target="_blank" rel="noopener">{escape(i["source"] or "fonte")}</a>'
+                       if i.get("url") else "")
+                rows.append(f'<div class="idea"><div><span class="dir {cls}">{escape(i["direction"])}</span> '
+                            f'<b>{escape(i["name"])}</b>{tick}</div><p>{escape(i["rationale"])}</p>'
+                            f'<p class="risk">Rischio: {escape(i["risk"])}{src}</p></div>')
+            ideas = '<span class="lbl">Spunti su singoli titoli</span>' + "".join(rows)
         parts.append(f"""<h2>La pillola dei mercati</h2><section class="card pill-card">
 <span class="lbl">Cosa succede</span><p>{escape(pill.get('what_is_happening', ''))}</p>
 <span class="lbl">Per il tuo portafoglio</span><p>{escape(pill.get('for_you', ''))}</p>
 <span class="lbl">Da tenere d'occhio</span><p>{escape(pill.get('watch', ''))}</p>
+{ideas}
 {f'<div class="src">Basato su: {srcs}</div>' if srcs else ''}
-<div class="note">Spunto informativo, non consulenza. Prima di qualsiasi operazione verifica le regole sul trading personale.</div></section>""")
+<div class="note">Spunti informativi generati in automatico dalle notizie, non consulenza finanziaria: verifica sempre prima di operare.</div></section>""")
 
     for key, label in (("international", "Dal mondo"), ("briefs", "In breve")):
         if not d.get(key):
