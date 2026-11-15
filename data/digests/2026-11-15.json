@@ -1,50 +1,57 @@
 {
- "headline": "Digest di prova (modalità mock): nessuna chiamata a Claude.",
+ "headline": "Mercati in attesa di rialzi dei tassi da Fed e BCE, mentre Brookfield e KKR si contendono deal e il mercato guarda all'IPO di Anthropic",
  "top": [
   {
-   "id": "f10af6d7e0",
-   "title": "Estonia: border crossings with Russia to close from 1 December",
-   "source": "Il Sole 24 ORE",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHRwQ0hra00xRmJMeFU5cDZ3N1g3V2dRenA4SGdfRkdfcVBybXlFamZQaDgzYkl5VXJXSXg1ZlMyUHlDNnVHU0p4OHZWN0N2eVhDZnU2TW1Ddlc5eFVCSGxCLWlOaXo4STRLYXRzZWxaeUNFLXNna0p4ZnZrdWdzRE45OXhDY1VmQ25IekVSX3dOX0lJR3BfaGtLa1p6QQ?oc=5",
-   "published": "2026-11-15T16:10:44+00:00",
+   "id": "787b5ce5db",
+   "title": "Il private equity ora punta sugli studi dei commercialisti: un mercato da 20 miliardi che promette ricche exit",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSUs4TjVLaGVCRWlFX2hDT3otTTJmZHRURVVseWVhckQ5c2J2d0Z0Vk01VUJyWXRsNVZSUDk4WFZIblhOb1l3Rjg2OUkzSG1DRnFXNjNZX0NoM1V1cmZvc1JTNDJmLVFFYTlWSGgxWFZfOWZnSm5YUVlrYllEU3otOE5XTy1BS3NVMEFfeXdJM0FMcGZBNzRpNFFuRTV6aVJGa0dsS0p6Wk4zbmMyV1RReHdOTEtJNVJsRXpralhnbDNJYmRhTVRFWVgyWFYtakd5cEVmVlVJd3hYVjVXajdWdVdfaFphVkVUYTJpMHFB?oc=5",
+   "published": "2026-11-15T06:00:00+00:00",
    "category": "LBO / PE Italia",
    "tags": [
-    "test"
+    "private equity",
+    "commercialisti",
+    "exit",
+    "Italia"
    ],
-   "summary": "Testo di prova.",
-   "why_it_matters": "Testo di prova.",
+   "summary": "Secondo Milano Finanza, il private equity sta puntando sugli studi dei commercialisti, un mercato che il titolo stima in 20 miliardi e che promette ricche exit. Non è stato possibile leggere l'articolo: la sintesi si limita ai fatti del titolo.",
+   "why_it_matters": "Il tema è il consolidamento di studi professionali con strategie di buy-and-build. Per un banker LevFin può significare nuove piattaforme sponsor-backed e acquisition financing, ma servono i dettagli dell'articolo per giudicarlo.",
    "verified": false,
    "exploratory": false,
    "original_url": null
   },
   {
-   "id": "f7dc376f06",
-   "title": "The Fed May Need to Hike Rates Higher Than Markets Expect",
-   "source": "Mott Capital Management",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWVCZGJCNW1Na0tsamZSYWFyeW1IaV9tVzdtdmUwaWotcDNhWWRYNGY0NlNyeWN4ellYTFJLcWdqZVBVeDV2Mzk1WGdyZEphbG5wTDR4SXptS2FtRURITndxc0trak5QWUp3T280ZUpxT1RHZ2lPWjFLQklEUkNqcnY3RWFsSThkQ2tpUFQ3R2N1aEE?oc=5",
-   "published": "2026-11-15T14:43:33+00:00",
-   "category": "LevFin & Private credit",
+   "id": "cc71226645",
+   "title": "Markets still pricing in two more ECB rate hikes",
+   "source": "The Irish Times",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEZob0xWLTJNSVJ1cXpQbUxSb25ob0VLd3lQVFNvaDVmRUhMTlZGT2pfdmk0NGN3OFdJaHFUVnRVamFCY0gwN0xoQUVIeXpXTHR0MkpMdW5rM1B6ZnVaMzBDTUhIVFFVR21GeW5jN012d1lfa3kzaUUxLUoxcnBOVEt3VUtEQng2WWswS0lianNQejhucW1ybTczRFA?oc=5",
+   "published": "2026-11-15T06:08:55+00:00",
+   "category": "Macro & Mercati",
    "tags": [
-    "test"
+    "BCE",
+    "tassi",
+    "mercati"
    ],
-   "summary": "Testo di prova.",
-   "why_it_matters": "Testo di prova.",
+   "summary": "Secondo The Irish Times, i mercati prezzano ancora due ulteriori rialzi dei tassi BCE. Non è stato possibile leggere l'articolo: la sintesi si limita ai fatti del titolo.",
+   "why_it_matters": "Se i mercati si aspettano altri rialzi, il costo del debito floating resta alto. Questo pesa su leva sostenibile, interest coverage e pricing dei financing LBO.",
    "verified": false,
    "exploratory": false,
    "original_url": null
   },
   {
-   "id": "88a3bfda24",
-   "title": "Ultim'ora news 15 novembre ore 9.00",
-   "source": "Milano Finanza",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckdnY0FZNjNkWUcwX2Qwd1h1TmV5ZXR4aVMyem5ybEdqcTlOOGd2eWVGYk93SEZpYzRUcm45aElSZzl6OTFwQW03X2cxaTQzZ0YzYlZsZnZINnNhekJheE5VUEtwZ3NqcHJ6ZXBxdS1Kb2FRcXdJRVRuLXdDOFFhaDVvN05JYms?oc=5",
-   "published": "2026-11-15T14:34:34+00:00",
-   "category": "Fondi PE",
+   "id": "b2c9ecb6a7",
+   "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm45cDJUeFgxT1F6ZFN5aF9xQVViT3BBZk5vXzRxMnVPRkNYU3MwZ0t0T3pTMHItRFY5Q0tyMVI1VV9GbXVaZlRnQVRTcXJLQ2ZwZzBCbUhRdkhpdjJBWlNSYlF2VVc3cFMwUFdPVUZYMFNjdFZMcVY5eHhMRjZoS3JvMkY?oc=5",
+   "published": "2026-11-15T05:05:37+00:00",
+   "category": "LBO / PE Italia",
    "tags": [
-    "test"
+    "Brookfield",
+    "KKR",
+    "bidding"
    ],
-   "summary": "Testo di prova.",
-   "why_it_matters": "Testo di prova.",
+   "summary": "Secondo il Financial Times, Brookfield e KKR sono in competizione per un'operazione da 700 milioni di dollari sul retailer del Golfo Eyewa. Non è stato possibile leggere l'articolo: la sintesi si limita ai fatti del titolo.",
+   "why_it_matters": "Due grandi sponsor in gara per lo stesso asset indicano un mercato consumer del Golfo competitivo. Un'operazione di questa taglia potrebbe richiedere un financing, ma dal titolo non emerge nulla sulla struttura.",
    "verified": false,
    "exploratory": true,
    "original_url": null
@@ -52,54 +59,127 @@
  ],
  "briefs": [
   {
-   "id": "673c597240",
-   "title": "US: a further 1,500 flights cancelled today; services expected to return to normal this evening",
-   "source": "Il Sole 24 ORE",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZFZjQzlGdHREM3pCWUF6NE4tS0UwTll4NEZpX0RjSi1IaWI3QmtFSUVoZU1HbW5TZHFTZG1neFFaWG95cUZvSFZsYWZVcHpiTnByLS1haGdTS2J3VVZNb2JJbDBUbktrMDUwa3dnMHBiUjctckxHWE92emRYOXlxRjFZb3dKQ0xMM2dNY2hFSkVvTjcwWVNLS01ZU3l1dm9sY0Z3bG10ck8tMFJjdGI2XzZEZEVhWl9RMy1GMlJIRF9uRUcxTlluVmdnM3pBMkxQQjJ5UURicVkzMEE?oc=5",
-   "published": "2026-11-15T13:43:14+00:00",
-   "category": "LBO / PE Italia",
-   "tags": [],
-   "one_liner": "US: a further 1,500 flights cancelled today; services expected to return to normal this evening"
+   "id": "7f8cedb366",
+   "title": "Hikes Backed by Fed Officials; Nagel Signals ECB Hike | 14 Nov 2026",
+   "source": "www.tmgm.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkVZcXk2MGxoOGJOdWJNSzZsNVFfZGstaVNfZlp4cmVsX1dxZUkwcmZaeXYtaTYwajdWMXhKZS1iV3RuMVVsd19ESE1zS2tzR3Y4VlJZYWtMdjZ6d05vZTRUU3FkVVp5YjFLTW9EYkxMcnJHUll6X2xzblA0WTRTQg?oc=5",
+   "published": "2026-11-15T09:11:04+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Fed",
+    "BCE",
+    "tassi"
+   ],
+   "one_liner": "Funzionari Fed favorevoli a rialzi dei tassi; Nagel (BCE) segnala un possibile rialzo: il tono delle banche centrali resta restrittivo."
   },
   {
-   "id": "13f2b9c7c4",
-   "title": "Ultim'ora news 15 novembre ore 7.00",
+   "id": "f7dc376f06",
+   "title": "The Fed May Need to Hike Rates Higher Than Markets Expect",
+   "source": "Mott Capital Management",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWVCZGJCNW1Na0tsamZSYWFyeW1IaV9tVzdtdmUwaWotcDNhWWRYNGY0NlNyeWN4ellYTFJLcWdqZVBVeDV2Mzk1WGdyZEphbG5wTDR4SXptS2FtRURITndxc0trak5QWUp3T280ZUpxT1RHZ2lPWjFLQklEUkNqcnY3RWFsSThkQ2tpUFQ3R2N1aEE?oc=5",
+   "published": "2026-11-15T14:43:33+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Fed",
+    "tassi"
+   ],
+   "one_liner": "Secondo Mott Capital la Fed potrebbe dover alzare i tassi più di quanto prezzato dai mercati."
+  },
+  {
+   "id": "d65c622b28",
+   "title": "BOE likely to raise rates further in 2027, Pill tells FT",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2ducEF3N0xMWVJrb1FlVXpqcEZURldrX0dKNUZlWHI1akMtZmNyNTQtUkNCc3AxSVY4b09hY0QtM3J2QVdpWmE2TXdidUZOcDFBa0JfSFpndWlKUzFqZjFlN1V5MW5XckNHcVF1M1J2NGNvSHRqOGpGMU92Z2dsSU1fNTZIdnJSMXg2cmVfMU5Jd01sVDBsUGp3?oc=5",
+   "published": "2026-11-14T06:59:00+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "BoE",
+    "tassi"
+   ],
+   "one_liner": "Pill (BoE) al Financial Times: la Banca d'Inghilterra probabilmente alzerà ancora i tassi nel 2027."
+  },
+  {
+   "id": "b13f40af3f",
+   "title": "S&P conferma il rating dell’Italia: outlook positivo, debito in calo dal 2028",
    "source": "Milano Finanza",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzI1MzJxRVBaNVl6dG5TaW9UR2lJcDV5QXpIMV9hYTEtSVhzV3ZMY09TX2c0OEFHZXdVU01nYzJ5azYxVFFJVmprYXBpTXlGTXhFS24zNklXNnMtTHhHOFk2UlE1Yk1KT25WYl9CWTZMVE0xRDJiSkFNek1iYm9SS0tCckZ6T0k?oc=5",
-   "published": "2026-11-15T12:34:34+00:00",
-   "category": "LevFin & Private credit",
-   "tags": [],
-   "one_liner": "Ultim'ora news 15 novembre ore 7.00"
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGxldWdjN0hBZlJBdHAwQmpGS3lnZzFLbXpTbTQzbnB3aEpJeGNSRXdnRU9SOHpZd3czU053bmlPME9ZRGQ5TjFHT0ZObnpWOG96cTZ3VktkbGtaVTRuOTVNQ0x1QmZMd1QtVWhyMmNRU1RoelRSb1B6djRkb0FsRXBiem5KWWd0U3pGWlJHb2Zuc3ROc1N0YUt5UF9uWlR6WUdacWNMZ2VMNXFVanNvQzFNV2MxbFBmOThmaGNkbC1SSDBpczdv?oc=5",
+   "published": "2026-11-14T07:00:00+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "rating",
+    "Italia",
+    "S&P"
+   ],
+   "one_liner": "S&P conferma il rating dell'Italia con outlook positivo; il debito è atteso in calo dal 2028."
   },
   {
-   "id": "17bbe7b2f3",
-   "title": "How a Single Router in Arkansas Brought U.S. Flights to a Halt",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmtJcFlBUXN0X1lxN3c2S2NaejJ4YllIeXJlTk9VRW1UQ1VaRnY4V0E0YXNFcHBYMXRaZXlKdW85RE5HcjduV2JBRHhNZnNVTXVrZWNCRDRlYU05eXFfeGZNa2dFZkVkUHR0TXVxdmlFeEZfNlFHbU5HcnAxZGNlR19mNDZfb2dNUkpOdGJEaHJ1OU1YNnhrT2ZmbW1rdHRq?oc=5",
-   "published": "2026-11-15T12:06:00+00:00",
-   "category": "Fondi PE",
-   "tags": [],
-   "one_liner": "How a Single Router in Arkansas Brought U.S. Flights to a Halt"
-  },
-  {
-   "id": "3b5ab32c31",
-   "title": "Ultim'ora news 15 novembre ore 12.00",
+   "id": "0c85061d17",
+   "title": "Piazza Affari, le 15 azioni più sottovalutate: possono salire di oltre il 50%",
    "source": "Milano Finanza",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjRUUGlYZENVZTc4Uk5kcWllX1A4ZjQtS1BWRUQ1a3BTdFlkRTRHTzJ0S0Zhb2VfQVlCRmk1V0Z6aGFLbjBjUnRhazRCR3g0NEJ3RTBsM1BfWDdXRmlaWkozVVh0TTM1WmtyMTF3WkVZOUdIdm9OYVVGTVBmZm1ZTHdlZFdBLUFT?oc=5",
-   "published": "2026-11-15T12:00:00+00:00",
-   "category": "M&A Italia",
-   "tags": [],
-   "one_liner": "Ultim'ora news 15 novembre ore 12.00"
-  },
-  {
-   "id": "61a855f899",
-   "title": "The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike.",
-   "source": "The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemRLQW1CSmhlTDBXdzR6elNfeEsyNFl1bDBYanp6TkY5YklZTldqTFRfQUUzZzlnUXFFcUNoRjBkbmRCMVlzcy1XbUhpc2VQTVBZNzZ3TWtKLTRhdm9GcllpeVdDakFyX2hsTE1BR3lFd0VaUDJQVlZ5bkJxSUJDd3JIRE5PT3k4VG1tby0zRDV4MDdBTGN4cEpvckdqbko0RTBXMkJxaUp4c0xhWWNPRmtBTQ?oc=5",
-   "published": "2026-11-15T11:56:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUS1jdmwxWUo2RXJyR3NBdnhuY2VNWV9vclAxRU91Rjh6ZkJQdmtrSUVkZU5iOGJoX1VGSndNTE96T0ZRZWVXN2RTY3pqUE9CZEE4TmxWSmx0NGJVTWUxSm9FbUkwMnY5aU5adm5JelEwTk9lNGc4WTN1YTZRaTRBcVNYWFVSamF2OGp6cXFCS2JaOWJmLTdIQmlqaUhESUpHQUFqY1MzRl95NmVVWTNTSzk3Q21JSU5GdTMyZVpfNDN4X0R5bEE?oc=5",
+   "published": "2026-11-14T08:00:00+00:00",
    "category": "Piazza Affari / EGM",
-   "tags": [],
-   "one_liner": "The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike."
+   "tags": [
+    "Piazza Affari",
+    "azioni"
+   ],
+   "one_liner": "Milano Finanza seleziona 15 azioni di Piazza Affari ritenute sottovalutate, con potenziale di rialzo oltre il 50%."
+  },
+  {
+   "id": "331e8b15d4",
+   "title": "Nominations Private Equity Backed Managers Awards 2026",
+   "source": "BeBeez",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04YVpDMUUxbWhCdDZBUFVNVkVndDdnYjdicUtmRWZ6Y3dNZ3NvMVI1MHBucEY5MUFONFZ2N1FBR1dnT2kzY3V6eTBaWVZtMWI5VWtTeWExNGozMWR4aGhlV2dqUGFNci0wZEMzUFJsSWpxQ3I3UGxfTGpLRWM0UQ?oc=5",
+   "published": "2026-11-14T07:42:11+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "private equity",
+    "BeBeez"
+   ],
+   "one_liner": "Pubblicate le nominations dei Private Equity Backed Managers Awards 2026 di BeBeez."
+  },
+  {
+   "id": "ac2f8a1ae1",
+   "title": "Form 4 Audax Private Credit Fund: Audax Private Credit Business, LP (10% Owner) For: 11 November",
+   "source": "Investing.com Australia",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX0EtUE9zQjZyc19tbnF4Q1pkQ0RJMGVKRzZHbXdXQ2NpRWJnLVZELXF2WXhzdThmcWdvVzVyVWhHcmotRUl6VzFReTdVVXNBcFhoWXpPWm5sNDU1N1dnQjFhYy1hVFBtb2tBemlOX1ZjVTZlMlNvN3NYdGkwa0pZX2daWlY0OVBSZHBiZmJLbU9UR0ZYakdwTGJpUVFTWEVuUGpWVzVuY1RKRFk4QmdDeGh6bUdybThGc1hfbkN0REVwNjVkTk9aUWxyTlBINFp2UjZCS0k5UDRiYTRHZDlkcnFWS0tMdw?oc=5",
+   "published": "2026-11-14T07:23:30+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "private credit",
+    "Audax"
+   ],
+   "one_liner": "Depositato un Form 4 relativo ad Audax Private Credit Fund, con un 10% owner coinvolto."
+  }
+ ],
+ "international": [
+  {
+   "id": "3d564f9839",
+   "title": "Brookfield Consortium Progresses to Next Round of Uniper Sale",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcC1qZ3RFQldqYjZxcFhIc1B3V1dKSHpCZWk3QzFuWG14TkhpUXJrREJTSFBWLVhzWVV3R3BEODl4dlJLNVBwVU9SY3hTckNTTW1HQjNSSDAtekEwNGNXWHg5UHc4ZTJaN3JBWEVzSHgxV2hDMHJ6bHM3Q2JjcUxtRENvQVFIc1F6N0dOeElQNGhadVlTYl9uakFHNlNtYWtzODVRU3psOW5ZZ0pyeHFOdERB?oc=5",
+   "published": "2026-11-14T09:49:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Brookfield",
+    "Uniper",
+    "M&A"
+   ],
+   "one_liner": "Il consorzio guidato da Brookfield passa al round successivo nella vendita di Uniper, grande operazione infrastrutturale-energetica europea."
+  },
+  {
+   "id": "17dd449290",
+   "title": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+   "published": "2026-11-14T06:08:00+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "Blackstone",
+    "AirTrunk",
+    "data center"
+   ],
+   "one_liner": "Blackstone avanza con AirTrunk sul progetto da 11 miliardi di dollari per data center in India, segno della corsa alle infrastrutture AI."
   },
   {
    "id": "55301687fb",
@@ -108,62 +188,267 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
    "published": "2026-11-15T11:40:44+00:00",
    "category": "Macro & Mercati",
-   "tags": [],
-   "one_liner": "Anthropic’s IPO is the next big test for AI"
+   "tags": [
+    "IPO",
+    "AI",
+    "Anthropic"
+   ],
+   "one_liner": "L'IPO di Anthropic è considerata il prossimo grande test per il settore AI e per l'appetito del mercato."
   },
   {
-   "id": "4c6ab9990a",
-   "title": "Airsys invests in digital boiler startup ThermAI",
+   "id": "189efe970f",
+   "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2M4WFhnN3pNbDFEdzlOV2IzVnlOV0d6a0hBVEU0U25rVHpEeWludHZ3TXZHemdMQWh3X0VKUTZucE5UNVVzUHdjSkpyZEZoNUhReWFOTWNHTzU3UHJZNVlHWVQ0UjZCMmd3YnZLMWxFUE1hU2lacDJUUjNEenlFSTBvUWwxNTJ2YnBzOTQ0N2hUV1VCMVU5Uk8wNXpHdXM4alNxeTNmbDVZZ0VyZHlUNUpNY0Y?oc=5",
+   "published": "2026-11-14T09:00:19+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Nvidia",
+    "AI",
+    "mercati"
+   ],
+   "one_liner": "Wall Street si prepara a una Nvidia dopo Jensen Huang, con possibili ripercussioni su valutazioni e mercato del credito."
+  }
+ ],
+ "deals": [
+  {
+   "date": "2026-11-15",
+   "target": "Eyewa",
+   "buyer": "Brookfield / KKR (in competizione)",
+   "seller": null,
+   "deal_type": "M&A (acquisizione, in fase competitiva)",
+   "sector": "Retail (ottica)",
+   "country": "Golfo",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm45cDJUeFgxT1F6ZFN5aF9xQVViT3BBZk5vXzRxMnVPRkNYU3MwZ0t0T3pTMHItRFY5Q0tyMVI1VV9GbXVaZlRnQVRTcXJLQ2ZwZzBCbUhRdkhpdjJBWlNSYlF2VVc3cFMwUFdPVUZYMFNjdFZMcVY5eHhMRjZoS3JvMkY?oc=5",
+   "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa"
+  },
+  {
+   "date": "2026-11-14",
+   "target": "Uniper",
+   "buyer": "Consorzio guidato da Brookfield",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Energia",
+   "country": "Germania",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcC1qZ3RFQldqYjZxcFhIc1B3V1dKSHpCZWk3QzFuWG14TkhpUXJrREJTSFBWLVhzWVV3R3BEODl4dlJLNVBwVU9SY3hTckNTTW1HQjNSSDAtekEwNGNXWHg5UHc4ZTJaN3JBWEVzSHgxV2hDMHJ6bHM3Q2JjcUxtRENvQVFIc1F6N0dOeElQNGhadVlTYl9uakFHNlNtYWtzODVRU3psOW5ZZ0pyeHFOdERB?oc=5",
+   "title": "Brookfield Consortium Progresses to Next Round of Uniper Sale"
+  },
+  {
+   "date": "2026-11-14",
+   "target": "AirTrunk India (data center)",
+   "buyer": "Blackstone",
+   "seller": null,
+   "deal_type": "Financing",
+   "sector": "Data center",
+   "country": "India",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjZGdmhabDdHUW1DbVY4OU85NW5jSW0wY21GTEVvNk1GZUdLZWtYaUw5NkZGVm1xcjk1aTN4Q1hrcUI5S1NoNkUzX09STTZFUEFKRVJveXJ2Y1haVHlGVmxlcUxJUjFWLTJkbmV5QkVOYlN0X01LTElJN09RRkhHMkw1Tk53c2xfZTAzUGtYQ0FCVkI1Uk5BLWtTSmNhOEJaQklXUU5HRmJFbjA2WVE4ZnBUZ3g?oc=5",
+   "title": "Blackstone’s AirTrunk Advances $11 Billion India Data Center Bet"
+  },
+  {
+   "date": "2026-11-14",
+   "target": "Cheplapharm",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Financing",
+   "sector": "Farmaceutico",
+   "country": "Germania",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkl0YWsxR1U3WGZ3S1RzZWpBcFFMOFgzVERUVjR2V0xUSHFLMzg1cmNxQldfLThiWC1UNVV3RmxTbzl4YUhfNFlEYkdIUjhXWUdrYmRmVEdSeVo3bDNJTlRRUUtKQXNfRldhUXVIX0JibUJzX2Q4cVg2aTNybDRtcVhiRGdPQXJEaVhSVVZFVktNMEU5T3pwZ2FVVXRjVjBBd2ZIUjNB?oc=5",
+   "title": "Cheplapharm raises €390M in private note placement to fund Sanofi deal"
+  },
+  {
+   "date": "2026-11-15",
+   "target": "ThermAI",
+   "buyer": "Airsys",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": "Tecnologia / riscaldamento",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
    "source": "BeBeez International",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDJGQVN4ZUNsemRRcXZrSnQ4SXp3UzJRaWRnUHdDbDBZNU8xbU15SS1KZ18tallxN0g1NFRyN05YWFdsblFKaC1BbGNMdDREMzlBSElGaU8tRmVuakM5X0FTd3M1ZFZVZC1Da18xd05DU01aOXBoWmhxWng2d1lCNVcxQmE?oc=5",
-   "published": "2026-11-15T11:11:10+00:00",
-   "category": "LBO / PE Italia",
-   "tags": [],
-   "one_liner": "Airsys invests in digital boiler startup ThermAI"
-  }
- ],
- "international": [
-  {
-   "id": "fc138e86cd",
-   "title": "ESG Today: Week in Review",
-   "source": "ESG Today",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVlZPcTdJQUtRcjdpWW1PYmk3MjZrR0dWa2ZLZGd6eHNhVjVDZkZIR3U5OG5OTjJvQWMzRTl2dkZKdmFjejZrbUg0dzg3dVg3UHM1c0lVVnVDM2FPeXV5bFE2Y3g?oc=5",
-   "published": "2026-11-15T10:51:44+00:00",
-   "category": "Macro & Mercati",
-   "tags": [],
-   "one_liner": "ESG Today: Week in Review"
+   "title": "Airsys invests in digital boiler startup ThermAI"
   },
   {
-   "id": "a1540a23d1",
-   "title": "Ethereum Tumbles As Rising Fed Rate Hike Odds Trigger Crypto Selloff",
-   "source": "MarketForces Africa",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1hiLS15amtGVVYtdUpRTDZtZjFqM0dNNkFhN1otMHlBUFJFMUNfNlZZdXdCaXRBY3BiTFVCaEM0SUowdlZtYVVHNXBMdXp1X0ExV2NvWXZkdDdwdnA5cndNWlRYOGR1T2U5UHlSN0l5VVZ4Ti1zSlNpWWZlWXZJTW9EY3VXZXJWTGFITDF1a1VGalp4dHhiWkRtQQ?oc=5",
-   "published": "2026-11-15T10:51:07+00:00",
-   "category": "Macro & Mercati",
-   "tags": [],
-   "one_liner": "Ethereum Tumbles As Rising Fed Rate Hike Odds Trigger Crypto Selloff"
+   "date": "2026-11-14",
+   "target": "Due data center ad Amburgo",
+   "buyer": "Westend Real Assets",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Data center",
+   "country": "Germania",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez International",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2ViSzhhUjdlYXBsVHAtTXhfaE1jdV9WdXZzbGZMaDhPRGIyU2FNek5WVXBEY0x1UkVNcjY1Tl9CVHhyLW9FLXZvdjJvMjlON0xKZk5ueHQtZ1lSd1BQczFTMWNVUjA3dlUxdzROQnpRdm9ZNm9tdU9HTXZQUVZyRWNxQ2hQVTJ6T1E2NzlweXF2RDlMbWZZ?oc=5",
+   "title": "Developer Westend Real Assets buys two data centers in Hamburg"
   },
   {
-   "id": "51c1ec8e49",
-   "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+   "date": "2026-11-14",
+   "target": "Hytech",
+   "buyer": "Advanta",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Agricoltura / sementi",
+   "country": "Africa",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez International",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmdBTTFNRHBIMnpLdzczMzFCYnFpZEVQNE9tRFFBWFJXY0ZiRl8wTlZPTDBKRTJfQkpOM0tMdjctUWkyU21HdkhJRzBkUnFTVk9pNlR4WkVzU09KRFdrbENNTmNMNnEtRnd3c1c1SDdwUllDalhna1gxeW9tOUZlR09Rc2ZMaVlOMnB1RmJ1M005U0lJNEVVWXZEdUh3VGx5WWN3LWFoWlV6a3UxT0RmZldfOHQ?oc=5",
+   "title": "Advanta To Strengthen Market Presence in Africa with Strategic Acquisition of Hytech"
+  },
+  {
+   "date": "2026-11-15",
+   "target": "Nebuly",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "AI",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "news.lavx.hu",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1JKMnFuY1dLZ2Jrb3Y4U0NkMEthUjBPNmhPR1dzZ2RXOXNpeElaR2tXaG9FRFZCRWp1V1kxYWoxT3R0R3RERlgzemtFeUxRS3dUbVFkYnlRSU1URjhVQlpINndWZDlQTk1FMmU3MkhoNjJvMFJiT1BzSFlNU3MyS0RGR2ZNd2d3TmZEOHJES18?oc=5",
+   "title": "Nebuly raises $21 million to measure the value of AI agents"
+  },
+  {
+   "date": "2026-11-15",
+   "target": "Startup di cybersecurity (non nominata)",
+   "buyer": "Goldman Sachs",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": "Cybersecurity",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
    "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
-   "published": "2026-11-15T10:30:00+00:00",
-   "category": "Macro & Mercati",
-   "tags": [],
-   "one_liner": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI"
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVh0Rk9oRUliWUpZRkFhRG5hWUU1THYyb3B1SW9NdVpNU0RETlZMLVowT0d1MFNEc2hfeUlWbnY5ZzhQUEI5U3pUMnQ4V1lIVlcycjlUOVpzdDFYRWMxUDRETGFBSXNUVng1T2hLUmlYWExzd3ZRZVZNdFk4MWZySWlsUjFhTkRSSTZkUFo2X2xTMUpObllyaWZCbVJia3pOMXdSNkRqUlhSbEpiMWJBWmthekhXZVBYVDl0YVdzVQ?oc=5",
+   "title": "Exclusive | Goldman Leads Investment in Cybersecurity Startup at $400 Million Valuation"
   },
   {
-   "id": "b2435f41c8",
-   "title": "Bond, è ora di allungare le scadenze in portafoglio? Così i gestori guardano oltre il breve",
+   "date": "2026-11-14",
+   "target": "Zacua Ventures",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Venture capital / tecnologia industriale",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclQ2eVFVV3hBNXBHVkRXdWpXWk9TVlJoMjlJMmZQVkNvRVA3eEpkT1R5QVN4SVE2XzZmdnBsS3lWaURJU2FDSWtjVWZUT3dMdUJqUEVxai1zZGptdnZnWHZrVWRGcUlFa0xJaWI3ckV2MzdMTnNjbzVCU1hWNU1GX2VKbG9GV3BYa1B2ZnFna1p4X1VuR191b1dTbGJjNC1KTEFHQk1zYkN1NXpzRUZaejlTRFpCQTg?oc=5",
+   "title": "Exclusive | Zacua Ventures Raises $135 Million For Heavy-Industry Technology Bets"
+  },
+  {
+   "date": "2026-11-14",
+   "target": "UFORCE",
+   "buyer": "UK wealth fund",
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Difesa / droni navali",
+   "country": "Regno Unito",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMHNOQzktSExWc3pzUThzQ0RmeWJrUU5WcmhWNXVTajRxdl9ndXVoMFFMQUR2ZHM3ZmF2cGpwdGpuRmhQVkVfNDZoTWNoUG9UUHhXQ2dCaUVGUFlMSlVpdUVTamNNel84VE9SdFEySHlnSEFwbm9vWEx4RmdyQUpMWU1SYmZqZHExMjdKbUp1bTB0c1NrTERyVHo5TEdTX1UzZVdlTXhYUEJ3d0ZtQWJuMlpmU05aSEszN1FDZURzS0JIVnJGRjJndmZPYS1hdXB4TmpzX0swUGV4WFFE?oc=5",
+   "title": "UFORCE Raises $700 Million: UK Wealth Fund Touts British Drone Boats, CEO Puts Ukraine First"
+  },
+  {
+   "date": "2026-11-14",
+   "target": "Humain",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "AI infrastructure",
+   "country": "Arabia Saudita",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWdkMTJqbGJZc1N4dE1nMUsyT2Fva2VNNTZWZzVFS2RCalhnaHdWRGY1dzBKemhySDM2WVI0MWFOemR0RVJkeUxxc3ZnZlRqMjQ3QTNGTGRvMGFlY1k1QVI3SmFYaWllU1Vxd0xTTDVkVWxlT2NHbXZrbE9naWpoR0pYaGZ0dUFuQlFtNm9hZ0M4b0JFWjhNNXJ3?oc=5",
+   "title": "Humain raises $667m for AI buildout in Saudi Arabia"
+  },
+  {
+   "date": "2026-11-15",
+   "target": "Studi di commercialisti",
+   "buyer": "Private equity",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": "Servizi professionali",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
    "source": "Milano Finanza",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNkZEVHZGazNnSXNpRDMwLTRXNTFwbjRrRnpQSW1ObjBnMlVhb0lIMG1YclpyOFBSSXQxWHNONS1TbzdjLXlGYUVQSVcwWTUwRzA0ZWstWncwS3llV2VFNTR3NGwyczJUaGR4cjdaakFXYlJ5eDRJeVZscG9XTnJJanEwYUh4OHI0RF9EVUZwTGEtTzNFUDNSZmp6aW9vUi1IdFdGOUhfT09JT3lzOWdQQ0FlOF8tWHlSNkdwNUN2QTZ4MVBnUWRBTS1DVTFTdHU2Vlg4ei00Vno2Zw?oc=5",
-   "published": "2026-11-15T10:00:00+00:00",
-   "category": "Macro & Mercati",
-   "tags": [],
-   "one_liner": "Bond, è ora di allungare le scadenze in portafoglio? Così i gestori guardano oltre il breve"
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSUs4TjVLaGVCRWlFX2hDT3otTTJmZHRURVVseWVhckQ5c2J2d0Z0Vk01VUJyWXRsNVZSUDk4WFZIblhOb1l3Rjg2OUkzSG1DRnFXNjNZX0NoM1V1cmZvc1JTNDJmLVFFYTlWSGgxWFZfOWZnSm5YUVlrYllEU3otOE5XTy1BS3NVMEFfeXdJM0FMcGZBNzRpNFFuRTV6aVJGa0dsS0p6Wk4zbmMyV1RReHdOTEtJNVJsRXpralhnbDNJYmRhTVRFWVgyWFYtakd5cEVmVlVJd3hYVjVXajdWdVdfaFphVkVUYTJpMHFB?oc=5",
+   "title": "Il private equity ora punta sugli studi dei commercialisti: un mercato da 20 miliardi che promette ricche exit"
+  },
+  {
+   "date": "2026-11-15",
+   "target": "Anthropic",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "IPO",
+   "sector": "AI",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5",
+   "title": "Anthropic’s IPO is the next big test for AI"
   }
  ],
- "deals": [],
  "date": "2026-11-15"
 }
