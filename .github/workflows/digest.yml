@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       mock:
-        description: "Prova senza chiamare Claude (sito con testi finti)"
+        description: "Solo prova tecnica: niente Claude e nessun salvataggio (lasciare SPENTO per il digest vero)"
         type: boolean
         default: false
 
@@ -49,6 +49,7 @@ jobs:
         run: python -m digest.run
 
       - name: Salva su GitHub (Cloudflare pubblica in automatico)
+        if: ${{ !inputs.mock }}
         run: |
           git config user.name "morning-digest-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

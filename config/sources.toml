@@ -25,11 +25,6 @@ url = "https://www.bebeez.it/feed/"
 source = "BeBeez"
 topic = "BeBeez (feed diretto)"
 
-[[rss]]
-url = "https://www.financecommunity.it/feed/"
-source = "FinanceCommunity"
-topic = "FinanceCommunity (feed diretto)"
-
 [[google_news]]
 q = '"private equity" acquisizione OR rileva OR maggioranza'
 lang = "it"
@@ -49,11 +44,6 @@ topic = "Debt financing Italia"
 q = 'site:bebeez.it'
 lang = "it"
 topic = "BeBeez (private markets Italia)"
-
-[[google_news]]
-q = 'site:financecommunity.it'
-lang = "it"
-topic = "FinanceCommunity (deal e advisor Italia)"
 
 [[google_news]]
 q = 'site:milanofinanza.it private equity OR acquisizione OR fondo OR M&A OR finanziamento'
