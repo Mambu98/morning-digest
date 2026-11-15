@@ -1,0 +1,48 @@
+[
+ {
+  "id": "787b5ce5db",
+  "date": "2026-11-15",
+  "vote": 1,
+  "kind": "top",
+  "title": "Il private equity ora punta sugli studi dei commercialisti: un mercato da 20 miliardi che promette ricche exit",
+  "source": "Milano Finanza",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "buy-and-build",
+   "commercialisti",
+   "private equity",
+   "multipli"
+  ],
+  "ts": 1794762354459
+ },
+ {
+  "id": "a385ceab34",
+  "date": "2026-11-15",
+  "vote": -1,
+  "kind": "brief",
+  "title": "BoE's Greene says acting proactively now on inflation would 'screw' things up the least",
+  "source": "Reuters",
+  "category": "Macro & Mercati",
+  "tags": [
+   "BoE",
+   "inflazione"
+  ],
+  "ts": 1794762373973
+ },
+ {
+  "id": "cc71226645",
+  "date": "2026-11-15",
+  "vote": 1,
+  "kind": "top",
+  "title": "Markets still pricing in two more ECB rate hikes",
+  "source": "The Irish Times",
+  "category": "Macro & Mercati",
+  "tags": [
+   "BCE",
+   "tassi",
+   "Euribor",
+   "macro"
+  ],
+  "ts": 1794762361245
+ }
+]
