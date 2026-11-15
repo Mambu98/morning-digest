@@ -1,5 +1,5 @@
 {
- "headline": "Mercati dominati dalle attese di rialzo dei tassi (Fed a dicembre, BCE); nel credito spicca il private placement di Cheplapharm, mentre il PE italiano guarda agli studi di commercialisti",
+ "headline": "BCE e Fed verso nuovi rialzi mentre il credito si finanzia: Cheplapharm raccoglie €390M di private note per l'operazione Sanofi e il PE si consolida sugli studi di commercialisti",
  "top": [
   {
    "id": "dbce75c25d",
@@ -12,13 +12,14 @@
     "Cheplapharm",
     "Sanofi",
     "private placement",
-    "financing"
+    "pharma",
+    "General Atlantic"
    ],
-   "summary": "Cheplapharm raccoglie 390 milioni di euro con un private note placement per finanziare l'operazione con Sanofi. Dettagli su struttura, cedola e investitori non verificati: il riassunto si basa solo sul titolo.",
-   "why_it_matters": "Un emittente sponsor-backed che si finanzia con un private placement invece che con il TLB o l'high yield tradizionale è un segnale sulla profondità del mercato del credito alternativo europeo. Da seguire per capire chi ha sottoscritto e a quali condizioni.",
+   "summary": "Cheplapharm raccoglie €390M con un private note placement per finanziare l'operazione con Sanofi (importo dal titolo, non verificato su fonte primaria). L'operazione, annunciata il 14 settembre 2026, prevede il trasferimento a Cheplapharm di 20 farmaci maturi e 3 siti produttivi (Ungheria, Singapore, Francia) in cambio di una quota del 26,4% in Cheplapharm per Sanofi. Closing atteso tra Q1 e Q3 2027; i termini finanziari non sono stati comunicati. General Atlantic (fondo Atlantic Park) è titolare di convertible loan in Cheplapharm.",
+   "why_it_matters": "Un private placement di questo tipo mostra che il debito di un asset sponsor-backed del settore pharma specialty trova ancora investitori fuori dal circuito TLB/HY. Per un banker LevFin è un segnale sulla profondità del mercato del credito alternativo; leva e pricing non sono disponibili nelle fonti lette.",
    "verified": false,
    "exploratory": false,
-   "original_url": null
+   "original_url": "https://www.pharmaceutical-technology.com/news/cheplapharm-20-medicines-three-sites-sanofi/"
   },
   {
    "id": "787b5ce5db",
@@ -28,49 +29,16 @@
    "published": "2026-11-15T06:00:00+00:00",
    "category": "LBO / PE Italia",
    "tags": [
-    "private equity",
     "buy-and-build",
     "commercialisti",
-    "Italia"
+    "private equity",
+    "multipli"
    ],
-   "summary": "Secondo Milano Finanza il private equity punta sugli studi dei commercialisti, un mercato da 20 miliardi di euro che promette ricche exit. Dettagli su operazioni e sponsor coinvolti non verificati: il riassunto si basa solo sul titolo.",
-   "why_it_matters": "È una strategia di consolidamento (buy-and-build) su un settore frammentato. Tipicamente genera add-on serie e finanziamenti acquisition facility per banche e fondi di direct lending in Italia.",
-   "verified": false,
+   "summary": "Il private equity sta consolidando gli studi di commercialisti: in Italia sono nate circa cinque grandi piattaforme. Tra le operazioni, Augens Capital e Keyhaven hanno investito 30 milioni in Sgr Associati (15 studi, 20 milioni di fatturato) a febbraio 2026, e Milano Capital ha partecipato a un aumento di capitale da 26 milioni in Studitalia nel 2024. Secondo un precedente articolo di Milano Finanza (aprile 2026) il settore fattura oltre 1 miliardo con marginalità del 25-35%, e le piccole società valgono 4-6 volte l'EBITDA. Le prime exit sono attese a fine decennio.",
+   "why_it_matters": "È un classico buy-and-build con arbitraggio sui multipli (4-6x all'ingresso contro multipli più alti per piattaforme scalate), con flussi di cassa stabili adatti a finanziamenti acquisition facility. Il dato di mercato citato nel titolo (20 miliardi) non è confermato dalle fonti lette.",
+   "verified": true,
    "exploratory": false,
-   "original_url": null
-  },
-  {
-   "id": "343c67622d",
-   "title": "Futures Markets Price 88% Odds of a December Fed Rate Hike",
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5obTlJR0EydDgyQjhYVkFXZWFpRTdvcUZjWWRoN0xXT1JjdHc1d3dmbzN1SlE0OUhJdG5jSzBQYXM5OFFhd2NpTlJPS2tQcUExM29FQjhIUDhaa3dvOTJMSDg4V2R0RkM4NkRzTDBHdFNzOXNuS3c?oc=5",
-   "published": "2026-11-14T11:35:00+00:00",
-   "category": "Macro & Mercati",
-   "tags": [
-    "Fed",
-    "tassi",
-    "macro"
-   ],
-   "summary": "I futures prezzano un'88% di probabilità di un rialzo dei tassi Fed a dicembre. Dettagli non verificati: il riassunto si basa solo sul titolo.",
-   "why_it_matters": "Tassi più alti più a lungo pesano su costo del debito floating, copertura degli interessi e valutazioni degli LBO. Un rialzo della Fed, insieme alle attese sulla BCE, cambia i modelli di leva e il ritmo dei refinancing.",
-   "verified": false,
-   "exploratory": true,
-   "original_url": null
-  }
- ],
- "briefs": [
-  {
-   "id": "5ce5f64d9b",
-   "title": "Svolta totale in casa easyJet: il fondo Apollo (non Castlelake) si prende il comando e vuole programma fedeltà e servizi premium",
-   "source": "The Flight Club",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcjVRX00ycHE5N05XSDVnVG9IdVRzOUVmUGFubW9iQUFTNjZZMmpxcWtadzR0REtkdG5qVHlhcFJEOUtIZFlWMndlYmVyUVZFWVFhTGNoUXBkd0k1SkhOLTBjb05Zc25zbUN6TmRnZTRNV1JGYnItanJIYTc0bWlzNlRDRHNLM2tlZ0ZwSDFyVTdkejVXeVFkUU56NHd1R3N5MW9VTnNsMFpZbEZkWnczSVdYWHRqWU1WNXd3eVhWT01XSjl4eGRaVW5oTTNtNEJqUm9jRjZlRnIwTlJ5cVo2eWNQaVZiRDJTdVZYTC1vUnFJVVRZTEHSAfsBQVVfeXFMTUdUTHNsNVVOX0RXeTFXTmEtUHFBakI3NTNzckR4cGRQejQxOWNYREZRczAxR0h4MjNXaWV4TDZrcDRVV25BMjQyWW5hbV9KbUlMUDVaMlBQNmtXbFo3ZzdPZ0JaSTRYd0hNUmlMZkVJTEZtbTllUkJrU09ZdDNoQzZ3dzZ2WWFINURXTWNmVFNXRjNNTXBZZDhKR2lYZXpsUmktV0hXZHgwY2l2R1RNeEdjQ2FXZ1JYeDRaNGNZUWQ3WVRIVW1Ndms0SEw5ZGRxbDlCTU96ZEY4bDhkTlRwU3g2Umc0bkVmWFNMY2tPdENETWtMVWFpS2taS28?oc=5",
-   "published": "2026-11-14T09:42:28+00:00",
-   "category": "LBO / PE Italia",
-   "tags": [
-    "Apollo",
-    "easyJet"
-   ],
-   "one_liner": "Secondo The Flight Club, Apollo (e non Castlelake) prende il comando in easyJet e punta su programma fedeltà e servizi premium."
+   "original_url": "https://www.milanofinanza.it/news/al-gran-ballo-dei-commercialisti-gli-investitori-esteri-fanno-shopping-di-studi-e-professionisti-ecco-202604102047282608"
   },
   {
    "id": "cc71226645",
@@ -81,9 +49,57 @@
    "category": "Macro & Mercati",
    "tags": [
     "BCE",
+    "tassi",
+    "Euribor",
+    "macro"
+   ],
+   "summary": "Secondo l'Irish Times, i mercati continuano a scontare altri due rialzi dei tassi BCE (dal titolo; articolo non letto). Nelle fonti collegate, la BCE ha già alzato i tassi nel 2026 e gli analisti discutono di un possibile rialzo a dicembre.",
+   "why_it_matters": "Per il LevFin tassi più alti e un'Euribor in salita pesano sul servizio del debito floating di TLB e unitranche e sulla copertura degli interessi dei deal LBO. Aumentano anche il rischio di default e la pressione sui covenant nel private credit.",
+   "verified": false,
+   "exploratory": true,
+   "original_url": null
+  }
+ ],
+ "briefs": [
+  {
+   "id": "f7dc376f06",
+   "title": "The Fed May Need to Hike Rates Higher Than Markets Expect",
+   "source": "Mott Capital Management",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWVCZGJCNW1Na0tsamZSYWFyeW1IaV9tVzdtdmUwaWotcDNhWWRYNGY0NlNyeWN4ellYTFJLcWdqZVBVeDV2Mzk1WGdyZEphbG5wTDR4SXptS2FtRURITndxc0trak5QWUp3T280ZUpxT1RHZ2lPWjFLQklEUkNqcnY3RWFsSThkQ2tpUFQ3R2N1aEE?oc=5",
+   "published": "2026-11-15T14:43:33+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Fed",
     "tassi"
    ],
-   "one_liner": "I mercati prezzano ancora due ulteriori rialzi dei tassi BCE, secondo l'Irish Times."
+   "one_liner": "Mott Capital sostiene che la Fed potrebbe dover alzare i tassi più di quanto i mercati si aspettino."
+  },
+  {
+   "id": "45192dbb3a",
+   "title": "Fed Officials Favour Hikes; Nagel Flags ECB Hike | 14 Nov 2026",
+   "source": "www.tmgm.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFQ3NLa1N5X1BBT2FSR2JSNGlENlpyYlVBaFBMNmFMYnphV05nRVcwa3NRNEpPeUgzZElMRUsydzdjQ0VIRmlBU09DTk5jSjh0c2M3N0pFWjZKOXVRejlhQWZfZGtuelZ2TzdzeTF0ZlZXdGtfQ1c1TFpfeHZtZw?oc=5",
+   "published": "2026-11-15T02:16:34+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Fed",
+    "BCE"
+   ],
+   "one_liner": "Funzionari Fed favorevoli a nuovi rialzi; Nagel della BCE segnala la possibilità di un rialzo dei tassi."
+  },
+  {
+   "id": "b13f40af3f",
+   "title": "S&P conferma il rating dell’Italia: outlook positivo, debito in calo dal 2028",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVGxldWdjN0hBZlJBdHAwQmpGS3lnZzFLbXpTbTQzbnB3aEpJeGNSRXdnRU9SOHpZd3czU053bmlPME9ZRGQ5TjFHT0ZObnpWOG96cTZ3VktkbGtaVTRuOTVNQ0x1QmZMd1QtVWhyMmNRU1RoelRSb1B6djRkb0FsRXBiem5KWWd0U3pGWlJHb2Zuc3ROc1N0YUt5UF9uWlR6WUdacWNMZ2VMNXFVanNvQzFNV2MxbFBmOThmaGNkbC1SSDBpczdv?oc=5",
+   "published": "2026-11-14T07:00:00+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "rating",
+    "Italia",
+    "S&P"
+   ],
+   "one_liner": "S&P conferma il rating dell'Italia con outlook positivo; il debito è atteso in calo dal 2028."
   },
   {
    "id": "a385ceab34",
@@ -96,20 +112,20 @@
     "BoE",
     "inflazione"
    ],
-   "one_liner": "Greene (BoE): intervenire subito sull'inflazione è l'approccio che danneggia meno l'economia."
+   "one_liner": "Greene della BoE: agire subito sull'inflazione sarebbe l'approccio meno dannoso."
   },
   {
-   "id": "fd1634292e",
-   "title": "Form 13D/A Audax Private Credit Fund For: 13 November By Investing.com",
-   "source": "Investing.com Nigeria",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnZOdFlKZDZjck1LNEtucllRZ0xDaUxReUg3Rm5ZWjcwRnFOUW9QZDNWY3g5ZFFqMDdHQkMtRlNwOFdXVkc4VXEzNzFJLUNaRkRmTTRpS0N6a21qSlNMcHFEZ2JaZWJfd2ZVMi1CTnppV2lRSlFtRGE3VGNwMHlFaGpvZkdRUExSaDJoTlMzQWVfbHljbVNpdk00ZWliNDhfM0VGZEpGaHlBQzRQazVIRWt3?oc=5",
-   "published": "2026-11-14T07:33:26+00:00",
-   "category": "LevFin & Private credit",
+   "id": "0c85061d17",
+   "title": "Piazza Affari, le 15 azioni più sottovalutate: possono salire di oltre il 50%",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUS1jdmwxWUo2RXJyR3NBdnhuY2VNWV9vclAxRU91Rjh6ZkJQdmtrSUVkZU5iOGJoX1VGSndNTE96T0ZRZWVXN2RTY3pqUE9CZEE4TmxWSmx0NGJVTWUxSm9FbUkwMnY5aU5adm5JelEwTk9lNGc4WTN1YTZRaTRBcVNYWFVSamF2OGp6cXFCS2JaOWJmLTdIQmlqaUhESUpHQUFqY1MzRl95NmVVWTNTSzk3Q21JSU5GdTMyZVpfNDN4X0R5bEE?oc=5",
+   "published": "2026-11-14T08:00:00+00:00",
+   "category": "Piazza Affari / EGM",
    "tags": [
-    "Audax",
-    "private credit"
+    "Piazza Affari",
+    "small cap"
    ],
-   "one_liner": "Audax Private Credit Fund deposita un Form 13D/A relativo al 13 novembre."
+   "one_liner": "Milano Finanza indica le 15 azioni di Piazza Affari più sottovalutate, con potenziale di rialzo oltre il 50%."
   },
   {
    "id": "02600d0154",
@@ -122,60 +138,48 @@
     "infrastrutture",
     "AI"
    ],
-   "one_liner": "DealStreetAsia: le operazioni infrastrutturali pesano in silenzio mentre l'attenzione è sull'AI."
+   "one_liner": "DealStreetAsia: gli investimenti infrastrutturali pesano in silenzio mentre l'attenzione resta sull'ondata di capitali verso l'AI."
   },
   {
-   "id": "9601aee4ad",
-   "title": "Firmus Grid plans $3 billion private fundraising after pulled IPO",
-   "source": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHBvdVg1RnUwSEJkZWNQVUM4YXlRakVxc2I2TlhlSG12RVdYVERoeUZJX1JnOXJYUnd6SEVfVzVpMEEtVkdaVGpVVGEybXQ3RzJKSUVQRkwzTVRpUGtQYWZzeHZXU3pRaGJKQ3prN3BRRUp2cFFjQ25TeTNWWjNrN3psbzlXVEg4NzM3dXI5UTNRdw?oc=5",
-   "published": "2026-11-15T11:24:20+00:00",
-   "category": "Fondi PE",
+   "id": "7211032a4a",
+   "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+   "source": "BeBeez International",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2ViSzhhUjdlYXBsVHAtTXhfaE1jdV9WdXZzbGZMaDhPRGIyU2FNek5WVXBEY0x1UkVNcjY1Tl9CVHhyLW9FLXZvdjJvMjlON0xKZk5ueHQtZ1lSd1BQczFTMWNVUjA3dlUxdzROQnpRdm9ZNm9tdU9HTXZQUVZyRWNxQ2hQVTJ6T1E2NzlweXF2RDlMbWZZ?oc=5",
+   "published": "2026-11-14T14:07:35+00:00",
+   "category": "LBO / PE Italia",
    "tags": [
-    "Firmus Grid",
-    "fundraising"
+    "data center",
+    "real estate"
    ],
-   "one_liner": "Firmus Grid pianifica una raccolta privata da 3 miliardi di dollari dopo il ritiro dell'IPO."
+   "one_liner": "Lo sviluppatore Westend Real Assets acquista due data center ad Amburgo, secondo BeBeez International."
   },
   {
-   "id": "c1f78891b4",
-   "title": "Courtois vuole il 100% della Reggiana, rispondono i Soci del club: \"In attesa dell'offerta vincolante\"",
-   "source": "DirettaCalcioMercato",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkFxaFFoUGpJQjBLU0wydmE2NVY5LW56YVotQmJ0TG1VM1NIUVo1THhKaVg3VjZha0gyaUdnbXhGMUtTNElhYjdNTHFNMHV0My00MGw4N0Y5YTBZOVJyYV9sLS1yWl8zR3l2VExtNUJnOUlKZGc1Q3IzVmoxN3k3OGFOTzg4LTRnSXF2dTNvaUhFTmRoUFNSbVlxVDZ4a3hLay1BZGxmaGhWYTRkU3JZR0hhcFI2V0t2SjNOVlNpYWlwVm5fbjRubXc4Y1JGc3c?oc=5",
-   "published": "2026-11-14T10:24:11+00:00",
-   "category": "M&A Italia",
+   "id": "144d8cfb3d",
+   "title": "BeBeez Private Equity Backed Managers Awards 2026, ecco le nominations",
+   "source": "BeBeez",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmdsSUlMYXlaUW9VTE16TkltMUV0Wl95Q3VCMndtNXcxa1JRZ2NRRU1aR2ZlUEFBUlRQLWNLTk81WUZTNG1iV0oxUmNtMkdSQ1JCMWpxVzg4bmJncks4RkpiSEZ4Z0tfZlhvU3hZcjhWdmtKdUgydEg2VDdlckdnOHQ1a0RUSUlpNVp3THppR0dkYUtjc2k5X0NIWQ?oc=5",
+   "published": "2026-11-14T06:08:28+00:00",
+   "category": "LBO / PE Italia",
    "tags": [
-    "Reggiana",
-    "Courtois"
+    "BeBeez",
+    "PE"
    ],
-   "one_liner": "Courtois vuole il 100% della Reggiana; i soci attendono l'offerta vincolante."
-  },
-  {
-   "id": "5927acab1a",
-   "title": "FTSE MIB, Pirelli entra il 12 novembre e Banca Generali il 13: Iveco e Recordati lasciano il paniere",
-   "source": "Sbircia la Notizia Magazine",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHUwc0YtY0JhTnNYaURIN0d2NXdfQlY5U215TkxJSFFuMXB0dTBNOFpVdVI3Z0R6cFdyX3Rra1h4TUlRdTBrX2lrVzhuOEZLTmdVUGNLNmN5N2U3eG9CcExHNUNYUVFZVFBCSG14ZUVzWXZsdXA1eFZkQ2g0ai1BSw?oc=5",
-   "published": "2026-11-14T14:22:00+00:00",
-   "category": "Piazza Affari / EGM",
-   "tags": [
-    "FTSE MIB"
-   ],
-   "one_liner": "Revisione FTSE MIB: Pirelli e Banca Generali entrano nel paniere, Iveco e Recordati escono."
+   "one_liner": "BeBeez pubblica le nomination dei Private Equity Backed Managers Awards 2026."
   }
  ],
  "deals": [
   {
    "date": "2026-11-14",
-   "target": "Cheplapharm (note placement)",
+   "target": "Cheplapharm",
    "buyer": null,
    "seller": null,
    "deal_type": "Financing",
    "sector": "Pharma",
-   "country": null,
+   "country": "Germania",
    "ev_eur_m": null,
    "ev_ebitda": null,
    "leverage_x": null,
-   "debt_package": "Private note placement da 390 milioni di euro per finanziare l'operazione Sanofi",
+   "debt_package": "Private note placement da €390M per finanziare l'operazione con Sanofi",
    "banks_advisors": null,
    "source": "Dealroom",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdkl0YWsxR1U3WGZ3S1RzZWpBcFFMOFgzVERUVjR2V0xUSHFLMzg1cmNxQldfLThiWC1UNVV3RmxTbzl4YUhfNFlEYkdIUjhXWUdrYmRmVEdSeVo3bDNJTlRRUUtKQXNfRldhUXVIX0JibUJzX2Q4cVg2aTNybDRtcVhiRGdPQXJEaVhSVVZFVktNMEU5T3pwZ2FVVXRjVjBBd2ZIUjNB?oc=5",
@@ -183,28 +187,11 @@
   },
   {
    "date": "2026-11-15",
-   "target": "Firmus Grid",
-   "buyer": null,
-   "seller": null,
-   "deal_type": "Fundraising",
-   "sector": "Data center / AI infrastructure",
-   "country": null,
-   "ev_eur_m": null,
-   "ev_ebitda": null,
-   "leverage_x": null,
-   "debt_package": "Raccolta privata da 3 miliardi di dollari dopo IPO ritirata",
-   "banks_advisors": null,
-   "source": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHBvdVg1RnUwSEJkZWNQVUM4YXlRakVxc2I2TlhlSG12RVdYVERoeUZJX1JnOXJYUnd6SEVfVzVpMEEtVkdaVGpVVGEybXQ3RzJKSUVQRkwzTVRpUGtQYWZzeHZXU3pRaGJKQ3prN3BRRUp2cFFjQ25TeTNWWjNrN3psbzlXVEg4NzM3dXI5UTNRdw?oc=5",
-   "title": "Firmus Grid plans $3 billion private fundraising after pulled IPO"
-  },
-  {
-   "date": "2026-11-15",
    "target": "ThermAI",
    "buyer": "Airsys",
    "seller": null,
    "deal_type": "Minoranza",
-   "sector": "Caldaie digitali",
+   "sector": "Tecnologia / riscaldamento",
    "country": null,
    "ev_eur_m": null,
    "ev_ebitda": null,
@@ -250,38 +237,21 @@
    "title": "Advanta To Strengthen Market Presence in Africa with Strategic Acquisition of Hytech"
   },
   {
-   "date": "2026-11-14",
-   "target": "Reggiana",
-   "buyer": "Thibaut Courtois",
+   "date": "2026-11-15",
+   "target": "Nebuly",
+   "buyer": null,
    "seller": null,
-   "deal_type": "M&A",
-   "sector": "Sport",
-   "country": "Italia",
-   "ev_eur_m": null,
-   "ev_ebitda": null,
-   "leverage_x": null,
-   "debt_package": null,
-   "banks_advisors": null,
-   "source": "DirettaCalcioMercato",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkFxaFFoUGpJQjBLU0wydmE2NVY5LW56YVotQmJ0TG1VM1NIUVo1THhKaVg3VjZha0gyaUdnbXhGMUtTNElhYjdNTHFNMHV0My00MGw4N0Y5YTBZOVJyYV9sLS1yWl8zR3l2VExtNUJnOUlKZGc1Q3IzVmoxN3k3OGFOTzg4LTRnSXF2dTNvaUhFTmRoUFNSbVlxVDZ4a3hLay1BZGxmaGhWYTRkU3JZR0hhcFI2V0t2SjNOVlNpYWlwVm5fbjRubXc4Y1JGc3c?oc=5",
-   "title": "Courtois vuole il 100% della Reggiana, rispondono i Soci del club: \"In attesa dell'offerta vincolante\""
-  },
-  {
-   "date": "2026-11-14",
-   "target": "easyJet",
-   "buyer": "Apollo",
-   "seller": null,
-   "deal_type": "Minoranza",
-   "sector": "Trasporto aereo",
+   "deal_type": "Fundraising",
+   "sector": "AI",
    "country": null,
    "ev_eur_m": null,
    "ev_ebitda": null,
    "leverage_x": null,
-   "debt_package": null,
+   "debt_package": "Raccolta di $21 milioni",
    "banks_advisors": null,
-   "source": "The Flight Club",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcjVRX00ycHE5N05XSDVnVG9IdVRzOUVmUGFubW9iQUFTNjZZMmpxcWtadzR0REtkdG5qVHlhcFJEOUtIZFlWMndlYmVyUVZFWVFhTGNoUXBkd0k1SkhOLTBjb05Zc25zbUN6TmRnZTRNV1JGYnItanJIYTc0bWlzNlRDRHNLM2tlZ0ZwSDFyVTdkejVXeVFkUU56NHd1R3N5MW9VTnNsMFpZbEZkWnczSVdYWHRqWU1WNXd3eVhWT01XSjl4eGRaVW5oTTNtNEJqUm9jRjZlRnIwTlJ5cVo2eWNQaVZiRDJTdVZYTC1vUnFJVVRZTEHSAfsBQVVfeXFMTUdUTHNsNVVOX0RXeTFXTmEtUHFBakI3NTNzckR4cGRQejQxOWNYREZRczAxR0h4MjNXaWV4TDZrcDRVV25BMjQyWW5hbV9KbUlMUDVaMlBQNmtXbFo3ZzdPZ0JaSTRYd0hNUmlMZkVJTEZtbTllUkJrU09ZdDNoQzZ3dzZ2WWFINURXTWNmVFNXRjNNTXBZZDhKR2lYZXpsUmktV0hXZHgwY2l2R1RNeEdjQ2FXZ1JYeDRaNGNZUWQ3WVRIVW1Ndms0SEw5ZGRxbDlCTU96ZEY4bDhkTlRwU3g2Umc0bkVmWFNMY2tPdENETWtMVWFpS2taS28?oc=5",
-   "title": "Svolta totale in casa easyJet: il fondo Apollo (non Castlelake) si prende il comando e vuole programma fedeltà e servizi premium"
+   "source": "news.lavx.hu",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1JKMnFuY1dLZ2Jrb3Y4U0NkMEthUjBPNmhPR1dzZ2RXOXNpeElaR2tXaG9FRFZCRWp1V1kxYWoxT3R0R3RERlgzemtFeUxRS3dUbVFkYnlRSU1URjhVQlpINndWZDlQTk1FMmU3MkhoNjJvMFJiT1BzSFlNU3MyS0RGR2ZNd2d3TmZEOHJES18?oc=5",
+   "title": "Nebuly raises $21 million to measure the value of AI agents"
   },
   {
    "date": "2026-11-14",
@@ -289,12 +259,12 @@
    "buyer": null,
    "seller": null,
    "deal_type": "Fundraising",
-   "sector": "Heavy-industry technology",
+   "sector": "Heavy-industry tech",
    "country": null,
    "ev_eur_m": null,
    "ev_ebitda": null,
    "leverage_x": null,
-   "debt_package": "Raccolta di 135 milioni di dollari",
+   "debt_package": "Fondo da $135 milioni",
    "banks_advisors": null,
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclQ2eVFVV3hBNXBHVkRXdWpXWk9TVlJoMjlJMmZQVkNvRVA3eEpkT1R5QVN4SVE2XzZmdnBsS3lWaURJU2FDSWtjVWZUT3dMdUJqUEVxai1zZGptdnZnWHZrVWRGcUlFa0xJaWI3ckV2MzdMTnNjbzVCU1hWNU1GX2VKbG9GV3BYa1B2ZnFna1p4X1VuR191b1dTbGJjNC1KTEFHQk1zYkN1NXpzRUZaejlTRFpCQTg?oc=5",
@@ -311,7 +281,7 @@
    "ev_eur_m": null,
    "ev_ebitda": null,
    "leverage_x": null,
-   "debt_package": "Raccolta di 700 milioni di dollari",
+   "debt_package": "Raccolta di $700 milioni",
    "banks_advisors": null,
    "source": "Tech Times",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMHNOQzktSExWc3pzUThzQ0RmeWJrUU5WcmhWNXVTajRxdl9ndXVoMFFMQUR2ZHM3ZmF2cGpwdGpuRmhQVkVfNDZoTWNoUG9UUHhXQ2dCaUVGUFlMSlVpdUVTamNNel84VE9SdFEySHlnSEFwbm9vWEx4RmdyQUpMWU1SYmZqZHExMjdKbUp1bTB0c1NrTERyVHo5TEdTX1UzZVdlTXhYUEJ3d0ZtQWJuMlpmU05aSEszN1FDZURzS0JIVnJGRjJndmZPYS1hdXB4TmpzX0swUGV4WFFE?oc=5",
@@ -322,13 +292,13 @@
    "target": "Humain",
    "buyer": null,
    "seller": null,
-   "deal_type": "Fundraising",
+   "deal_type": "Financing",
    "sector": "AI infrastructure",
    "country": "Arabia Saudita",
    "ev_eur_m": null,
    "ev_ebitda": null,
    "leverage_x": null,
-   "debt_package": "Raccolta di 667 milioni di dollari",
+   "debt_package": "Raccolta di $667 milioni",
    "banks_advisors": null,
    "source": "Data Center Dynamics",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWdkMTJqbGJZc1N4dE1nMUsyT2Fva2VNNTZWZzVFS2RCalhnaHdWRGY1dzBKemhySDM2WVI0MWFOemR0RVJkeUxxc3ZnZlRqMjQ3QTNGTGRvMGFlY1k1QVI3SmFYaWllU1Vxd0xTTDVkVWxlT2NHbXZrbE9naWpoR0pYaGZ0dUFuQlFtNm9hZ0M4b0JFWjhNNXJ3?oc=5",
