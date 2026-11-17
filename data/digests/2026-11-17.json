@@ -1,0 +1,591 @@
+{
+ "headline": "CVC rinuncia a IRCA (Advent), Carmila-Igd verso il delisting e Blackstone investe sui data center AWS, mentre dollaro forte e scommesse sui rialzi Fed/BCE dominano i mercati",
+ "top": [
+  {
+   "id": "c3a40f2170",
+   "title": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTVoSkRzV2ljdTZacTVmMVNEMHdEZTI1UnpWZzdJem1tcVpzRkFpaUNzbmhPSnJVU2o4VGQtTVdDZ2pXVjNpU1NWT19qWjRGWGFFdmp5R0gzSGZPVWpHcTVsY0tCQWlNNmh4cTBQYWNGS3M5ay1qdUJmTWtzaHdQc2JEQVY?oc=5",
+   "published": "2026-11-16T23:08:52+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "CVC",
+    "Advent",
+    "IRCA",
+    "deal saltato",
+    "mega-LBO"
+   ],
+   "summary": "Secondo il titolo del Financial Times, CVC avrebbe intenzione di tirarsi indietro da un'operazione italiana concordata con Advent. Questo potrebbe portare a uno scontro legale tra i due sponsor. Il testo dell'articolo non era disponibile, quindi non ci sono dettagli su target, valore o struttura.",
+   "why_it_matters": "Il recesso di uno sponsor da un deal già concordato è un evento raro tra i grandi fondi. Se confermato, segnala che le condizioni di prezzo, di finanziamento o di mercato sono cambiate. Per chi lavora in LevFin conta anche per i finanziatori: un'eventuale revisione del deal può far slittare i tempi del financing.",
+   "for_you": "Da seguire come caso di studio su clausole di recesso, MAC e rischio di esecuzione nei deal tra sponsor. Può essere uno spunto da portare in un colloquio LevFin, quando i dettagli saranno confermati.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "f82693fdcf",
+   "title": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXpEYUJjcjRPTGJCYTgxM21zVUhqaExKRUFndzJ6SzlEdUVYSHZYY2lOdEs3YWNQcUlIaWVqQktSSXR1RTlNekhHamNSeHhuNXUwV0M1ZGR1UVpiZU9HaFo3ckZTbmxScUU3RnlrR3o0X2FDN2NfUE9ZWkh4THNfQjgzeWFsYzY3bXk4TlZ3VTZIXzlicEQ1V3E0UHNWczhxTGpKT1lJeUtzVmd0amE4ZE1R?oc=5",
+   "published": "2026-11-16T17:15:31+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "Carmila",
+    "Igd",
+    "OPS",
+    "delisting",
+    "Coop"
+   ],
+   "summary": "Secondo il titolo de Il Sole 24 ORE, Carmila e Igd vanno verso un'integrazione tramite un'Ops obbligatoria finalizzata al delisting. Il testo dell'articolo non era disponibile: non sono noti concambio, valori né strutture di finanziamento.",
+   "why_it_matters": "È un'operazione su Piazza Affari che riguarda il comparto retail real estate quotato. L'Ops obbligatoria con delisting rende rilevanti le condizioni dell'offerta e la struttura finanziaria post-integrazione, compreso il debito esistente di Igd. Per ora non ci sono numeri verificabili.",
+   "for_you": "Utile per allenarsi sulle offerte pubbliche di scambio e sui delisting di società immobiliari quotate. Segui l'evoluzione del documento d'offerta e del rifinanziamento del debito.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "77f5a0db9a",
+   "title": "Tenax Capital lancia TSCF II, il quinto fondo di private debt sull’Italia, con target a 500 mln euro. Raccolti impegni già per un terzo. Tra i key investor Cdp e Intesa Sanpaolo",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-debt/tenax-capital-lancia-tscf-ii-il-quinto-fondo-di-private-debt-sullitalia-con-target-a-500-mln-euro-raccolti-impegni-gia-per-un-terzo-tra-i-key-investor-cdp-e-intesa-sanpaolo/",
+   "published": "2026-11-16T06:58:20+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "Tenax Capital",
+    "TSCF II",
+    "private debt",
+    "Cdp",
+    "Intesa Sanpaolo"
+   ],
+   "summary": "Tenax Capital lancia TSCF II, il quinto fondo di private debt sull'Italia, con target di raccolta a 500 mln euro. Gli impegni raccolti finora coprono già circa un terzo del target. Tra i key investor figurano Cdp e Intesa Sanpaolo. Il testo recuperato conteneva solo annunci di altro tipo, quindi la sintesi si basa sul titolo.",
+   "why_it_matters": "Un nuovo fondo di direct lending italiano con ancoraggio di investitori istituzionali domestici conferma la domanda di capitale non bancario per le PMI e le operazioni sponsor-backed. Aumenta la concorrenza per le banche nel financing mid-market. Sul fronte del credito privato resta da capire la qualità degli attivi.",
+   "for_you": "Tenax è un player da conoscere nel private debt italiano e un possibile controparte nei club deal. Può servire come esempio concreto del ruolo di Cdp e delle banche come LP nei fondi di debito.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  }
+ ],
+ "market_pill": {
+  "what_is_happening": "Il dollaro tocca i massimi da 19 mesi sulle scommesse di rialzo dei tassi Fed, mentre i tassi dell'area euro salgono con i trader che prezzano tre rialzi BCE entro il 2027. Le azioni scivolano sulla debolezza tech in attesa dei conti Nvidia e dell'IPO di Anthropic. L'oro cala ai minimi da un anno su dollaro e rendimenti Treasury.",
+  "for_you": "Il dollaro forte e l'oro ai minimi mettono sotto pressione la piccola quota in oro, ma un PAC a orizzonte lungo non cambia. Il selloff AI è un test per la tesi sulle infrastrutture AI; l'underweight USA è per ora confermato dal sell-off tech.",
+  "watch": "Nessuna azione: monitorare i conti Nvidia come termometro del tema AI infrastructure e i verbali Fed per capire quanto sia reale lo scenario di rialzi. Per la BCE, osservare i rendimenti dell'area euro.",
+  "sources": [
+   {
+    "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0Z6TDRSbVp3QXhMLUlLR3Vaam5aam1wVW9LV2tGSmJPZVFaU2dCNnhzVjJSY25lNWR3N1lmOFVPeno3UWpkamE2SDVxOVVfcUxUY0RxYTd5cm8wYzg0M1FVZTdrVXU2RXJzbXFmNElPb0ZqVVJ2WUxhS1B5WXVhRFFobUJPb2FaNzdsdlFkNmludUtnSXY3eUJoZ0J5UXFJdTlQUVhR?oc=5"
+   },
+   {
+    "title": "Euro Zone Yields Rise as Traders Anticipate Three ECB Hikes by 2027",
+    "source": "Global Banking & Finance Review",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWhKWkhVYmE0VG4tQ21HeUlFWHZhY01ncmJDRm5pdjR1VzRyY0oyVklBVHBUYkp3aGNtc0NwSjY0RnkwTW5na2stNHpqZk1HQ1Boc056OTJINFd1Rm1MbldUTkpjcUQyTGJacTNBT1ExVUtEdjZaS0ozWFRLQVJYdWhyb0ZtaS1sbTE3OThlMUh1RXhrMDNPbWR6WFZUNU91SUE?oc=5"
+   },
+   {
+    "title": "Gold drops to more than one-year low as US dollar marches higher",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5"
+   },
+   {
+    "title": "Shares slide on tech weakness ahead of Nvidia earnings",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5"
+   }
+  ],
+  "stock_ideas": [
+   {
+    "name": "Igd",
+    "ticker": "IGD",
+    "direction": "Da monitorare",
+    "rationale": "L'accordo Coop Alleanza 3.0-Carmila prevede un'OPS obbligatoria finalizzata al delisting, con concambio indicato a 4,71 euro. Catalizzatore concreto su una small/mid cap di Piazza Affari.",
+    "risk": "Concambio, tempi o condizioni dell'OPS potrebbero cambiare, oppure l'integrazione incontrare ostacoli regolatori o di mercato.",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzBvdVZHTU83UjFZaGtqMkJqdlg2QWpSa1I4YkxoSWNxODVQV2pEcC04a2pDWkNkdUR2YUhLNFFQTnREQjZlbWtJZVREaFUyNWoyVEF2R05SMktWZVpPRDUzanJfbGctZlB0NDhJalFfSU1PTXdVazVTbThKZ016Zy01N1BGMEFaNE41WWZFa1hQQXJobTV2NFdxU3NndzIzYUs5SkhmT1ZKbFQ2QWpQblVyeW8xdFpvamlXanE3c1pKajhaR0RWNXJDdU56SHJkYXd6dFI5bHhhVmRzTk03dzhIc0dKMkRYVmo1VDNPRVFaNGxJWjRBLWtTdW9ONTdKME00?oc=5",
+    "source": "Il Giornale d'Italia"
+   }
+  ]
+ },
+ "briefs": [
+  {
+   "id": "87e7827fbd",
+   "title": "Acquisendo cinque società nella cybersecurity, Xenon FIDEC dà vita a Thexion, nuovo polo di settore da 80 mln euro di ricavi aggregati",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/acquisendo-cinque-societa-nella-cybersecurity-xenon-fidec-da-vita-a-thexion-nuovo-polo-di-settore-da-80-mln-euro-di-ricavi-aggregati/",
+   "published": "2026-11-16T06:50:48+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Xenon FIDEC",
+    "Thexion",
+    "cybersecurity",
+    "add-on"
+   ],
+   "one_liner": "Xenon FIDEC acquisisce cinque società di cybersecurity e crea Thexion, nuovo polo con circa 80 mln euro di ricavi aggregati: buy-and-build di settore."
+  },
+  {
+   "id": "da74f31f18",
+   "title": "Grote Company (BBH Capital Partners) completa l’acquisizione del 100% di Turatti. Exit per Green Arrow Capital ed Entangled Capital, in un deal da circa 15,7 mln",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/grote-company-bbh-capital-partners-completa-lacquisizione-del-100-di-turatti-exit-per-green-arrow-capital-ed-entangled-capital-in-un-deal-da-circa-157-mln/",
+   "published": "2026-11-16T06:48:39+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "BBH Capital Partners",
+    "Turatti",
+    "exit",
+    "Green Arrow"
+   ],
+   "one_liner": "Grote Company (BBH Capital Partners) rileva il 100% di Turatti; exit per Green Arrow Capital ed Entangled Capital, deal da circa 15,7 mln."
+  },
+  {
+   "id": "4ced5bdfc1",
+   "title": "Equinox rileva il 60% di Master con Target, GPBL e Russo De Rosa",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEwtbkUyN3FYLUR5T05KV2hZUTFpWUpGVmRTMWlsTXExX19LcEl4dVN1YjdDVWRRWjhQQnlUOGhUZ3lsUUJJN1NnaUZmcm92NDE0UXZrNWN4VDdpVkVNdjYzWmRZWFllZC0weHBqT0l4d2wweThDNWZDTlBWMXJEUm1kMlR4bmQ5bmdUSHYwend2LUk?oc=5",
+   "published": "2026-11-16T16:41:57+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Equinox",
+    "Master",
+    "maggioranza"
+   ],
+   "one_liner": "Equinox rileva il 60% di Master con Target, GPBL e Russo De Rosa come advisor."
+  },
+  {
+   "id": "1c4dfa9570",
+   "title": "European IV Hospitality Holding rileva per 104 mln circa l’hotel Le Sereno Lago di Como da KSL Capital Partners",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/real-estate-2/european-iv-hospitality-holding-rileva-per-104-mln-circa-lhotel-le-sereno-lago-di-como-da-ksl-capital-partners/",
+   "published": "2026-11-16T06:52:24+00:00",
+   "category": "M&A Italia",
+   "tags": [
+    "KSL Capital",
+    "hospitality",
+    "Lago di Como"
+   ],
+   "one_liner": "European IV Hospitality Holding rileva per circa 104 mln l'hotel Le Sereno Lago di Como da KSL Capital Partners."
+  },
+  {
+   "id": "d18c693460",
+   "title": "PLT Holding completa l’acquisizione della maggioranza di Unoenergy. BonelliErede, Gianni & Origoni e White & Case gli studi legali",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQkNwcHkzRUM4MExWM1N2TUJ3VEUzMm80OUh4M0VLQjYwb0xrOGxBejdldnA1c1pIcENqMkVaRVZLV3Z0Vl9uTGtIU2JJQXZiWTlyMk1SbGlnRTFIWGN5ckV4UzA5bjZkY21WMktJTmttLXFiemVOOHJ1TzNzYmxmRGtvUTY1emtLXzFyaHNHLXllUzBXV01JTEZNUkpRNi02NjFaUW56T21YU29kTjl5YkRCejYzV0xXVjg3WkFldkZrY3d6WjdMdC03dnphLUtCU2VJSjdTWERkOWtvYzRNdlc0dkZ6TEpKM2c3Nlk2eFJDaW05?oc=5",
+   "published": "2026-11-16T09:17:49+00:00",
+   "category": "M&A Italia",
+   "tags": [
+    "PLT Holding",
+    "Unoenergy",
+    "energia"
+   ],
+   "one_liner": "PLT Holding completa l'acquisizione della maggioranza di Unoenergy; coinvolti BonelliErede, Gianni & Origoni e White & Case."
+  },
+  {
+   "id": "3bd8bcf64c",
+   "title": "DLA Piper con UniCredit nel finanziamento da 120,85 milioni a un fondo gestito da Kryalos",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9PVlFyTVRWcXp6dkdfTTVaUDZQLUJnQnQ1SFAwbDFsQU5zM08wWlJkWkwwWHllcDBpdV9nSGFVWmU0RTlNb2pXc3ZUdHN3WWJmdzNJS0hTcVJyLXpuQWdlMF9GaHI1Rk9KN1BOdG9ETGRYOU41VjlJbkUzc1FHMGpfRi1VSjFuN3NmUFN2Zlc0aW1wRHNiSFJYTXBrNWFjNVdhRjZkbEI2WTVlVkloVkhGaEdqdw?oc=5",
+   "published": "2026-11-16T16:41:57+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "UniCredit",
+    "Kryalos",
+    "real estate",
+    "financing"
+   ],
+   "one_liner": "UniCredit finanzia con 120,85 mln un fondo gestito da Kryalos; DLA Piper advisor della banca."
+  },
+  {
+   "id": "6e80f8e562",
+   "title": "Sofinnova: chiusa a 725 milioni di euro la raccolta del fondo Crossover II",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUNHJ6X0dkLU4zVlJuQzNnenlxWWVFdEoyQ2tlbE43MFdOU1JWOHJ3QmE3bFd5bVZrX1M2RWVsbUE3aWdaRG1BVlVRSTJWNE8wbWlvU3FXbW5JRUVYc3NfZU9oWElrc3JPU1NhbTh3?oc=5",
+   "published": "2026-11-16T08:37:46+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "Sofinnova",
+    "Crossover II",
+    "final close"
+   ],
+   "one_liner": "Sofinnova chiude a 725 mln euro la raccolta del fondo Crossover II, dedicato a società life sciences in fase avanzata."
+  },
+  {
+   "id": "d3b8d28a36",
+   "title": "Trading Floor, Buyback in arrivo per Crescent Capital, che balza dell’8%. Bene anche Apollo (+5,8%) e Italmobiliare (+5,6%). Male il private credit Usa. Scivolone di Tikehau (-5,5%)",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity-breakfast/trading-floor-buyback-in-arrivo-per-crescent-capital-che-balza-dell8-bene-anche-apollo-58-e-italmobiliare-56-male-il-private-credit-usa-scivolone-di-tikehau-55/",
+   "published": "2026-11-16T06:30:17+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "private credit",
+    "Crescent",
+    "Tikehau",
+    "Apollo"
+   ],
+   "one_liner": "Trading Floor: buyback per Crescent Capital (+8%), bene Apollo e Italmobiliare, male il private credit USA; Tikehau -5,5%."
+  }
+ ],
+ "international": [
+  {
+   "id": "9117e5c781",
+   "title": "Thoma Bravo’s Proofpoint Launches $2 Billion Debt Deal for M&A",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWswckYzU0tmX3cyTGtFSnlyazlUaUY5SmF3SGZsSERQclZNcWY0aUJCaGlVVW02eUctZlNoSEp3LWJqY2pYOFBPOU10RFB6U2dJQlRoLThHQ3JmTTJrckJfTTFqT2hXdktvcmFpYlhUTzEyNUlHN3ZJUkdoZ0xxQXRKaUZHcVJYU1EwbkhHcFBVdEhxUVNJN1RpRkJOR25aLWFyeDNlQUFvVk9paWRLTWN3?oc=5",
+   "published": "2026-11-16T17:14:10+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Thoma Bravo",
+    "Proofpoint",
+    "leveraged loan"
+   ],
+   "one_liner": "Proofpoint, controllata da Thoma Bravo, lancia un debt deal da 2 miliardi di dollari per finanziare operazioni di M&A."
+  },
+  {
+   "id": "29569e2b26",
+   "title": "Apollo Is Said to Invest $2.5 Billion in Focus Financial",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWtiWndmc0lVVGQ5MzJsaDlBZkNnd3JlUnplNkVPcU5xS0RLMWUxalNrY1lHdVpjMV92bzV3V3pSSnliaTd5eVVKQ1BtRHFwR2V0TlRVQ1lTVVNDQkVIZjJwRnpXWWlOdjNrN1N6TGVGNGY5WFBpLWRKMlBpQnkxdnktZVJRTFZWWUxyWGx1eVBrbFpLaXUwYVlqQmd3c09oV3FPRXo5STV5QQ?oc=5",
+   "published": "2026-11-16T13:49:05+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Apollo",
+    "Focus Financial",
+    "private credit"
+   ],
+   "one_liner": "Secondo Bloomberg, Apollo investirebbe 2,5 miliardi di dollari in Focus Financial: il private credit continua a finanziare il wealth management."
+  },
+  {
+   "id": "a6595a67ec",
+   "title": "Citigroup Pulls $400 Million Loan for IT Provider UST Global",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFdvV21YTl9IOXgyRi1ZSFY5VzgzMHFZMTJQSUM1ejJSMXY5LU9LYV9vRV8wOThjdTIzRTdDQVlWQjhrM3E2ZlI3SVk4WjNPallrSlZ3RUx4aFpBVHFwSzdEWnJ3VVJ0Mi12dHNDaDlCcXVKS29jVXQ0NlBOM1lmRVZPWl9VVmVhbGJ3N1dyRWdCMlNNZ054MktzcHE5LUcwVm51U0cyOVBPdUp5cnlB?oc=5",
+   "published": "2026-11-16T19:42:22+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Citigroup",
+    "UST Global",
+    "loan"
+   ],
+   "one_liner": "Citigroup ritira un prestito da 400 milioni di dollari per il fornitore IT UST Global: segnale di selettività sul mercato dei loan."
+  },
+  {
+   "id": "80fab1c9c8",
+   "title": "Canaccord Says to Sell UK Wealth Arm to Centerbridge, Mubadala",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0pNLXZWNV9uMGg3a1RxLUZHNmNBMlJ5R1hlUG03R0R6Y2JiSmVoU2dnc0o5WTZsNmRDa1plRXFpRWcxclYxQnBtbzFoeTgtQ3hLSDY3bHA2NnZOY2Fhbkw2bV85THYyOUoxU21KVldDQmhOVU5WN01zT1dpNmNTaElQbFF2ZWNQcHNDX1lhSGhSdDFZNTB6cFphczd3OVBwUWtqN3d3TVZzSHhobUFrSndB?oc=5",
+   "published": "2026-11-16T12:31:13+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "Centerbridge",
+    "Mubadala",
+    "Canaccord"
+   ],
+   "one_liner": "Canaccord vende l'attività UK di wealth management a Centerbridge e Mubadala: ancora private capital sul wealth management."
+  }
+ ],
+ "deals": [
+  {
+   "date": "2026-11-16",
+   "target": "IRCA",
+   "buyer": "CVC",
+   "seller": "Advent",
+   "deal_type": "LBO",
+   "sector": "Ingredienti alimentari",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "Possibile contenzioso legale tra CVC e Advent",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTVoSkRzV2ljdTZacTVmMVNEMHdEZTI1UnpWZzdJem1tcVpzRkFpaUNzbmhPSnJVU2o4VGQtTVdDZ2pXVjNpU1NWT19qWjRGWGFFdmp5R0gzSGZPVWpHcTVsY0tCQWlNNmh4cTBQYWNGS3M5ay1qdUJmTWtzaHdQc2JEQVY?oc=5",
+   "title": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Igd",
+   "buyer": "Carmila",
+   "seller": null,
+   "deal_type": "Integrazione tramite Ops obbligatoria con delisting",
+   "sector": "Real estate retail",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXpEYUJjcjRPTGJCYTgxM21zVUhqaExKRUFndzJ6SzlEdUVYSHZYY2lOdEs3YWNQcUlIaWVqQktSSXR1RTlNekhHamNSeHhuNXUwV0M1ZGR1UVpiZU9HaFo3ckZTbmxScUU3RnlrR3o0X2FDN2NfUE9ZWkh4THNfQjgzeWFsYzY3bXk4TlZ3VTZIXzlicEQ1V3E0UHNWczhxTGpKT1lJeUtzVmd0amE4ZE1R?oc=5",
+   "title": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "NewSolar",
+   "buyer": "Equita",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": "Schermature solari",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXhqODVtOWZBZ3Nfa2FSZmxUYy1xbm1rQ216VjV1VGd0cTM3MWItX3RTNFZlZG5ieUlTR0pLeTBZMVdTVHJhd1poLUNncF9FOUxjdGEtcVl2M1FwMFB5S3pmc0tadG9Ya2lQYllrTmZZdVZDMTkzYzR3b0VJQV9kcFBZZGQwRUVtamlZb1lCcWZHWEdHdXcxd2VYX01adjJWMU9KRVpsMl9qOHY0WEFYZWNzVlE3c1c0aGxwSXFCYkpwQzJPei1PZnhn?oc=5",
+   "title": "Private equity, Equita punta sul mercato delle schermature solari con NewSolar"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Portafoglio data center AWS (75%)",
+   "buyer": "Blackstone Digital",
+   "seller": "Amazon Web Services",
+   "deal_type": "M&A",
+   "sector": "Data center",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBIVlh1V2dGRW1WN2NEbDFtZ0ttd1ZuX28xdFNvSGFxOE1jM3ZsNnJENXdUVVBrTnU2QnBuaXNmbi1LU3Jyc2N1ZTFfdXJSX0dWZkRIMDBJam5vUGg2Y2o2LUdIT2VmNHExQVBtNHlPRjBSV0F6cEdoMHlWbVFVbTJMNXRaRUtLQWNVNUYyS0plQlhhUTZidldqd0M0eVJicE1YbzI1MTBTR0VZNFNwUnZsNVMtQXc?oc=5",
+   "title": "Data Center: Blackstone Digital compra 75% di un portafoglio AWS per 5 mld di $"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Tenax Capital Special Credit Fund II (TSCF II)",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Private debt",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Target di raccolta 500 mln euro, circa un terzo già raccolto; key investor Cdp e Intesa Sanpaolo",
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-debt/tenax-capital-lancia-tscf-ii-il-quinto-fondo-di-private-debt-sullitalia-con-target-a-500-mln-euro-raccolti-impegni-gia-per-un-terzo-tra-i-key-investor-cdp-e-intesa-sanpaolo/",
+   "title": "Tenax Capital lancia TSCF II, il quinto fondo di private debt sull’Italia, con target a 500 mln euro. Raccolti impegni già per un terzo. Tra i key investor Cdp e Intesa Sanpaolo"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Thexion",
+   "buyer": "Xenon FIDEC",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": "Cybersecurity",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/acquisendo-cinque-societa-nella-cybersecurity-xenon-fidec-da-vita-a-thexion-nuovo-polo-di-settore-da-80-mln-euro-di-ricavi-aggregati/",
+   "title": "Acquisendo cinque società nella cybersecurity, Xenon FIDEC dà vita a Thexion, nuovo polo di settore da 80 mln euro di ricavi aggregati"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Turatti",
+   "buyer": "Grote Company (BBH Capital Partners)",
+   "seller": "Green Arrow Capital, Entangled Capital",
+   "deal_type": "Exit",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": 15.7,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/grote-company-bbh-capital-partners-completa-lacquisizione-del-100-di-turatti-exit-per-green-arrow-capital-ed-entangled-capital-in-un-deal-da-circa-157-mln/",
+   "title": "Grote Company (BBH Capital Partners) completa l’acquisizione del 100% di Turatti. Exit per Green Arrow Capital ed Entangled Capital, in un deal da circa 15,7 mln"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Master",
+   "buyer": "Equinox",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "Target, GPBL, Russo De Rosa",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEwtbkUyN3FYLUR5T05KV2hZUTFpWUpGVmRTMWlsTXExX19LcEl4dVN1YjdDVWRRWjhQQnlUOGhUZ3lsUUJJN1NnaUZmcm92NDE0UXZrNWN4VDdpVkVNdjYzWmRZWFllZC0weHBqT0l4d2wweThDNWZDTlBWMXJEUm1kMlR4bmQ5bmdUSHYwend2LUk?oc=5",
+   "title": "Equinox rileva il 60% di Master con Target, GPBL e Russo De Rosa"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Le Sereno Lago di Como",
+   "buyer": "European IV Hospitality Holding",
+   "seller": "KSL Capital Partners",
+   "deal_type": "M&A",
+   "sector": "Hospitality",
+   "country": "Italia",
+   "ev_eur_m": 104.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/real-estate-2/european-iv-hospitality-holding-rileva-per-104-mln-circa-lhotel-le-sereno-lago-di-como-da-ksl-capital-partners/",
+   "title": "European IV Hospitality Holding rileva per 104 mln circa l’hotel Le Sereno Lago di Como da KSL Capital Partners"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Unoenergy",
+   "buyer": "PLT Holding",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Energia",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "BonelliErede, Gianni & Origoni, White & Case",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQkNwcHkzRUM4MExWM1N2TUJ3VEUzMm80OUh4M0VLQjYwb0xrOGxBejdldnA1c1pIcENqMkVaRVZLV3Z0Vl9uTGtIU2JJQXZiWTlyMk1SbGlnRTFIWGN5ckV4UzA5bjZkY21WMktJTmttLXFiemVOOHJ1TzNzYmxmRGtvUTY1emtLXzFyaHNHLXllUzBXV01JTEZNUkpRNi02NjFaUW56T21YU29kTjl5YkRCejYzV0xXVjg3WkFldkZrY3d6WjdMdC03dnphLUtCU2VJSjdTWERkOWtvYzRNdlc0dkZ6TEpKM2c3Nlk2eFJDaW05?oc=5",
+   "title": "PLT Holding completa l’acquisizione della maggioranza di Unoenergy. BonelliErede, Gianni & Origoni e White & Case gli studi legali"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Fondo gestito da Kryalos",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Financing",
+   "sector": "Real estate",
+   "country": "Italia",
+   "ev_eur_m": 120.85,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Finanziamento da 120,85 mln",
+   "banks_advisors": "UniCredit; DLA Piper",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9PVlFyTVRWcXp6dkdfTTVaUDZQLUJnQnQ1SFAwbDFsQU5zM08wWlJkWkwwWHllcDBpdV9nSGFVWmU0RTlNb2pXc3ZUdHN3WWJmdzNJS0hTcVJyLXpuQWdlMF9GaHI1Rk9KN1BOdG9ETGRYOU41VjlJbkUzc1FHMGpfRi1VSjFuN3NmUFN2Zlc0aW1wRHNiSFJYTXBrNWFjNVdhRjZkbEI2WTVlVkloVkhGaEdqdw?oc=5",
+   "title": "DLA Piper con UniCredit nel finanziamento da 120,85 milioni a un fondo gestito da Kryalos"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Sofinnova Crossover II",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Life sciences",
+   "country": null,
+   "ev_eur_m": 725.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUNHJ6X0dkLU4zVlJuQzNnenlxWWVFdEoyQ2tlbE43MFdOU1JWOHJ3QmE3bFd5bVZrX1M2RWVsbUE3aWdaRG1BVlVRSTJWNE8wbWlvU3FXbW5JRUVYc3NfZU9oWElrc3JPU1NhbTh3?oc=5",
+   "title": "Sofinnova: chiusa a 725 milioni di euro la raccolta del fondo Crossover II"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Advantech",
+   "buyer": "Mehits",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2ItcWdCOExlNFREUjNQbGhkd043aGpGZTJvVk5QQmVxdDdkTzd4akZzaVR0T1JjQVpCOUJGMDNxX01GczFMaHFDZHNRYzBmemstODhIbUNtRmRfemhsaWE2aXBjWEdRMjBBYTZ6c1MyeHRGVWhubzJQdlNXY0VIdjZDd0VZeUE?oc=5",
+   "title": "Gli advisor di Mehits nella acquisizione di Advantech"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Proofpoint",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Financing",
+   "sector": "Cybersecurity",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Debt deal da 2 mld $ per M&A",
+   "banks_advisors": "Sponsor: Thoma Bravo",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWswckYzU0tmX3cyTGtFSnlyazlUaUY5SmF3SGZsSERQclZNcWY0aUJCaGlVVW02eUctZlNoSEp3LWJqY2pYOFBPOU10RFB6U2dJQlRoLThHQ3JmTTJrckJfTTFqT2hXdktvcmFpYlhUTzEyNUlHN3ZJUkdoZ0xxQXRKaUZHcVJYU1EwbkhHcFBVdEhxUVNJN1RpRkJOR25aLWFyeDNlQUFvVk9paWRLTWN3?oc=5",
+   "title": "Thoma Bravo’s Proofpoint Launches $2 Billion Debt Deal for M&A"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Focus Financial",
+   "buyer": "Apollo",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": "Wealth management",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWtiWndmc0lVVGQ5MzJsaDlBZkNnd3JlUnplNkVPcU5xS0RLMWUxalNrY1lHdVpjMV92bzV3V3pSSnliaTd5eVVKQ1BtRHFwR2V0TlRVQ1lTVVNDQkVIZjJwRnpXWWlOdjNrN1N6TGVGNGY5WFBpLWRKMlBpQnkxdnktZVJRTFZWWUxyWGx1eVBrbFpLaXUwYVlqQmd3c09oV3FPRXo5STV5QQ?oc=5",
+   "title": "Apollo Is Said to Invest $2.5 Billion in Focus Financial"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Canaccord Wealth (UK e Crown Dependencies)",
+   "buyer": "Centerbridge, Mubadala",
+   "seller": "Canaccord Genuity Group",
+   "deal_type": "M&A",
+   "sector": "Wealth management",
+   "country": "Regno Unito",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0pNLXZWNV9uMGg3a1RxLUZHNmNBMlJ5R1hlUG03R0R6Y2JiSmVoU2dnc0o5WTZsNmRDa1plRXFpRWcxclYxQnBtbzFoeTgtQ3hLSDY3bHA2NnZOY2Fhbkw2bV85THYyOUoxU21KVldDQmhOVU5WN01zT1dpNmNTaElQbFF2ZWNQcHNDX1lhSGhSdDFZNTB6cFphczd3OVBwUWtqN3d3TVZzSHhobUFrSndB?oc=5",
+   "title": "Canaccord Says to Sell UK Wealth Arm to Centerbridge, Mubadala"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "MGA Optio",
+   "buyer": "Cinven, La Caisse",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Assicurazioni (MGA)",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTBwLTZiRU9xNEFnQ2ppN3hnbXRETzF1RmMzTkVjcjV4NW0wRElleXdETjU5NGZhdnNsZjYyM3hUMGRJUlZoQzJpZ1B0cjJGUUQxT3RJcWdNNkR3ZmRsZ2xWNHVXaU9MQlRnTWhRUFVUU2QtRV8ydjJqc1ZiMi1odkNIeVZqV2Z6d1N2Q0k3Q3E4WnBEWFZMWDRyOA?oc=5",
+   "title": "Cinven, La Caisse agree to jointly acquire MGA Optio"
+  },
+  {
+   "date": "2026-11-16",
+   "target": "Plural",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Tecnologia",
+   "country": "Estonia",
+   "ev_eur_m": 1000.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Estonian World",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG14bExESzZHdXdGNjUyeDExWHQtUHFIS09wWWt5YTRMb25TWVgyOE1JdVV5M0kzXzdzd0kycHFOQWcxWkJEUU5UVHlteTRpUXUzZzNvOGFPUWFKR0NETzdmblZhVVlnZkJ3dlo4eVFobElDM2FVRjdPZGJNdjd6Q3JJZXdNckVfNU9XMEJTR1VrRmhpODdBN3RLMHAwZWVEYmRkbg?oc=5",
+   "title": "Estonia’s Plural raises €1bn to back Europe’s next technology giants"
+  }
+ ],
+ "date": "2026-11-17"
+}

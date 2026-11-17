@@ -44,5 +44,55 @@
    "macro"
   ],
   "ts": 1794762361245
+ },
+ {
+  "id": "77f5a0db9a",
+  "date": "2026-11-16",
+  "vote": 1,
+  "kind": "top",
+  "title": "Tenax Capital lancia TSCF II, il quinto fondo di private debt sull’Italia, con target a 500 mln euro. Raccolti impegni già per un terzo. Tra i key investor Cdp e Intesa Sanpaolo",
+  "source": "BeBeez",
+  "category": "Fondi PE",
+  "tags": [
+   "private debt",
+   "fundraising",
+   "Tenax Capital",
+   "Cdp",
+   "Intesa Sanpaolo"
+  ],
+  "ts": 1794825698773
+ },
+ {
+  "id": "d3b8d28a36",
+  "date": "2026-11-16",
+  "vote": 1,
+  "kind": "top",
+  "title": "Trading Floor, Buyback in arrivo per Crescent Capital, che balza dell’8%. Bene anche Apollo (+5,8%) e Italmobiliare (+5,6%). Male il private credit Usa. Scivolone di Tikehau (-5,5%)",
+  "source": "BeBeez",
+  "category": "LevFin & Private credit",
+  "tags": [
+   "private credit",
+   "Crescent Capital",
+   "Apollo",
+   "Tikehau",
+   "Italmobiliare"
+  ],
+  "ts": 1794826854793
+ },
+ {
+  "id": "da74f31f18",
+  "date": "2026-11-16",
+  "vote": 1,
+  "kind": "top",
+  "title": "Grote Company (BBH Capital Partners) completa l’acquisizione del 100% di Turatti. Exit per Green Arrow Capital ed Entangled Capital, in un deal da circa 15,7 mln",
+  "source": "BeBeez",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "secondary buyout",
+   "BBH Capital Partners",
+   "Green Arrow Capital",
+   "Turatti"
+  ],
+  "ts": 1794825740845
  }
 ]
