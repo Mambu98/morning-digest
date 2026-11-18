@@ -1,0 +1,460 @@
+{
+ "headline": "Iceye lancia l'OPA su Avio mentre CVC si sfila da Irca e il JPMorgan avverte sui default dei leveraged loan; i mercati scontano rialzi dei tassi Fed/BCE",
+ "top": [
+  {
+   "id": "3609c6a3aa",
+   "title": "Irca, scoppia la guerra tra i fondi. Marcia indietro di Cvc sul deal da 3 miliardi, ipotesi arbitrato",
+   "source": "ItalyPost",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV25GMFlRUElJZUdNT2lmcWdaQWVGWDFFb0lhNjJWUWFoaXBMSXpmM0V1c2xMREVLSW1xYW9hWlhaSlo0d3FtQWllXzlfUW9MX09vOF9EbWhza2dOaTRqWm14U0loWjNLOUtjRkZIOGdMeFE3SlVDeDhTeFFBVDJpVXRhNnhqMnVTNGFKaHZMNHg1Uk5lTkpWV1R2bmdfbmNCZUVpZkhfWUs0QzBuU0RpU3NZM1A1SGIwRFExZUhUQ0JMbEU1NWJKRFFiZUJiQ0hfUWxoY0RBQmR4c0RKSmtyaGVwaUlMZ1hMR0ktRWlOWWZwM0VENlZkRmthQQ?oc=5",
+   "published": "2026-11-17T18:59:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Irca",
+    "CVC",
+    "Advent",
+    "arbitrato"
+   ],
+   "summary": "Secondo il titolo di ItalyPost, tra i fondi coinvolti nell'operazione su Irca è scoppiato un conflitto: CVC ha fatto marcia indietro sul deal da 3 miliardi e si ipotizza un arbitrato. Il testo dell'articolo non era disponibile, quindi la sintesi si limita ai fatti del titolo.",
+   "why_it_matters": "Un recesso di uno sponsor di primo piano su un deal da 3 miliardi, con possibile arbitrato, mette in luce il rischio di esecuzione e le clausole di uscita (MAC, condizioni sospensive) nelle grandi operazioni italiane. Per le banche di un eventuale pacchetto di debito, significa incertezza su mandati e sindacazione.",
+   "for_you": "Spunto per un colloquio: i rischi di execution e le tutele contrattuali (reverse break fee, MAC) in un LBO large cap. Vale la pena seguire come si evolve la disputa, per capire come si negoziano queste clausole.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "bbf11f34e3",
+   "title": "Iceye lancia Opa su Avio: 41€ p/a e obiettivo delisting. I dettagli dell'operazione",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHAtTTRVSXMwYkU0RVdoUlFFaHhyM1JiZ2k2NjhjbGVvUDhtakx3WUpuVlh1X2t1TkpfRE9oMVhkUDktVGQ4T1lhM3RmT25nanBpdDR1bTQ3ZHNvbXN4TVdfQ1lZUC12NzJaNVZ4cTBQcXRPWnlfam10b0hOUVp1M1NpVWI3MFR3MFFkLTBTanN0djZMNkFWcndMMW1aT0VwTElOakxUcDBobnNrcHFud3RjT1BxcnpuZlNva1dmOU9CdUE?oc=5",
+   "published": "2026-11-18T01:32:26+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "Avio",
+    "Iceye",
+    "OPA",
+    "delisting"
+   ],
+   "summary": "Iceye lancia un'OPA su Avio a 41 euro per azione, con l'obiettivo dichiarato del delisting. Il testo dell'articolo di Milano Finanza non era disponibile, quindi non sono noti i dettagli su finanziamento e struttura.",
+   "why_it_matters": "Un'OPA totalitaria finalizzata al delisting su un titolo di Piazza Affari è rilevante per l'M&A mid-cap. Resta da capire se e come l'offerta sarà finanziata a debito e con quali banche, informazioni che il titolo non fornisce.",
+   "for_you": "Caso da seguire per la meccanica di un'OPA con delisting (soglie, prezzo, squeeze-out) e per l'eventuale acquisition financing di supporto. Utile per i temi di Piazza Affari e per il profilo equity research del lettore.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "37a10c5b63",
+   "title": "UniCredit concede altri 50 mln euro a Retelit Datacenter (Asterion-Marguerite). Sale a 425 mln il finanziamento per lo sviluppo dei data center",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/ma-e-corporate-finance/unicredit-concede-altri-50-mln-euro-a-retelit-datacenter-asterion-marguerite-sale-a-425-mln-il-finanziamento-per-lo-sviluppo-dei-data-center/",
+   "published": "2026-11-17T06:48:34+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Retelit",
+    "UniCredit",
+    "data center",
+    "Asterion"
+   ],
+   "summary": "UniCredit concede altri 50 milioni di euro a Retelit Datacenter, società controllata da Asterion e Marguerite. Il finanziamento complessivo per lo sviluppo dei data center sale così a 425 milioni. Il testo estratto era composto da annunci non pertinenti, quindi la sintesi si basa solo sul titolo di BeBeez.",
+   "why_it_matters": "Il tap di 50 milioni su una linea già esistente è un esempio di debito infrastrutturale incrementale a supporto del capex di uno sponsor infra. Conferma l'appetito delle banche per il settore data center, ma le condizioni (tipologia di facility, margine, tenor) non sono note.",
+   "for_you": "Si collega al tema AI infrastructure del portafoglio e a un'area dove infrastructure debt e leveraged finance si incontrano. Un argomento da colloquio è come le banche finanziano la crescita dei data center con linee incrementali.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  }
+ ],
+ "market_pill": {
+  "what_is_happening": "Il mercato scommette su ulteriori rialzi dei tassi: la Fed tiene i tassi fermi con inflazione ai massimi da tre anni, Musalem parla di diversi rialzi necessari, la BCE è attesa verso un rialzo e il dollaro resta vicino ai massimi di 19 mesi. L'oro scivola ai minimi da oltre un anno, mentre i titoli AI restano volatili dopo i conti Nvidia e le Borse europee hanno registrato la peggior seduta in otto mesi.",
+  "for_you": "Il dollaro forte e la pressione sull'oro mettono in discussione la piccola quota in oro, mentre l'underweight USA è coerente. La volatilità sui temi AI incide sulla tesi infrastrutture AI, ma con PAC e orizzonte lungo non cambia l'impostazione. Il Giappone resta supportato dal governatore BoJ che spinge per ulteriori rialzi.",
+  "watch": "Nessuna azione: continuare il PAC. Monitorare le decisioni BCE sui tassi, i dati sull'inflazione USA e la reazione del mercato ai conti Nvidia per la componente AI infrastructure.",
+  "sources": [
+   {
+    "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5"
+   },
+   {
+    "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
+    "source": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmlWeXc5bFpQUDI1bkQyQVVEMmpSRC1ZUWpkZDczNDU5RUxoNFBzOXpreXZnOTctS0s1NGRBcW5Bb2ZUVGxMSWRiZU5ydWpKYkpaM1EteFZsdHF2Q1JVN1hWOW9aQm13ZlFmVWVuWVI5S0xJVFdUaERVT0hab2tCOUpBSzhvM2ZvczNFd0hNYndoREJ2d3llcVRRdVZ2VUFqZ1VBSGVYY0d5MVREZEp1MA?oc=5"
+   },
+   {
+    "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3BnNkxnajFsX0xFNklvRnJ0OHJtQVR0Zk56aGhVN19YY0Z5aFRjMnVTb1pIakt6cHNXajVNalNrUmVUWWpZWjk1Ukh6T0RhY2ZTX2dLRTdpWTNlVU1vY1hGUl84SlIwcUNQcW51NzlzZDFoNHNiT3hiSHpfSl9ENUhtWWExWWxkT2ZYUUJ4WHdWWjVSOVpkQzZycmpaOXhnbm96Q0RWMmJLYnlkTDFJRFVWbGhqWXkydEE?oc=5"
+   },
+   {
+    "title": "Bank of Japan governor says central bank should keep raising rates",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhGSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5"
+   }
+  ],
+  "stock_ideas": [
+   {
+    "name": "Avio",
+    "ticker": "AVIO",
+    "direction": "Da monitorare",
+    "rationale": "L'OPA totalitaria di Iceye a 41 euro per azione con obiettivo delisting è un catalizzatore concreto; il titolo è già salito sul prezzo d'offerta e il passaggio dal Governo resta decisivo.",
+    "risk": "Un veto o condizioni del Governo (golden power) potrebbero bloccare o ritardare l'offerta.",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHAtTTRVSXMwYkU0RVdoUlFFaHhyM1JiZ2k2NjhjbGVvUDhtakx3WUpuVlh1X2t1TkpfRE9oMVhkUDktVGQ4T1lhM3RmT25nanBpdDR1bTQ3ZHNvbXN4TVdfQ1lZUC12NzJaNVZ4cTBQcXRPWnlfam10b0hOUVp1M1NpVWI3MFR3MFFkLTBTanN0djZMNkFWcndMMW1aT0VwTElOakxUcDBobnNrcHFud3RjT1BxcnpuZlNva1dmOU9CdUE?oc=5",
+    "source": "Milano Finanza"
+   }
+  ]
+ },
+ "briefs": [
+  {
+   "id": "cebe2e9c84",
+   "title": "Wallaby compra il 50% di BPB Medica. Ecco gli advisor",
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemszWFdLaDNtVWViNzlWNlBrX25hRWx2aFlIdEgzc3hrRDBreFR5U3VQbWI4djdXUGtfYVo0OFhZYWt3SF9ZNTJ1ZlZINUFtanBMRlBnVDI4WnE2WmRjR3RnWlJHVkd2MG5tOFM0ZjJVaE9UUk92bzhOVF9YUnJ4UzN3U0dEUlU?oc=5",
+   "published": "2026-11-17T10:51:44+00:00",
+   "category": "M&A Italia",
+   "tags": [
+    "BPB Medica",
+    "advisor"
+   ],
+   "one_liner": "Wallaby rileva il 50% di BPB Medica, la famiglia Scagliarini sale al 100%: pubblicati gli advisor dell'operazione."
+  },
+  {
+   "id": "2ef883a99f",
+   "title": "Private equity, Equita punta sul mercato delle schermature solari con NewSolar",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXhqODVtOWZBZ3Nfa2FSZmxUYy1xbm1rQ216VjV1VGd0cTM3MWItX3RTNFZlZG5ieUlTR0pLeTBZMVdTVHJhd1poLUNncF9FOUxjdGEtcVl2M1FwMFB5S3pmc0tadG9Ya2lQYllrTmZZdVZDMTkzYzR3b0VJQV9kcFBZZGQwRUVtamlZb1lCcWZHWEdHdXcxd2VYX01adjJWMU9KRVpsMl9qOHY0WEFYZWNzVlE3c1c0aGxwSXFCYkpwQzJPei1PZnhn?oc=5",
+   "published": "2026-11-17T05:00:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Equita",
+    "NewSolar",
+    "ELTIF"
+   ],
+   "one_liner": "Equita Capital, tramite il fondo Smart Capital ELTIF con SIMEST, entra in NewSolar puntando sul mercato delle schermature solari."
+  },
+  {
+   "id": "bb46632607",
+   "title": "BonelliErede con NewPrinces nell'acquisizione da 80 milioni di quattro marchi di Mondelēz in Francia",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0ppLVl4N2l2bjdHVkhrWmlfcXd5R05PVVhyOTAzWnk0MDdFZXR1bGViYXhLXzRQNFIyVmV2WURHcE9tdlZOY3E2NENTRHZPSjJtc2d0cXoxUXVUUmVyc1FodkM0RXlodURuc05pMHpYVEh3eEhoWGZVTnQwNjVob3luNmRxeW15c0dxMHp6dDl3RVNyaG5ZNmlEcmtLdEp1OGNrWk1aenZRVDBRX3FVSzVZVFYxbkhZVmZNcDFocXdobmR4?oc=5",
+   "published": "2026-11-17T11:48:35+00:00",
+   "category": "M&A Italia",
+   "tags": [
+    "NewPrinces",
+    "Mondelēz"
+   ],
+   "one_liner": "NewPrinces acquisisce quattro marchi francesi di Mondelēz per 80 milioni, con BonelliErede come advisor."
+  },
+  {
+   "id": "65dd63bd47",
+   "title": "SRI Global (Gallazzi-Vacchi) si aggiudica per 220 mln The Italian Sea Group, che si riserva di approvare l’assegnazione nel cda del 23 novembre",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/crisi-rilanci/sri-global-gallazzi-vacchi-si-aggiudica-per-220-mln-the-italian-sea-group-che-si-riserva-di-approvare-lassegnazione-nel-cda-del-23-novembre/",
+   "published": "2026-11-17T06:53:55+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "Italian Sea Group",
+    "SRI Global"
+   ],
+   "one_liner": "SRI Global (Gallazzi-Vacchi) si aggiudica The Italian Sea Group per 220 milioni; il cda del 23 novembre dovrà approvare l'assegnazione."
+  },
+  {
+   "id": "35497dafc3",
+   "title": "La francese Carmila lancia un’OPS amichevole su IGD per il delisting. Deal da 520 mln di euro. Coop Alleanza aderisce con il suo 40,3%. Nasce un gigante paneuropeo degli spazi retail",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/real-estate-2/la-francese-carmila-lancia-unops-amichevole-su-igd-per-il-delisting-deal-da-520-mln-di-euro-coop-alleanza-aderisce-con-il-suo-403-nasce-un-gigante-paneuropeo-degli-spazi-retail/",
+   "published": "2026-11-17T06:54:55+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "IGD",
+    "Carmila",
+    "OPS"
+   ],
+   "one_liner": "Carmila lancia un'OPS amichevole su IGD per il delisting, deal da 520 milioni; Coop Alleanza aderisce con il 40,3%."
+  },
+  {
+   "id": "594bf9ee58",
+   "title": "Green Arrow Capital investe 15 mln nella nuova Costa Holding (famiglia Costa). Altri 10 mln per Opera Laboratori",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/green-arrow-capital-investe-15-mln-nella-nuova-costa-holding-famiglia-costa-altri-10-mln-per-opera-laboratori/",
+   "published": "2026-11-17T06:51:20+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Green Arrow",
+    "Costa Holding"
+   ],
+   "one_liner": "Green Arrow Capital investe 15 milioni nella nuova Costa Holding e altri 10 milioni in Opera Laboratori."
+  },
+  {
+   "id": "8d68047276",
+   "title": "Gruppo Astidental Bquadro in crisi, dichiarati 42 esuberi",
+   "source": "La Nuova Provincia",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0pZc3RGM194LU80UGxHQkdlLS1zVHBKYUx0NFZJS0FmM1E1cW1nU3pnTTY4LU1UMG1TVzUwU0ZYdExXbzVMU28ySGkyR1g5bll0X0VOdDk2SmhTOWJXdFFXN3VLSDdHWDhJcnVvSDNNYTlBVC1aVkVaN3hoNlZtWFVXVjBHQmJHdHhBWkdPQXpBdXdNTFRrMFNDMC1xeXhfZ1A2eXdaLVJkWGdfMEVvSlBTUlM?oc=5",
+   "published": "2026-11-17T07:34:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Astidental",
+    "Bquadro",
+    "crisi"
+   ],
+   "one_liner": "Astidental, gruppo partecipato da Bquadro, in crisi: dichiarati 42 esuberi, a rischio la tenuta dell'azienda."
+  }
+ ],
+ "international": [
+  {
+   "id": "81b2a91b28",
+   "title": "Canada Pension Funds Join Nordic Capital in €3 Billion Cary Deal",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2RQSjEwbHNWSnhHcmR3V0hmaG1BUHkydk9GRjE0RGJQZWkyR05QQkdWYkZOQnVCenhIOERpYzg4RWxhVDlMVnF5ZHcxQzczaXhjQkdFRllhNThQaVd0M2VKQlpSMnpzZG9uem5RNnQwOE9DdjRULW1UU1lmcHJmQ0F4WnBtSGJmd0JxTW5KdEE4aDR3YVBYSTRzVUlQNVJ2a0w1cUxLbmlyRjlSOE9vSlgzS2FZV0hsUzNCeFduakREUm5jdUoxVlV3?oc=5",
+   "published": "2026-11-17T11:03:35+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Nordic Capital",
+    "co-invest"
+   ],
+   "one_liner": "I fondi pensione canadesi affiancano Nordic Capital nell'operazione Cary da 3 miliardi di euro, a conferma del co-investimento degli LP nei grandi deal."
+  },
+  {
+   "id": "7d7e3fbb75",
+   "title": "TPG nears take-private deal for payments group Bill Holdings",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0h4U1hmbmZxdnNvOGZoNXNYWml0VUZDNVlWLVhKSjZTY0h1UUtRdTZMYTkweHFuUl9SUkYzTERSRUlQWVZTRDE0dk1ZOTlZd2hMUmxoclpYNjRId0hxdnBGLUtCQ3hpVktuRXBVaXRKUVRPVlE2NlB5c0ZvaDlZQndObkg?oc=5",
+   "published": "2026-11-17T16:32:28+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "TPG",
+    "take-private"
+   ],
+   "one_liner": "TPG si avvicina a un take-private di Bill Holdings, gruppo di pagamenti: segnale di ripresa dei grandi LBO su tech/fintech."
+  },
+  {
+   "id": "002341fd5b",
+   "title": "Private Credit Helps Morgan Stanley Avoid $1.3 Billion Hung Loan",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzVPQVFiQ1JDSEx5T2RmbXRpZGhfbkR0R3dJMWM0OVBSNmUwc2FWRnU3MmpobW45OGR6eFFBc3JBenVQcUZZVUZ5SHd6UWprVHRiVVA0YzV2dkRvRjdjXzJnQjVIWWFDNlE0Q0JER3J1aDN2S1dabzVrTmdsYzd1NU5ka3pMMkViUjFoSHppZF9SZEFESTl2US0tWF83ckQyZ1ZSbnBFeDRUQU5Sb29mLUJEQ1Q?oc=5",
+   "published": "2026-11-17T18:18:48+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Morgan Stanley",
+    "private credit"
+   ],
+   "one_liner": "Il private credit consente a Morgan Stanley di evitare un hung loan da 1,3 miliardi di dollari: i fondi diretti competono con le banche."
+  },
+  {
+   "id": "e9a5db74ff",
+   "title": "Private Equity Finds a Year-End Window to Take Cash Out of Firms",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2lpVGhTNENZNlE5SFE1NmZTc3N6STJaOFB2NHlMX0RLOVM1ZHJJS3lmYzRKREdkT0xKcDV6VmdXY2otbGJ2Q0Z1Z0VpZ3o3M3NOSUg5ckl2YVIwQy1JYUpiNnpnUFh4LWN5M3pCZmZjUVdQX2MwZmpJNmJWZ3VBTEd2VHpJWDNYVUJ2a2RNaVI1SjJtNkRxNERqaGRjMXdqN2wyVjhibUY1eW5IaE5BYk1nV0Fadw?oc=5",
+   "published": "2026-11-17T12:51:46+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "dividend recap",
+    "PE"
+   ],
+   "one_liner": "Il private equity sfrutta la finestra di fine anno per estrarre cassa dalle società in portafoglio, tra dividend recap e distribuzioni."
+  }
+ ],
+ "deals": [
+  {
+   "date": "2026-11-17",
+   "target": "Irca",
+   "buyer": "CVC",
+   "seller": null,
+   "deal_type": "Acquisizione (recesso di CVC, ipotesi arbitrato)",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "ItalyPost",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV25GMFlRUElJZUdNT2lmcWdaQWVGWDFFb0lhNjJWUWFoaXBMSXpmM0V1c2xMREVLSW1xYW9hWlhaSlo0d3FtQWllXzlfUW9MX09vOF9EbWhza2dOaTRqWm14U0loWjNLOUtjRkZIOGdMeFE3SlVDeDhTeFFBVDJpVXRhNnhqMnVTNGFKaHZMNHg1Uk5lTkpWV1R2bmdfbmNCZUVpZkhfWUs0QzBuU0RpU3NZM1A1SGIwRFExZUhUQ0JMbEU1NWJKRFFiZUJiQ0hfUWxoY0RBQmR4c0RKSmtyaGVwaUlMZ1hMR0ktRWlOWWZwM0VENlZkRmthQQ?oc=5",
+   "title": "Irca, scoppia la guerra tra i fondi. Marcia indietro di Cvc sul deal da 3 miliardi, ipotesi arbitrato"
+  },
+  {
+   "date": "2026-11-18",
+   "target": "Avio",
+   "buyer": "Iceye",
+   "seller": null,
+   "deal_type": "OPA con obiettivo delisting",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHAtTTRVSXMwYkU0RVdoUlFFaHhyM1JiZ2k2NjhjbGVvUDhtakx3WUpuVlh1X2t1TkpfRE9oMVhkUDktVGQ4T1lhM3RmT25nanBpdDR1bTQ3ZHNvbXN4TVdfQ1lZUC12NzJaNVZ4cTBQcXRPWnlfam10b0hOUVp1M1NpVWI3MFR3MFFkLTBTanN0djZMNkFWcndMMW1aT0VwTElOakxUcDBobnNrcHFud3RjT1BxcnpuZlNva1dmOU9CdUE?oc=5",
+   "title": "Iceye lancia Opa su Avio: 41€ p/a e obiettivo delisting. I dettagli dell'operazione"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Retelit Datacenter",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Financing",
+   "sector": "Data center",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Finanziamento UniCredit salito a 425 mln di euro, dopo ulteriori 50 mln per lo sviluppo dei data center",
+   "banks_advisors": "UniCredit (finanziatore); azionisti Asterion e Marguerite",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/ma-e-corporate-finance/unicredit-concede-altri-50-mln-euro-a-retelit-datacenter-asterion-marguerite-sale-a-425-mln-il-finanziamento-per-lo-sviluppo-dei-data-center/",
+   "title": "UniCredit concede altri 50 mln euro a Retelit Datacenter (Asterion-Marguerite). Sale a 425 mln il finanziamento per lo sviluppo dei data center"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Onex Partners V",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": null,
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcU9SMDRvTEZ0T2pTdWk2ck9ETFViRHNEVDhZZU8weFVyZ0I1WXNCWHhERWdXUnZVMmRCOFkzYWRFT0MxMlJqYjQ0UEV3amtOeVhDTzFNaTJTN3hqUXo1R2JIVFJJMV9KdE9LNTdKaTFUd1ZuQS15bktsbzVlUWdRcUM2elFaREZmbEhBeHhJMTdFLUs5cERxb2J4SWlYNDhJeTZ3?oc=5",
+   "title": "Onex surpasses target for Onex Partners V, raises $7.15 bln"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "BPB Medica",
+   "buyer": "Wallaby",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": "Medicale",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemszWFdLaDNtVWViNzlWNlBrX25hRWx2aFlIdEgzc3hrRDBreFR5U3VQbWI4djdXUGtfYVo0OFhZYWt3SF9ZNTJ1ZlZINUFtanBMRlBnVDI4WnE2WmRjR3RnWlJHVkd2MG5tOFM0ZjJVaE9UUk92bzhOVF9YUnJ4UzN3U0dEUlU?oc=5",
+   "title": "Wallaby compra il 50% di BPB Medica. Ecco gli advisor"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "NewSolar",
+   "buyer": "Equita Capital (Smart Capital ELTIF)",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Schermature solari",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXhqODVtOWZBZ3Nfa2FSZmxUYy1xbm1rQ216VjV1VGd0cTM3MWItX3RTNFZlZG5ieUlTR0pLeTBZMVdTVHJhd1poLUNncF9FOUxjdGEtcVl2M1FwMFB5S3pmc0tadG9Ya2lQYllrTmZZdVZDMTkzYzR3b0VJQV9kcFBZZGQwRUVtamlZb1lCcWZHWEdHdXcxd2VYX01adjJWMU9KRVpsMl9qOHY0WEFYZWNzVlE3c1c0aGxwSXFCYkpwQzJPei1PZnhn?oc=5",
+   "title": "Private equity, Equita punta sul mercato delle schermature solari con NewSolar"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Quattro marchi Mondelēz in Francia",
+   "buyer": "NewPrinces",
+   "seller": "Mondelēz",
+   "deal_type": "M&A",
+   "sector": "Food",
+   "country": "Francia",
+   "ev_eur_m": 80.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "BonelliErede (NewPrinces)",
+   "source": "Legalcommunity",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0ppLVl4N2l2bjdHVkhrWmlfcXd5R05PVVhyOTAzWnk0MDdFZXR1bGViYXhLXzRQNFIyVmV2WURHcE9tdlZOY3E2NENTRHZPSjJtc2d0cXoxUXVUUmVyc1FodkM0RXlodURuc05pMHpYVEh3eEhoWGZVTnQwNjVob3luNmRxeW15c0dxMHp6dDl3RVNyaG5ZNmlEcmtLdEp1OGNrWk1aenZRVDBRX3FVSzVZVFYxbkhZVmZNcDFocXdobmR4?oc=5",
+   "title": "BonelliErede con NewPrinces nell'acquisizione da 80 milioni di quattro marchi di Mondelēz in Francia"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "The Italian Sea Group",
+   "buyer": "SRI Global (Gallazzi-Vacchi)",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Nautica",
+   "country": "Italia",
+   "ev_eur_m": 220.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/crisi-rilanci/sri-global-gallazzi-vacchi-si-aggiudica-per-220-mln-the-italian-sea-group-che-si-riserva-di-approvare-lassegnazione-nel-cda-del-23-novembre/",
+   "title": "SRI Global (Gallazzi-Vacchi) si aggiudica per 220 mln The Italian Sea Group, che si riserva di approvare l’assegnazione nel cda del 23 novembre"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "IGD",
+   "buyer": "Carmila",
+   "seller": null,
+   "deal_type": "OPA / Delisting",
+   "sector": "Retail real estate",
+   "country": "Italia",
+   "ev_eur_m": 520.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/real-estate-2/la-francese-carmila-lancia-unops-amichevole-su-igd-per-il-delisting-deal-da-520-mln-di-euro-coop-alleanza-aderisce-con-il-suo-403-nasce-un-gigante-paneuropeo-degli-spazi-retail/",
+   "title": "La francese Carmila lancia un’OPS amichevole su IGD per il delisting. Deal da 520 mln di euro. Coop Alleanza aderisce con il suo 40,3%. Nasce un gigante paneuropeo degli spazi retail"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Costa Holding",
+   "buyer": "Green Arrow Capital",
+   "seller": null,
+   "deal_type": "Minoranza",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/green-arrow-capital-investe-15-mln-nella-nuova-costa-holding-famiglia-costa-altri-10-mln-per-opera-laboratori/",
+   "title": "Green Arrow Capital investe 15 mln nella nuova Costa Holding (famiglia Costa). Altri 10 mln per Opera Laboratori"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Cary",
+   "buyer": "Nordic Capital e fondi pensione canadesi",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": null,
+   "country": null,
+   "ev_eur_m": 3000.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2RQSjEwbHNWSnhHcmR3V0hmaG1BUHkydk9GRjE0RGJQZWkyR05QQkdWYkZOQnVCenhIOERpYzg4RWxhVDlMVnF5ZHcxQzczaXhjQkdFRllhNThQaVd0M2VKQlpSMnpzZG9uem5RNnQwOE9DdjRULW1UU1lmcHJmQ0F4WnBtSGJmd0JxTW5KdEE4aDR3YVBYSTRzVUlQNVJ2a0w1cUxLbmlyRjlSOE9vSlgzS2FZV0hsUzNCeFduakREUm5jdUoxVlV3?oc=5",
+   "title": "Canada Pension Funds Join Nordic Capital in €3 Billion Cary Deal"
+  },
+  {
+   "date": "2026-11-17",
+   "target": "Bill Holdings",
+   "buyer": "TPG",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": "Pagamenti",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0h4U1hmbmZxdnNvOGZoNXNYWml0VUZDNVlWLVhKSjZTY0h1UUtRdTZMYTkweHFuUl9SUkYzTERSRUlQWVZTRDE0dk1ZOTlZd2hMUmxoclpYNjRId0hxdnBGLUtCQ3hpVktuRXBVaXRKUVRPVlE2NlB5c0ZvaDlZQndObkg?oc=5",
+   "title": "TPG nears take-private deal for payments group Bill Holdings"
+  }
+ ],
+ "date": "2026-11-18"
+}

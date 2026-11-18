@@ -94,5 +94,56 @@
    "Turatti"
   ],
   "ts": 1794825740845
+ },
+ {
+  "id": "77f5a0db9a",
+  "date": "2026-11-17",
+  "vote": -1,
+  "kind": "top",
+  "title": "Tenax Capital lancia TSCF II, il quinto fondo di private debt sull’Italia, con target a 500 mln euro. Raccolti impegni già per un terzo. Tra i key investor Cdp e Intesa Sanpaolo",
+  "source": "BeBeez",
+  "category": "Fondi PE",
+  "tags": [
+   "Tenax Capital",
+   "TSCF II",
+   "private debt",
+   "Cdp",
+   "Intesa Sanpaolo"
+  ],
+  "ts": 1794940170086
+ },
+ {
+  "id": "c3a40f2170",
+  "date": "2026-11-17",
+  "vote": 1,
+  "kind": "top",
+  "title": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash",
+  "source": "Financial Times",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "CVC",
+   "Advent",
+   "IRCA",
+   "deal saltato",
+   "mega-LBO"
+  ],
+  "ts": 1794940154665
+ },
+ {
+  "id": "f82693fdcf",
+  "date": "2026-11-17",
+  "vote": -1,
+  "kind": "top",
+  "title": "Carmila e Igd verso l’integrazione (con Ops obbligatoria finalizzata al delisting)",
+  "source": "Il Sole 24 ORE",
+  "category": "Piazza Affari / EGM",
+  "tags": [
+   "Carmila",
+   "Igd",
+   "OPS",
+   "delisting",
+   "Coop"
+  ],
+  "ts": 1794940160017
  }
 ]
