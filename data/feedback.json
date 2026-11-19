@@ -145,5 +145,53 @@
    "Coop"
   ],
   "ts": 1794940160017
+ },
+ {
+  "id": "3609c6a3aa",
+  "date": "2026-11-18",
+  "vote": -1,
+  "kind": "top",
+  "title": "Irca, scoppia la guerra tra i fondi. Marcia indietro di Cvc sul deal da 3 miliardi, ipotesi arbitrato",
+  "source": "ItalyPost",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "Irca",
+   "CVC",
+   "Advent",
+   "arbitrato"
+  ],
+  "ts": 1794988370244
+ },
+ {
+  "id": "37a10c5b63",
+  "date": "2026-11-18",
+  "vote": 1,
+  "kind": "top",
+  "title": "UniCredit concede altri 50 mln euro a Retelit Datacenter (Asterion-Marguerite). Sale a 425 mln il finanziamento per lo sviluppo dei data center",
+  "source": "BeBeez",
+  "category": "LevFin & Private credit",
+  "tags": [
+   "Retelit",
+   "UniCredit",
+   "data center",
+   "Asterion"
+  ],
+  "ts": 1794988433798
+ },
+ {
+  "id": "bbf11f34e3",
+  "date": "2026-11-18",
+  "vote": 1,
+  "kind": "top",
+  "title": "Iceye lancia Opa su Avio: 41€ p/a e obiettivo delisting. I dettagli dell'operazione",
+  "source": "Milano Finanza",
+  "category": "Piazza Affari / EGM",
+  "tags": [
+   "Avio",
+   "Iceye",
+   "OPA",
+   "delisting"
+  ],
+  "ts": 1794988393886
  }
 ]
