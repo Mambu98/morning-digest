@@ -1,0 +1,590 @@
+{
+ "headline": "Irca-style tensioni a parte, la giornata è dominata dal repricing dei tassi Fed e dal calo dell'AI dopo il debutto di Anthropic; in Italia spiccano i deal sponsor-backed (Evoca, Kleos, Rivean) e l'OPA su Avio.",
+ "top": [
+  {
+   "id": "579e2cdbf3",
+   "title": "Evoca, Carlyle e Park Square rilevano il controllo da Lone Star. Accordo firmato, closing nel primo semestre 2027",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/crisi-rilanci/evoca-carlyle-e-park-square-rilevano-il-controllo-da-lone-star-accordo-firmato-closing-nel-primo-semestre-2027/",
+   "published": "2026-11-19T06:58:10+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Evoca",
+    "Carlyle",
+    "Park Square",
+    "Lone Star",
+    "secondary buyout"
+   ],
+   "summary": "Carlyle e Park Square Capital, già creditori, hanno firmato per acquisire dal fondo Lone Star il 100% di LSF9 Canto Midco, la holding che controlla Evoca (ex N&W Global Vending, macchine da caffè professionali e vending). Il closing è atteso nel primo semestre 2027, soggetto alle autorizzazioni regolamentari. Il nodo è il debito PIK della holding, emesso nel 2019 a 210 mln € e salito a circa 441 mln € per capitalizzazione degli interessi (stima Octus). La struttura finanziaria definitiva non è stata resa nota. Nei 9 mesi 2026 i ricavi sono a 258 mln € (-4,4%) e l'ebitda a 69 mln € (+1,5%). Fitch indicava una leva di 8,2x a fine 2025 e S&P aveva tagliato il rating a CCC+ ad aprile.",
+   "why_it_matters": "È un caso concreto di debt-for-equity swap su un LBO del 2015: il PIK di holding, che cresce per capitalizzazione, ha portato il controllo ai creditori. Mostra il rischio dei PIK holdco sopra una struttura senior secured (550 mln € di bond rifinanziati nel 2024) e il peso dei creditori che diventano azionisti, con Park Square come direct lender che passa a equity.",
+   "for_you": "È un buon case study per un colloquio LevFin: come un PIK holdco da 210 mln € diventa circa 441 mln € e porta a un passaggio di controllo ai creditori. Segui Park Square e Carlyle come creditori che diventano sponsor e allena la lettura dei covenant e delle differenze tra ebitda rettificato dichiarato (86 mln €) e ebitda S&P (62 mln €).",
+   "verified": true,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "2c45d0b055",
+   "title": "ECB to Probe Riskier Private Credit and Hedge Fund Links at Banks",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelZRLXNWLUdqaUxFZzVOOVR6T2tOQmx4RFA0dEF3MFdETnVTV01HY1R2cGpnUGlzVFdZUjh6a2U5d1JfSnZ6dUNwOG0yNEV2UFJKX010WUZlak1SMlFsLUJpcEl6Z2NCNlIwYUw5cGVnbUF6RVpQSzRTS3VGTEhWeWlSSXJCbXl6enptVTJONjRLR1NQeEtoLWNnLTBPMFNzVDVwcl95ZHl1dnRHTEQ0amd3?oc=5",
+   "published": "2026-11-19T09:28:33+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "BCE",
+    "private credit",
+    "banche",
+    "hedge fund"
+   ],
+   "summary": "Secondo Bloomberg, la BCE intende esaminare più da vicino le esposizioni delle banche verso private credit e hedge fund. Il testo dell'articolo non era disponibile, quindi la sintesi si limita al titolo e non ci sono dettagli su tempi, perimetro o numeri.",
+   "why_it_matters": "Se confermata, un'attenzione della vigilanza sui legami banche-private credit potrebbe incidere sui costi di finanziamento di direct lender e fondi (es. NAV e back leverage) e sul ruolo delle banche come finanziatori e controparti del mercato. Per il private credit, dove tieni un occhio critico, è un segnale di rischio sistemico da monitorare.",
+   "for_you": null,
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "432d43ed66",
+   "title": "Nasce Kleos (Augens Capital e Keyhaven), polo degli studi professionali con 15 mln di ricavi. Eurazeo finanzia la crescita",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/nasce-kleos-augens-capital-e-keyhaven-polo-degli-studi-professionali-con-15-mln-di-ricavi-eurazeo-finanzia-la-crescita/",
+   "published": "2026-11-19T06:47:05+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Kleos",
+    "Augens",
+    "Keyhaven",
+    "Eurazeo",
+    "add-on"
+   ],
+   "summary": "Nasce Kleos, piattaforma italiana di studi professionali promossa dall'independent sponsor milanese Augens Capital con Keyhaven (equity) ed Eurazeo (debito). Parte da SRG Associati (acquisito nel 2026, 70% a Augens e Keyhaven) e oggi conta 15 mln € di ricavi, 11 sedi e circa 140 persone. L'obiettivo è 30 mln € di ricavi entro il 2027 con nuove acquisizioni. Prezzo di SRG e importo del finanziamento senior di Eurazeo Global Investor non sono stati resi noti.",
+   "why_it_matters": "È un buy-and-build in un settore frammentato, con un independent sponsor finanziato da un fondo di private debt (Eurazeo) con una linea senior che copre anche le acquisizioni. Mostra il canale mid-market in cui il direct lending finanzia piattaforme piccole. Il testo segnala la difficoltà di valutare gli studi, perché va separato l'ebitda dalla remunerazione dei soci.",
+   "for_you": "Utile come esempio di struttura independent sponsor + equity partner + debito da fondo con acquisition line, nel mid-market italiano. Da seguire: Fineurop Soditic come debt advisor, Eurazeo e Augens. Allena la valutazione dell'ebitda normalizzato nei professional services.",
+   "verified": true,
+   "exploratory": false,
+   "original_url": null
+  }
+ ],
+ "market_pill": {
+  "what_is_happening": "Le attese di ulteriori rialzi Fed (J.P. Morgan li vede alle prossime tre riunioni; i verbali indicano tassi più alti a dicembre) rafforzano il dollaro e pesano sull'oro, ai minimi da 14 mesi. Il debutto di Anthropic non ha rilanciato l'AI: Wall Street chiude in forte calo e le borse asiatiche si avviano alla peggior settimana dal 2020.",
+  "for_you": "Il dollaro forte e il sell-off dell'AI mettono in discussione sia la tesi di infrastrutture AI sia l'underweight USA nel breve; la piccola quota in oro soffre ma resta marginale. Giappone: la BoJ segnala un rialzo a breve, coerente con la tesi.",
+  "watch": "Nessuna azione: PAC invariato. Monitorare la prossima riunione Fed di dicembre e l'evoluzione del dollaro; il sell-off AI può offrire punti di ingresso graduali tramite il PAC.",
+  "sources": [
+   {
+    "title": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5"
+   },
+   {
+    "title": "Asian shares head for worst week since 2020 as AI rout deepens",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5"
+   },
+   {
+    "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5"
+   },
+   {
+    "title": "BOJ chief plays down soft consumption data, signals near-term rate hike",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDZwZlgxbWlzQVM2T25wT25PVUNnUHVoa3F6YndBaVVkUHZXRVdRM2JoVG1tSk5jVzBjU01NemtjakhTYXF0ek9vVlhtUVEwWU1fYjBGdk9FU2ZhMnJyUU92NWNmcnNlTEhqeFpybGROMmg1WkZyamc1dmN6dXdRWk9UMHN2bjh5eUNwM0lKME1ZZ1RxRjJOVHppQ25EUjVlT3RxRkZVaG1pWTRhX3hTclpfTEtlUQ?oc=5"
+   }
+  ],
+  "stock_ideas": [
+   {
+    "name": "Avio",
+    "ticker": null,
+    "direction": "Da monitorare",
+    "rationale": "Iceye ha lanciato un'OPA con obiettivo delisting, Borsa l'ha approvata e Leonardo esclude una contro-OPA; il nodo è il Golden Power.",
+    "risk": "Il veto o le prescrizioni del Golden Power potrebbero bloccare o modificare l'offerta.",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFVEQ0I2b1FjbkVmTlRlbVhxQmxiUGlxWTJBN1hVWWFrSzhzZzFLQm1BR044Vkk0X1NCLXNiSlBUbEx2NkVyTTBCb2V1YWk3dnF0TzBpbGZZRHYwSEc5clY4VFBJVUtidENHaFFBSjBmTUh6VjEzbTNPREJUMFpjcXdqNjBiRkdrclFlZEVZZXVPeVhw0gGaAUFVX3lxTE5CblBjeHpyMjl6R2czLXpha0tNZldyNjY5ZmpVdTFxRWxjZmdjdjJTMDdxUjZRN2VGb01mMG9KWGpIOUVONmFrYk53NDlSa29rRUdTcUYtMlY2OHg4UGctWjY1YkdwanNYa1RVbUpfNXFQcjhoX2hTYW9tcGtGSTFKSU9LYnJrdU8tQTdQMzFsOVRTTkt2VGkwQlE?oc=5",
+    "source": "Il Messaggero"
+   },
+   {
+    "name": "Trevi",
+    "ticker": null,
+    "direction": "Da monitorare",
+    "rationale": "L'Antitrust ha dato via libera all'OPA di Webuild e l'offerta entra nella fase finale.",
+    "risk": "Un esito dell'offerta diverso dalle attese o ritardi sul completamento ridurrebbero il catalizzatore.",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNG52Z2xkMmZlY3daajBPRlkzWmREQ2ZacTJQNXNxTVFaR192SlJQdXF5bmsyTGxqY2lnUkR2Q1BndzRvRGNFNjRBS29oQUxUU3VTNjJuUGxibGlySm5uQlRWRDM1bjRqZ3ZPQlRyYWU3VDZfbWZCTC1fblRWVkNPLWVZNU1CUW1yY0NUMlVwQXk5UzNhOHRkeFY5TkNJWjFjUVl1NDJQUXFvMGZqUGRPRzdMNWpuM2NWczhYNEFIdVJNUHptOTFQVG12dDN0WEl0MEYxMVpBOTNJVUxvMThyQWg0ZVc?oc=5",
+    "source": "Traderlink"
+   }
+  ]
+ },
+ "briefs": [
+  {
+   "id": "3c190a8d49",
+   "title": "Rivean Capital acquista la maggioranza di Errevi. KYIP Capital reinveste",
+   "source": "la Repubblica",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3FqZzMwSXlkTU9Kc3NraGhhX2lGNGNrYlhrWXp2TXhFVHp5cGpIZzZickEydFpoMHBadGNySmIwQzlBNko1YjJZUjRJRkN3QWxFbFVQQnMxMHBJX3JpMk43SlJtYVJyVFJFazhWQ0kwdUU0WGNjdlBGLUJlVXdmZGJDVFEwRDdfc3c0S0tXeC03QTJqblRlWGt5dkhaeDUzVW9GSF91NnRydmJuU3NGZ0dla2F6S3dsSW5xVHBPVQ?oc=5",
+   "published": "2026-11-19T13:48:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Rivean",
+    "Errevi",
+    "KYIP"
+   ],
+   "one_liner": "Rivean Capital rileva la maggioranza di Errevi; KYIP Capital reinveste nell'operazione."
+  },
+  {
+   "id": "0f190070d1",
+   "title": "Biofarma (Ardian) acquisisce due società in Polonia. Il 70% di EuroPharma Alliance e il controllo di EmergoPharm. Utilizzati 59 mln di revolving",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/biofarma-ardian-acquisisce-due-societa-in-polonia-il-70-di-europharma-alliance-e-il-controllo-di-emergopharm-utilizzati-59-mln-di-revolving/",
+   "published": "2026-11-19T06:50:58+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Ardian",
+    "Biofarma",
+    "add-on"
+   ],
+   "one_liner": "Biofarma (Ardian) acquisisce il 70% di EuroPharma Alliance e il controllo di EmergoPharm in Polonia, usando 59 mln di revolving."
+  },
+  {
+   "id": "b6e1444bb3",
+   "title": "Circor (KKR) rileva Green Silence. Tutti gli advisor",
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0J6Z0EtN2QydGlITmpDclVQYjJKVjVDZllRZjIxRE9fTloxUWtkS1FFSlpRR0MzMDNDOTQ5WV9CM3RzU1hhTXlLdkN3ZFNCUkFLcUJ6ZEpLcXVfazlhUjEyRm1FQ3MwS0xRMURqbUdWa192UFM2OEtoRVBTeVFHN3FQaWQ?oc=5",
+   "published": "2026-11-19T13:30:49+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "KKR",
+    "Circor",
+    "add-on"
+   ],
+   "one_liner": "Circor, controllata da KKR, rileva Green Silence: pubblicati gli advisor dell'operazione."
+  },
+  {
+   "id": "4524a25112",
+   "title": "Syclef (Ardian) cresce ancora in Italia e, mediante RefSystems, acquisisce Linea Frigor",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/syclef-ardian-cresce-ancora-in-italia-e-mediante-refsystems-acquisisce-linea-frigor/",
+   "published": "2026-11-19T06:51:57+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Ardian",
+    "Syclef",
+    "add-on"
+   ],
+   "one_liner": "Syclef (Ardian) prosegue il build-up in Italia e acquisisce Linea Frigor tramite RefSystems."
+  },
+  {
+   "id": "4cf5a48afa",
+   "title": "F2i ha raccolto in un anno più di 1,2 mld di euro con Credit Fund 2 ed Equity Fund VII. Che esordisce acquisendo in Spagna il distributore di elettricità Luxida",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/f2i-ha-raccolto-in-un-anno-piu-di-12-mld-di-euro-con-credit-fund-2-ed-equity-fund-vii-che-esordisce-acquisendo-in-spagna-il-distributore-di-elettricita-luxida/",
+   "published": "2026-11-19T06:53:48+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "F2i",
+    "fundraising",
+    "infrastrutture"
+   ],
+   "one_liner": "F2i raccoglie oltre 1,2 mld in un anno con Credit Fund 2 ed Equity Fund VII, che esordisce acquisendo Luxida in Spagna."
+  },
+  {
+   "id": "0b33045730",
+   "title": "Webuild, via libera dell'Antitrust all'OPA su Trevi: l'offerta entra nella fase finale",
+   "source": "Traderlink",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNG52Z2xkMmZlY3daajBPRlkzWmREQ2ZacTJQNXNxTVFaR192SlJQdXF5bmsyTGxqY2lnUkR2Q1BndzRvRGNFNjRBS29oQUxUU3VTNjJuUGxibGlySm5uQlRWRDM1bjRqZ3ZPQlRyYWU3VDZfbWZCTC1fblRWVkNPLWVZNU1CUW1yY0NUMlVwQXk5UzNhOHRkeFY5TkNJWjFjUVl1NDJQUXFvMGZqUGRPRzdMNWpuM2NWczhYNEFIdVJNUHptOTFQVG12dDN0WEl0MEYxMVpBOTNJVUxvMThyQWg0ZVc?oc=5",
+   "published": "2026-11-19T14:39:58+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "Webuild",
+    "Trevi",
+    "OPA"
+   ],
+   "one_liner": "Via libera dell'Antitrust all'OPA di Webuild su Trevi: l'offerta entra nella fase finale."
+  },
+  {
+   "id": "4d7db048ff",
+   "title": "One Equity Partners racks up $3.25bn for ninth fund",
+   "source": "PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNy1tb0R1SGlvRUR1T0JZWTlCUkhzb28wMjZ1NXAtRS1uNlM3V0ZiYi1Ba0pRQVNLTVZMN1ZWcWhGR3gwdjN6OG9QVjVIN3ppWldSNmRDU3NtX0h1Ml9yRktmLWNDbWZZSm8yS3BYODdUR3hIVjViOHZnalpsNDhQcTBrR3FZVEEyc1d6ekctUHduREdJVk1YZzln?oc=5",
+   "published": "2026-11-19T22:22:32+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "One Equity Partners",
+    "fundraising"
+   ],
+   "one_liner": "One Equity Partners chiude la raccolta del nono fondo a 3,25 mld di dollari."
+  },
+  {
+   "id": "ad78819bbb",
+   "title": "ECB to step up scrutiny of banks’ private credit exposures",
+   "source": "Alternative Credit Investor",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDgtaHc3YkM2cXpBZUpkYXZlWERqR3BLT1RZRlIzcmdQWGE2b1pyYzNaNHp4QlpDV2tVT096Q0lEMkMxMlBEYk0yMGhpZjRid3c3OUx4REJOenBjaHpIQ1FCblFYa0JTcFZQTWlZVEVVVGxlX09vaFozUHgtRmUxaDVrM093RnZxdEl1eVpYeFRBVVNpYWJGZ01mWGdkeTd1X24yUGk1TkF2QTQ?oc=5",
+   "published": "2026-11-19T13:30:54+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "BCE",
+    "vigilanza",
+    "private credit"
+   ],
+   "one_liner": "La BCE intensifica il controllo sulle esposizioni delle banche al private credit."
+  }
+ ],
+ "international": [
+  {
+   "id": "6c7eb7a32f",
+   "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
+   "published": "2026-11-19T05:01:23+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Apollo",
+    "private credit"
+   ],
+   "one_liner": "Apollo cancella il prestito da 2 mld di dollari previsto al proprietario del Manchester City dopo violazioni delle regole."
+  },
+  {
+   "id": "d2ba65c10e",
+   "title": "Advent Is Said in Talks to Buy Business Services Firm Boardroom",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWltSDJRclNMNDU5TW90Z0FSeDZoWlBZV0NVY3dZX1d1ZHJRMDkwTV9JWC1NSGp5cHcyVWtGaXluS2pyb3VMd2hLcVk5RWJDZ2JMTmNDcjFTYm93aUdVaHJrVTU0Nmg3WkJvRzlhWGFxMHA0b01BTDRuX3Ewc1JoNFloMk9nbUxkOEhFek9yZ1k3SWhQX2RGdnNVZ20tOE54bi01ZWhCamVvU3BYdGNfNE1lN1c?oc=5",
+   "published": "2026-11-19T10:08:56+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Advent",
+    "LBO"
+   ],
+   "one_liner": "Advent sarebbe in trattative per rilevare la società di servizi alle imprese Boardroom."
+  },
+  {
+   "id": "3cbf3043d9",
+   "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+   "published": "2026-11-19T18:53:15+00:00",
+   "category": "Macro & Mercati",
+   "tags": [
+    "Fed",
+    "tassi"
+   ],
+   "one_liner": "J.P. Morgan vede rialzi dei tassi Fed alle prossime tre riunioni, con l'inflazione persistente."
+  },
+  {
+   "id": "ddd25aee1c",
+   "title": "Private equity’s liquidity cure needs a better formula",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RNVRaNTRlaWYxMjlvMUNCS3JQcmJaa1FZM3lFMWc2VDdwcWFKSVQxdzl6bWJmT1VZQjdyblJsZ1pGLWpzdDExckxud1FveTRwcjk1a1ZGXy16aktXcXdoMEVhQ0U5cEUtQ0xWdUVETHk?oc=5",
+   "published": "2026-11-19T05:03:03+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "PE",
+    "liquidità"
+   ],
+   "one_liner": "FT: la 'cura di liquidità' del private equity richiede una formula migliore."
+  }
+ ],
+ "deals": [
+  {
+   "date": "2026-11-19",
+   "target": "Evoca (LSF9 Canto Midco DAC)",
+   "buyer": "Carlyle e Park Square Capital",
+   "seller": "Lone Star Funds",
+   "deal_type": "Cambio di controllo / debt-for-equity swap (ristrutturazione)",
+   "sector": "Macchine da caffè professionali e distributori automatici",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Debito PIK holding emesso nel 2019 a 210 mln €, salito a circa 441 mln € (Octus); bond senior secured da 550 mln € (2024) e RCF da 80 mln € con scadenza 2029; leva Fitch 8,2x a fine 2025. Struttura finale dell'operazione non comunicata.",
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/crisi-rilanci/evoca-carlyle-e-park-square-rilevano-il-controllo-da-lone-star-accordo-firmato-closing-nel-primo-semestre-2027/",
+   "title": "Evoca, Carlyle e Park Square rilevano il controllo da Lone Star. Accordo firmato, closing nel primo semestre 2027"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Kleos (SRG Associati e altri studi professionali)",
+   "buyer": "Augens Capital e Keyhaven Capital Partners",
+   "seller": "Soci professionisti di SRG Associati (quota di minoranza mantenuta)",
+   "deal_type": "Buy-and-build / piattaforma (independent sponsor)",
+   "sector": "Servizi professionali (accounting, fiscale, labour, corporate)",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Linea di credito senior di Eurazeo Global Investor (firmata a dicembre 2025), anche a supporto delle acquisizioni; importo non comunicato.",
+   "banks_advisors": "Augens: LMS (legale), PwC (due diligence finanziaria e fiscale), Fineurop Soditic (debt advisor), Orrick (finanziamento); Keyhaven: Legance; soci SRG: Target (legale), MPO & Partners (finanziario)",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/nasce-kleos-augens-capital-e-keyhaven-polo-degli-studi-professionali-con-15-mln-di-ricavi-eurazeo-finanzia-la-crescita/",
+   "title": "Nasce Kleos (Augens Capital e Keyhaven), polo degli studi professionali con 15 mln di ricavi. Eurazeo finanzia la crescita"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Errevi",
+   "buyer": "Rivean Capital",
+   "seller": "KYIP Capital (reinveste)",
+   "deal_type": "LBO",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "la Repubblica",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3FqZzMwSXlkTU9Kc3NraGhhX2lGNGNrYlhrWXp2TXhFVHp5cGpIZzZickEydFpoMHBadGNySmIwQzlBNko1YjJZUjRJRkN3QWxFbFVQQnMxMHBJX3JpMk43SlJtYVJyVFJFazhWQ0kwdUU0WGNjdlBGLUJlVXdmZGJDVFEwRDdfc3c0S0tXeC03QTJqblRlWGt5dkhaeDUzVW9GSF91NnRydmJuU3NGZ0dla2F6S3dsSW5xVHBPVQ?oc=5",
+   "title": "Rivean Capital acquista la maggioranza di Errevi. KYIP Capital reinveste"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "EuroPharma Alliance / EmergoPharm",
+   "buyer": "Biofarma (Ardian)",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": "Farmaceutico",
+   "country": "Polonia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "59 mln di revolving",
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/biofarma-ardian-acquisisce-due-societa-in-polonia-il-70-di-europharma-alliance-e-il-controllo-di-emergopharm-utilizzati-59-mln-di-revolving/",
+   "title": "Biofarma (Ardian) acquisisce due società in Polonia. Il 70% di EuroPharma Alliance e il controllo di EmergoPharm. Utilizzati 59 mln di revolving"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Green Silence",
+   "buyer": "Circor (KKR)",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": null,
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0J6Z0EtN2QydGlITmpDclVQYjJKVjVDZllRZjIxRE9fTloxUWtkS1FFSlpRR0MzMDNDOTQ5WV9CM3RzU1hhTXlLdkN3ZFNCUkFLcUJ6ZEpLcXVfazlhUjEyRm1FQ3MwS0xRMURqbUdWa192UFM2OEtoRVBTeVFHN3FQaWQ?oc=5",
+   "title": "Circor (KKR) rileva Green Silence. Tutti gli advisor"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Linea Frigor",
+   "buyer": "Syclef (Ardian) tramite RefSystems",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/syclef-ardian-cresce-ancora-in-italia-e-mediante-refsystems-acquisisce-linea-frigor/",
+   "title": "Syclef (Ardian) cresce ancora in Italia e, mediante RefSystems, acquisisce Linea Frigor"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Windor",
+   "buyer": "Italian Windows Group (Mittel) tramite Sallustio",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/ma-e-corporate-finance/italian-windows-group-mittel-rileva-il-100-di-windor-tramite-la-controllata-sallustio-e-cresce-in-puglia/",
+   "title": "Italian Windows Group (Mittel) rileva il 100% di Windor, tramite la controllata Sallustio, e cresce in Puglia"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "F2i Credit Fund 2 / Equity Fund VII",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Infrastrutture",
+   "country": "Italia",
+   "ev_eur_m": 1200.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity/f2i-ha-raccolto-in-un-anno-piu-di-12-mld-di-euro-con-credit-fund-2-ed-equity-fund-vii-che-esordisce-acquisendo-in-spagna-il-distributore-di-elettricita-luxida/",
+   "title": "F2i ha raccolto in un anno più di 1,2 mld di euro con Credit Fund 2 ed Equity Fund VII. Che esordisce acquisendo in Spagna il distributore di elettricità Luxida"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "One Equity Partners IX",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": null,
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNy1tb0R1SGlvRUR1T0JZWTlCUkhzb28wMjZ1NXAtRS1uNlM3V0ZiYi1Ba0pRQVNLTVZMN1ZWcWhGR3gwdjN6OG9QVjVIN3ppWldSNmRDU3NtX0h1Ml9yRktmLWNDbWZZSm8yS3BYODdUR3hIVjViOHZnalpsNDhQcTBrR3FZVEEyc1d6ekctUHduREdJVk1YZzln?oc=5",
+   "title": "One Equity Partners racks up $3.25bn for ninth fund"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Avio",
+   "buyer": "Iceye",
+   "seller": null,
+   "deal_type": "OPA / Delisting",
+   "sector": "Aerospazio",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Messaggero",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFVEQ0I2b1FjbkVmTlRlbVhxQmxiUGlxWTJBN1hVWWFrSzhzZzFLQm1BR044Vkk0X1NCLXNiSlBUbEx2NkVyTTBCb2V1YWk3dnF0TzBpbGZZRHYwSEc5clY4VFBJVUtidENHaFFBSjBmTUh6VjEzbTNPREJUMFpjcXdqNjBiRkdrclFlZEVZZXVPeVhw0gGaAUFVX3lxTE5CblBjeHpyMjl6R2czLXpha0tNZldyNjY5ZmpVdTFxRWxjZmdjdjJTMDdxUjZRN2VGb01mMG9KWGpIOUVONmFrYk53NDlSa29rRUdTcUYtMlY2OHg4UGctWjY1YkdwanNYa1RVbUpfNXFQcjhoX2hTYW9tcGtGSTFKSU9LYnJrdU8tQTdQMzFsOVRTTkt2VGkwQlE?oc=5",
+   "title": "Avio, Borsa approva l’Opa. Il nodo del Golden Power"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Trevi",
+   "buyer": "Webuild",
+   "seller": null,
+   "deal_type": "OPA / Delisting",
+   "sector": "Costruzioni",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Traderlink",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNG52Z2xkMmZlY3daajBPRlkzWmREQ2ZacTJQNXNxTVFaR192SlJQdXF5bmsyTGxqY2lnUkR2Q1BndzRvRGNFNjRBS29oQUxUU3VTNjJuUGxibGlySm5uQlRWRDM1bjRqZ3ZPQlRyYWU3VDZfbWZCTC1fblRWVkNPLWVZNU1CUW1yY0NUMlVwQXk5UzNhOHRkeFY5TkNJWjFjUVl1NDJQUXFvMGZqUGRPRzdMNWpuM2NWczhYNEFIdVJNUHptOTFQVG12dDN0WEl0MEYxMVpBOTNJVUxvMThyQWg0ZVc?oc=5",
+   "title": "Webuild, via libera dell'Antitrust all'OPA su Trevi: l'offerta entra nella fase finale"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "EmergoPharm / EuroPharma Alliance",
+   "buyer": "Biofarma",
+   "seller": null,
+   "deal_type": "Add-on",
+   "sector": "Farmaceutico",
+   "country": "Polonia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "Giovannelli e Associati",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcXhoMmIxajlSM2JiRUV2LUlFSHNkeUdBSmZhRG55ZjBPS3lmYTBnUWhtdjRkUlhOOVdJaDVUNzlMUUs5SmpMekd6cXlBMWpwc2kwS3k4YVBseGtxMzlPd2xjcnpiUjJENWlmUHZfc2pGdDRSNEp0NmoyVUVkdUhPSE9LaDlrZ0pUU1hBdk84X2dKbmkwMjMxU0ZwcG5rcXZvbUFCV0pRS2hQVmk2ZmZwZkV1RTE5MWJBNkhWOTNSWUw1ZkNmYjdkUy1OQjR2U3ZPLVRhYk9hdDVHWS1sQ0pDVFpvWnAyQnUyR3NDa18wcEFNVWZIUVVHX1Jid2ZEOXcx?oc=5",
+   "title": "Giovannelli e Associati con Biofarma Group nell’acquisizione di una partecipazione di controllo in EmergoPharm ed EuroPharma Alliance"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Acoma",
+   "buyer": "Indutrade",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": null,
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": "De Berti Jacchia, A&O Shearman",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmR0YjlERFppeEZXWW1nZm9TS3RJR01BZUJCYmpsbEI3U0E5THpmZWFvSDVQeUR2RWg0SlhwSkZKdVlLQTlsZHludWdsbkdodzlsWms1cWZ1cWF2WFZqQzNnT2Q4Sm43RlNQcDRhaWRObU9vWmwwRVE2WDRzVXVDWTBnX2dtRVhnQ05wcVoxWGxMdzBLQlZWUDNuVy1OZDBpVGc5WktEWHE0VVp4eDdWNFZwOFBoSE45Vzl5ZVhn?oc=5",
+   "title": "De Berti Jacchia e A&O Shearman nell’acquisizione di Acoma da parte di Indutrade"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Boardroom",
+   "buyer": "Advent",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": "Servizi alle imprese",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWltSDJRclNMNDU5TW90Z0FSeDZoWlBZV0NVY3dZX1d1ZHJRMDkwTV9JWC1NSGp5cHcyVWtGaXluS2pyb3VMd2hLcVk5RWJDZ2JMTmNDcjFTYm93aUdVaHJrVTU0Nmg3WkJvRzlhWGFxMHA0b01BTDRuX3Ewc1JoNFloMk9nbUxkOEhFek9yZ1k3SWhQX2RGdnNVZ20tOE54bi01ZWhCamVvU3BYdGNfNE1lN1c?oc=5",
+   "title": "Advent Is Said in Talks to Buy Business Services Firm Boardroom"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Gentari (business rinnovabili India)",
+   "buyer": "KKR",
+   "seller": "Gentari (Petronas)",
+   "deal_type": "Minoranza",
+   "sector": "Rinnovabili",
+   "country": "India",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEZrVk5pRTZPRXM5NnlpeWdFZjhVSC1mbUVFNUJacUZvYW5jeFVvcVdlY044VVp0ak04dlhxTWlRZzQ4ZTJsTmgxdEFfLWV0OHRwS0syMENfZkxNVGFhWVpZeWd3NHNBckl4V1U3dVlHZ01WcXdiVWt4TzFOOXozSGRMVzlOYVY4Q1E3Nm1acHN0VVMyVDBhdkJDZlVZd2xLSkt5VzJNc1loRk5PWnE1NXBPSkctS09Va244?oc=5",
+   "title": "KKR Invests in India Renewables Business Run by Petronas-Backed Gentari"
+  },
+  {
+   "date": "2026-11-20",
+   "target": "Insmed",
+   "buyer": "Sanofi",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Farmaceutico",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmJ6YXI0dzk5VU9RT29tQkNqMUtvUjI3aGI1ZG5VeklhbWRDeWlsUkxnVDk4MF9NWUQwNmV6akV1d1h3aTZYSU9VRnJVUGhkQ0I3ZTJyNDJRTHdtZENpcF9UY2NWbEpBSV9nRFRFUFpxTjRMcFRzOUVFQ2xEX1lZX1cyTExqTW1VTjZsUTVpdkN2bXZQYk9vOWpRSEE5TFh4OFhLSg?oc=5",
+   "title": "Sanofi valuta l’acquisizione di Insmed per oltre 30 miliardi di dollari"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Medima",
+   "buyer": null,
+   "seller": "Morphosis Capital",
+   "deal_type": "Exit",
+   "sector": null,
+   "country": "Romania",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "SeeNews",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WOTNLNUduNEVSV1J0LUhUbUZLUE91WklJNG9XRkk2VUNMbmxKT1dGblo3XzBCTlhvLUNNa2hpZW4yd1ktdkdZdmxBRUVhRXR6Y3V5Y2IyVEx0N0dIM1VDbG5lcmw3WDc0dmtWR3pjNEU4VUxkSDZHWGFxRU4?oc=5",
+   "title": "Romania's Morphosis Capital exits Medima"
+  },
+  {
+   "date": "2026-11-19",
+   "target": "Anthropic",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "IPO",
+   "sector": "AI",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-equity-breakfast/anthropic-fissa-a-83-dollari-il-prezzo-dellipo-e-raccoglie-813-mld-record-mondiale-valutazione-da-1-500-mld-oggi-il-debutto-al-nasdaq/",
+   "title": "Anthropic fissa a 83 dollari il prezzo dell’ipo e raccoglie 81,3 mld, record mondiale. Valutazione da 1.500 mld, oggi il debutto al Nasdaq"
+  }
+ ],
+ "date": "2026-11-20"
+}
