@@ -241,5 +241,51 @@
    "delisting"
   ],
   "ts": 1795087168394
+ },
+ {
+  "id": "52ed87be77",
+  "date": "2026-11-23",
+  "vote": 1,
+  "kind": "top",
+  "title": "Irca di Gallarate, la partita sul cioccolato da quasi 3 miliardi si complica: scontro tra i fondi Advent e Cvc",
+  "source": "ilBustese.it",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "Irca",
+   "CVC",
+   "Advent",
+   "arbitrato"
+  ],
+  "ts": 1795464925847
+ },
+ {
+  "id": "5582122bb9",
+  "date": "2026-11-23",
+  "vote": -1,
+  "kind": "top",
+  "title": "Trading Floor, settimana da dimenticare. Si salva Brookfield Infrastructure Partners (+8,4%) grazie alla semplificazione societaria. A picco Hamilton Lane (-13,5%)",
+  "source": "BeBeez",
+  "category": "LevFin & Private credit",
+  "tags": [
+   "Trading Floor",
+   "Brookfield",
+   "Hamilton Lane"
+  ],
+  "ts": 1795464951044
+ },
+ {
+  "id": "8c7695eb9e",
+  "date": "2026-11-23",
+  "vote": -1,
+  "kind": "top",
+  "title": "Private equity, le exit slittano ancora. Ma gli studi legali hanno già un piano: ecco come aiutano i fondi a tagliare i tempi",
+  "source": "Milano Finanza",
+  "category": "LBO / PE Italia",
+  "tags": [
+   "exit",
+   "private equity",
+   "studi legali"
+  ],
+  "ts": 1795464940074
  }
 ]
