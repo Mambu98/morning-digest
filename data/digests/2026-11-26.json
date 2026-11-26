@@ -1,0 +1,463 @@
+{
+ "headline": "Mercati in tensione tra attese di rialzi Fed e rotta dell'AI; sul fronte deal, Irca e finanziamenti LevFin (Acqua & Sapone, Amplifon) in primo piano",
+ "top": [
+  {
+   "id": "3174799f47",
+   "title": "Acqua & Sapone (TDR Capital) rifinanzia il debito con un bond high yield da 500 mln euro al 2033. Cedola Euribor +350 pb",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-debt/acqua-sapone-tdr-capital-rifinanzia-il-debito-con-un-bond-high-yield-da-500-mln-euro-al-2033-cedola-euribor-350-pb/",
+   "published": "2026-11-25T06:55:00+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "high yield",
+    "TDR Capital",
+    "refinancing",
+    "Acqua & Sapone"
+   ],
+   "summary": "Cesar spa (Acqua & Sapone, controllata da TDR Capital) ha emesso un bond high yield senior secured da 500 mln euro a tasso variabile (Euribor 3M + 350 pb) con scadenza 30 novembre 2033. I proventi servono soprattutto a rimborsare i 475 mln di floating rate notes 2031, emesse per il secondary buyout del 2024, e a ridurre il tiraggio della RCF. Restano in circolazione 450 mln di bond a tasso fisso 2031. Il collocamento è stato guidato da Barclays, Deutsche Bank e UniCredit come joint global coordinators.",
+   "why_it_matters": "È un refinancing anticipato a poco più di due anni dal buyout, con scadenza allungata di due anni, in un mercato descritto come volatile. Il prospetto indica un debito netto rettificato di 955,5 mln, pari a 4,6x l'EBITDA adjusted run-rate di 207,9 mln. Il multiplo include i contributi stimati delle nuove aperture, quindi la leva effettiva è più alta. Il gruppo ha ancora una perdita netta (-42,3 mln nel H1 2026), ma il mercato HY europeo finanzia comunque un LBO retail italiano con sponsor.",
+   "for_you": "È un caso utile per un colloquio LevFin: floating rate notes su un secondary buyout, refinancing con call del 2031, e la differenza tra leva reported e leva run-rate con aggiustamenti. Conviene seguire il tema della leva 'adjusted' e del pricing E+350 come riferimento per i bond senior secured di sponsor su retail italiano.",
+   "verified": true,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "6f6782214a",
+   "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk9tNFRwWEhtY09nRkh5cWU4bHA5UHd4RmZ2MHdXamV1SVU2UXNIaTU1Ty1ZWEtLbkNDZW5Gbk9ManB3UjMwd1pGYWNVaEg0YW9NT0hfRlc1SF82ek1sT3k1Skl5RjM5R0p5amNGcjdldnJINDFBeDQ4UVpDM1N4aldmRVBodXQxaVY5azFWd0hNQmt0QzBKOXIxR2t1bzd0aGxuc1lWTXQ2WTJOZnV0TC1JSQ?oc=5",
+   "published": "2026-11-25T16:18:11+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Verisure",
+    "CVC",
+    "debito",
+    "LBO"
+   ],
+   "summary": "Secondo Bloomberg, le banche hanno proposto a CVC un pacchetto di debito da 11 miliardi di euro per un possibile takeover di Verisure. Il testo dell'articolo non era disponibile, quindi la sintesi si limita al titolo: non risultano confermati struttura, banche coinvolte, valutazione o leva.",
+   "why_it_matters": "Un pitch da 11 mld, se confermato, sarebbe tra i financing LBO più grandi in Europa e un test della capacità del mercato leveraged loan e high yield di assorbire grandi tickets. Per ora è una notizia di mercato non verificata nei dettagli (tranche, pricing, leva).",
+   "for_you": "Da seguire come indicatore della liquidità del mercato LevFin europeo sui jumbo deal: quando usciranno i dettagli, guarda la ripartizione tra TLB, bond e direct lending, e il ruolo delle banche relationship di CVC.",
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  },
+  {
+   "id": "23ed1deb73",
+   "title": "Amplifon, finanziamento da 1,2 miliardi per completare l'acquisizione di GN Hearing",
+   "source": "Traderlink",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWJTM1NabHl4SWRVblZhN3dhVzAxeGRQeVl0QlFOZVdZWnhyeHpMa0cwRUxQRkl3VFBwWjM1czdlNWRwSEpYWmtlTzRTa3ktQmFOLW44MTRGTGVVeHBWLW5oM0FDcS1BZ29CXzRaQ1JHa0x5STRCLXNvWGtsVHFRWl93dkZJNkd2dE1tNzF0VlRJa0NHSVIxWExoV0VtcjBqZlBTa0hqUXctTl81cHJzeVp3M2w3X2tISnZENVJxM05oMXNkRmFnbmhXN1dhUXpTX0wtM2pzbzVBd1ZUVUdtSHhR?oc=5",
+   "published": "2026-11-25T16:10:47+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "Amplifon",
+    "GN Hearing",
+    "finanziamento"
+   ],
+   "summary": "Amplifon ha ottenuto un finanziamento da 1,2 miliardi di euro per completare l'acquisizione di GN Hearing, secondo il titolo di Traderlink. Il testo dell'articolo non era disponibile, quindi non si conoscono banche, struttura, scadenze, pricing né valore dell'operazione.",
+   "why_it_matters": "È un financing corporate (non sponsor-backed) su un'acquisizione strategica in Italia, utile come benchmark per la capacità delle banche di finanziare M&A di grandi dimensioni nel settore healthcare. Servono i dettagli su tranche, covenant e leva pro forma per valutarlo davvero.",
+   "for_you": null,
+   "verified": false,
+   "exploratory": false,
+   "original_url": null
+  }
+ ],
+ "market_pill": {
+  "what_is_happening": "L'inflazione USA resta alta (Core PCE al 3,3%) e il mercato prezza rialzi della Fed a dicembre e gennaio. Il dollaro è sostenuto dal flusso rifugio, l'oro scende ai minimi da oltre un anno e le azioni scontano dazi e tensione sull'AI (Anthropic sotto il prezzo di IPO).",
+  "for_you": "Il calo dell'oro pesa sulla piccola quota in oro e il ritracciamento dell'AI mette alla prova la tesi sulle infrastrutture AI; l'underweight USA è invece coerente con il rischio dazi. Un BoJ più hawkish sostiene la tesi Giappone, ma con rischio valutario.",
+  "watch": "Nessuna azione: il PAC resta invariato. Monitorare la riunione Fed di dicembre, le mosse della BoJ sui tassi e i dati sui riscatti dei fondi di private credit.",
+  "sources": [
+   {
+    "title": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January",
+    "source": "Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+   },
+   {
+    "title": "Gold falls to more than one-year low after data shows US inflation rose further",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5"
+   },
+   {
+    "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+    "source": "Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ?oc=5"
+   },
+   {
+    "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5"
+   }
+  ],
+  "stock_ideas": [
+   {
+    "name": "Equita Group",
+    "ticker": null,
+    "direction": "Da monitorare",
+    "rationale": "Acquisisce Xenon Private Equity, raddoppiando gli asset gestiti: catalizzatore concreto su una small cap italiana.",
+    "risk": "Integrazione più lenta del previsto o raccolta debole smentirebbero la crescita attesa.",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUw4aTBET21xVHhib09YNjVZcDRPUVdwbkVpTjVPd3ZCMGJEYzhuZXBDeVpuU00xRDZlWlg3ZTNDZWVFY2tTcEZiX0VBRmQxbzhUanF4NUEwdnlYMXJFbjZReGt6QzF6Y3F1d2hiUVRQcjdpNWNvdDlFX09vLTQ5RW1QTG5qRk5hNm53WnBuVVl2OXNLLXNwM29iWWtSUzl0a3oyQzBRMkQ?oc=5",
+    "source": "Milano Finanza"
+   },
+   {
+    "name": "Amplifon",
+    "ticker": null,
+    "direction": "Da monitorare",
+    "rationale": "Chiusa la linea di credito da 1,2 miliardi per l'acquisizione di GN Hearing: l'esecuzione del deal è il catalizzatore.",
+    "risk": "Costo del debito in rialzo con una Fed più restrittiva e difficoltà di integrazione.",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWJTM1NabHl4SWRVblZhN3dhVzAxeGRQeVl0QlFOZVdZWnhyeHpMa0cwRUxQRkl3VFBwWjM1czdlNWRwSEpYWmtlTzRTa3ktQmFOLW44MTRGTGVVeHBWLW5oM0FDcS1BZ29CXzRaQ1JHa0x5STRCLXNvWGtsVHFRWl93dkZJNkd2dE1tNzF0VlRJa0NHSVIxWExoV0VtcjBqZlBTa0hqUXctTl81cHJzeVp3M2w3X2tISnZENVJxM05oMXNkRmFnbmhXN1dhUXpTX0wtM2pzbzVBd1ZUVUdtSHhR?oc=5",
+    "source": "Traderlink"
+   }
+  ]
+ },
+ "briefs": [
+  {
+   "id": "044201bd37",
+   "title": "MacGregor raises €600M in debut high-yield bond under Triton",
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFhobXFITDRoYlRndjIzaW9aT3d1aF82Y1hZUDhfOW1XR1lzelE0a2szWDdsTlpMZkwxSEJiSzROTkNNdXpsVlByVFJsSVMxbV95NDQ5YzlOQUNkSE82WVp4UHVmVDdFY1llcWZLYmN5eEFWX3cxeUI5OVFLOE9sLU40LUJWNC05am5wWE00VzRTNlVRTjRkSQ?oc=5",
+   "published": "2026-11-25T21:10:21+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "high yield",
+    "Triton"
+   ],
+   "one_liner": "MacGregor (Triton) raccoglie 600 milioni di euro con la sua prima emissione high yield: un altro sponsor europeo che sfrutta la finestra del mercato bond."
+  },
+  {
+   "id": "568f1fb810",
+   "title": "Blackstone, Apollo e Warburg Pincus in trattative per sostenere l'acquisizione di Global Payments",
+   "source": "Teleborsa",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFRTd3A3TnhleVdKVWNERlFObWxkSDItYWdmTXp0NTEyVFd4Q3FRc0c4YjFUQ3o5TjZqR2lIU2dhczF3cDdVLWNpRE1xMm44ZHpBcHA4QW4wb3lYczNmTmVzdXVJTDl5ZG51WkF3SWhXb2FsdkZIY0UzXzd2STVZdjhUVzdrRm1oRnJkTjlUaXNFRDNjWWdQc3dJVEVBV25NekZ2Uzh3R01TYXhsZEQtemcteFI5WEhPeWlWZHlCV1hsNENWdlRDSTVNalVsblBZT2lWLVppdVBJc2d4RkhJ?oc=5",
+   "published": "2026-11-24T19:32:08+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "GTCR",
+    "Global Payments",
+    "mega LBO"
+   ],
+   "one_liner": "Blackstone, Apollo e Warburg Pincus in trattative per sostenere l'acquisizione di Global Payments da parte di GTCR, deal da 50 miliardi di dollari."
+  },
+  {
+   "id": "8f226c41a5",
+   "title": "Macre 2014 compra la maggioranza di Liski. Gli advisor",
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJlTGFlX3B3SHpsQUt1YXl5Z1dwbV9aRGtsYURQYkNBT1JJWGFiV0RBMl9OSzFKX0xLbnZUUnF5Z1lDMWNiT0JaZnd1ckYwTGczem41YWZqNVBFdERwNGxKcGZQRzNJbTNYbEVhaVY3NDhVMC1MM0lZcVlQajNFU3pVZEcza19QRlE?oc=5",
+   "published": "2026-11-25T17:13:45+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Macre",
+    "Liski"
+   ],
+   "one_liner": "Macre 2014 rileva la maggioranza di Liski; pubblicati gli advisor coinvolti nell'operazione."
+  },
+  {
+   "id": "eb0a5d5232",
+   "title": "ITAGO SGR, società veneziana di gestione del fondo di private equity “ITAGO IV”, ha rilevato la maggioranza di Cariboni, eccellenza brianzola dell’idraulica per la vela.",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOLW94YzZCbWI5Um5KTS1qWUxTOUhscXd2VGFKa2tTbk85Z1U3Yk55Znp3NnZ1SXI2NTUwWEdHX05FTGhJOW51RjlteTFScU9XSzNqQkM1aW9uNHFLNnVTSXJ1eWlnWEFQMi1FajRQcXRURTVRRlAwQ0xiZml4R19lZl83VEw4ZHlwM3JNektOckxyZmFnVWpGbDc2OEFpeTVnUU8yTmpaY1ozM1BodV9ReUtWcTE2d2ZNQ01SZi1XRHFPU2tCY2JzcktDR09OS0ZJc2RVV2JVTG0xMmRZZnktQlBvR0ZyOHRBTjRfd0toeF9JMUs2U0daeElaZ0thTm04U0dRZ3pmR1hJbG91VUc2M3ROSzhiTHA0MERYdUlwYw?oc=5",
+   "published": "2026-11-25T12:36:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "ITAGO",
+    "Cariboni"
+   ],
+   "one_liner": "ITAGO SGR, gestore del fondo ITAGO IV, rileva la maggioranza di Cariboni, specialista brianzolo dell'idraulica per la vela."
+  },
+  {
+   "id": "436b350284",
+   "title": "EQUITA Smart Capital – ELTIF perfeziona l’acquisizione della maggioranza del capitale di NewSolar.",
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTJiU3NaR01lV2ZuTldJbE1ycHVidEt6LW5OaXVzNTZrX0pqY2lDbGJRY1ZMVXJHNFNhNjVfcDhKRUJjeXg2N0lCSXFVN1VLVFBuX1pVTlhpd3ZDbHIwSXpITC1vckhsajYwVE1GUmxES3k5M3UwLTFjVDRqaHJQenRaeUNLTVdaWHpmUGpWaEE1bl90UjNDM2tJWnJXeXdQUVlXZzJoZ3pDR1ZJUzVBVWY5eEZoM1Y5V2k4VkxBaDFhOXFNaHhwNWI1UmVOQQ?oc=5",
+   "published": "2026-11-25T10:37:00+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "ELTIF",
+    "NewSolar"
+   ],
+   "one_liner": "Equita Smart Capital ELTIF perfeziona l'acquisizione della maggioranza del capitale di NewSolar."
+  },
+  {
+   "id": "4bca5ffb9b",
+   "title": "Intesa-Mps, parte l’Opas: adesioni ancora minime, ma il successo appare probabile",
+   "source": "Ftaonline.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96dWpvRHRTYkRYNmM0cl9WTkFMMVJpMFhCak94U2pzMjlycmZkY01kVDZTMlVMeS1rU1VVR3BJZWl2djVnTmNPMWVZOHlUMmZEZW1wZmwtVU1PSE1tbnJuU0U2c2lBOE5DSU1zSzBYRFVYZw?oc=5",
+   "published": "2026-11-25T09:10:00+00:00",
+   "category": "Piazza Affari / EGM",
+   "tags": [
+    "Intesa",
+    "MPS",
+    "OPAS"
+   ],
+   "one_liner": "Parte l'OPAS di Intesa su MPS: adesioni ancora minime, ma il successo appare probabile."
+  },
+  {
+   "id": "41e452effa",
+   "title": "Corrado Passera pronto a tornare in campo con Stefano Marsaglia sul private credit",
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRkFOSDlhd3h6a09aVTh0SUlfZ0RTcGlVRWl4YkVSSUJZbHV0dU0yRFc2a3BFNjlSNU5tTzNGR0JTYlNtV2hObWsyU3NzVW9aVExQSnAtZ18zSVNWQXdLWXlyNmliMW1RWm9tbkc0X0s1QkVyR0VDSjBIQUN5ZmFUaW50dUJtZUZNLW9vQUdvTXdGRk5Ma3dfQlVmX3VUMWR2ZmROaVRJbnJLTThud21kVWJEczR6U3FUemxNb2ljNDFLd0tvMG1ycEowczVKd0lC?oc=5",
+   "published": "2026-11-25T03:00:00+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "private credit",
+    "Passera"
+   ],
+   "one_liner": "Corrado Passera pronto a tornare in campo con Stefano Marsaglia sul private credit."
+  },
+  {
+   "id": "ac59fa1220",
+   "title": "December redemption data to test private credit fund sentiment By Investing.com",
+   "source": "Investing.com India",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFptaFJ4SVBZUlE0SzRPUzRtZ3luTFg5ZGJvWTczc0pUeGpfTE04RF9fS1kwWm5mTjNEQ0wxZVlWREFqZDhHVXRfSEhmQ2VVemNJVEs1NEhNdGFsWk1FSXdta2RLdm9LOF9aVEk2N1FDM1Q1cmdkdzJSUFM1Q2hBV0JLeFdfaGRPYm9VcXR2QmNJXzB6aG1ocFVrSENxRHRZdHZlRktWT29wTGNVQnhrQXhZbEVXb2Z2UEFsZ1g4N2w?oc=5",
+   "published": "2026-11-25T19:53:26+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "private credit",
+    "redemptions"
+   ],
+   "one_liner": "I dati sui riscatti di dicembre testeranno il sentiment sui fondi di private credit: occhio critico sulla liquidità retail."
+  }
+ ],
+ "international": [
+  {
+   "id": "30494a26d6",
+   "title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXhyMzYyOG80N3d2ZEtoR09tZkxjdFIybjFleW5DWlJnRjViVVR6XzdqTGVNWDVLREdLSHo3MHoyZmhEN2YxMWt5QjU4VzgzclllbDVyN01LbDh5Ym9tcXVUWnVud08tLXMwSm5HS2l3LUJTZExUYWlNVm80WkY4Z293N1ZKdGRiMnpoeG8yWkxaR2ROT2R2U21KaS1Od19yeVBtMmtFcw?oc=5",
+   "published": "2026-11-25T11:16:24+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Advent",
+    "Bureau Veritas"
+   ],
+   "one_liner": "Advent valuta un'offerta per la società francese di testing Bureau Veritas, secondo Bloomberg: possibile mega take-private europeo."
+  },
+  {
+   "id": "afc95aecad",
+   "title": "NBA rallies private equity for €10bn European arena fund",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFFFaVk3Wm94OTdIcUE0QU1IcWdNN0ZMRUNwX1I4TmtNWXhueUdCYzBCanYybFY4WVM5ZWFpUTRpYUZ0ZVp1VFRJMlUwaWtOM2lqb2xRR0c5MGNCaUZBM2MzNEwwbUxOOXlDREVXUWRNaG90bmk1S19Id240cHV3bDdNdms?oc=5",
+   "published": "2026-11-25T13:00:04+00:00",
+   "category": "Fondi PE",
+   "tags": [
+    "NBA Europe",
+    "infrastrutture"
+   ],
+   "one_liner": "La NBA raccoglie il private equity per un fondo da 10 miliardi di euro per le arene europee, con Apollo, Ares e JPMorgan tra i sostenitori."
+  },
+  {
+   "id": "108d5641f4",
+   "title": "Half of European industrial companies under serious financial stress",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemVhdS1IQkdNV2VsNWFwSEk3TmtQMzJxZHRHNHZ6c0lPUnJrVEJiMko2eVNFclNNMkRyYXkzNU9HYkozd2UwX18wMWRLdlVrUVBXZC1nbHl6NkJxWmlaZ3Q3YkVmaGdrNWZqcHBfQUxISlA2M0RrU2FWc2pmTjdBOWp6ZXo?oc=5",
+   "published": "2026-11-25T05:08:17+00:00",
+   "category": "LevFin & Private credit",
+   "tags": [
+    "credito",
+    "industriali"
+   ],
+   "one_liner": "Metà delle aziende industriali europee è sotto seria tensione finanziaria, secondo il FT: segnale d'allerta per qualità del credito LevFin."
+  },
+  {
+   "id": "50d9375807",
+   "title": "EasyJet's profit plunges ahead of Apollo takeover as fuel costs soar",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGI2RTlyaGxFazYyTHNnZXpVZkhKYk1BZTdfUWRmOEJFbGp1UUFSV253a2xZZW9WMW5oaGpScjdaMUNyeFJWQXVYdXJDZXNTak9EbFdDdTFaSFZpQVNwZFJ5dk9mVTZNQ25HMXZfSjIzc09mZUdEMUVIbFkwdnIzQTBMS0F6VmNKc0g0RTlhdHh4b1dUaEdLd1VZOExSVE91blRqWFlKTWNGZDN0aG1V?oc=5",
+   "published": "2026-11-25T07:14:00+00:00",
+   "category": "LBO / PE Italia",
+   "tags": [
+    "Apollo",
+    "EasyJet"
+   ],
+   "one_liner": "I profitti di EasyJet crollano in vista dell'acquisizione da parte di Apollo, mentre i costi del carburante salgono."
+  }
+ ],
+ "deals": [
+  {
+   "date": "2026-11-25",
+   "target": "Cesar spa (Acqua & Sapone)",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Refinancing",
+   "sector": "Retail (igiene personale, bellezza, cura della casa)",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": 4.6,
+   "debt_package": "Bond HY senior secured FRN da 500 mln euro, Euribor 3M + 350 pb, scadenza 30/11/2033; rimborsati 475 mln di FRN 2031; restano 450 mln di bond fissi 2031; ridotto il tiraggio della RCF. Debito netto rettificato 955,5 mln pro forma su EBITDA adjusted run-rate di 207,9 mln.",
+   "banks_advisors": "Joint global coordinators: Barclays, Deutsche Bank, UniCredit (Barclays e Deutsche Bank anche physical bookrunners). Joint bookrunners: BofA Securities, Goldman Sachs International, IMI-Intesa Sanpaolo, Natixis. Legali: Chiomenti (diritto italiano per Cesar), Paul Weiss (diritto USA/inglese per emittente e TDR Capital), A&O Shearman (banche).",
+   "source": "BeBeez",
+   "url": "https://bebeez.it/private-debt/acqua-sapone-tdr-capital-rifinanzia-il-debito-con-un-bond-high-yield-da-500-mln-euro-al-2033-cedola-euribor-350-pb/",
+   "title": "Acqua & Sapone (TDR Capital) rifinanzia il debito con un bond high yield da 500 mln euro al 2033. Cedola Euribor +350 pb"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "GN Hearing",
+   "buyer": "Amplifon",
+   "seller": null,
+   "deal_type": "Acquisizione con finanziamento",
+   "sector": "Healthcare / audiologia",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Finanziamento da 1,2 miliardi di euro (dal titolo)",
+   "banks_advisors": null,
+   "source": "Traderlink",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWJTM1NabHl4SWRVblZhN3dhVzAxeGRQeVl0QlFOZVdZWnhyeHpMa0cwRUxQRkl3VFBwWjM1czdlNWRwSEpYWmtlTzRTa3ktQmFOLW44MTRGTGVVeHBWLW5oM0FDcS1BZ29CXzRaQ1JHa0x5STRCLXNvWGtsVHFRWl93dkZJNkd2dE1tNzF0VlRJa0NHSVIxWExoV0VtcjBqZlBTa0hqUXctTl81cHJzeVp3M2w3X2tISnZENVJxM05oMXNkRmFnbmhXN1dhUXpTX0wtM2pzbzVBd1ZUVUdtSHhR?oc=5",
+   "title": "Amplifon, finanziamento da 1,2 miliardi per completare l'acquisizione di GN Hearing"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Verisure",
+   "buyer": "CVC (possibile)",
+   "seller": null,
+   "deal_type": "Possibile takeover / LBO (non confermato)",
+   "sector": null,
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Pacchetto di debito proposto dalle banche da 11 miliardi di euro (dal titolo)",
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk9tNFRwWEhtY09nRkh5cWU4bHA5UHd4RmZ2MHdXamV1SVU2UXNIaTU1Ty1ZWEtLbkNDZW5Gbk9ManB3UjMwd1pGYWNVaEg0YW9NT0hfRlc1SF82ek1sT3k1Skl5RjM5R0p5amNGcjdldnJINDFBeDQ4UVpDM1N4aldmRVBodXQxaVY5azFWd0hNQmt0QzBKOXIxR2t1bzd0aGxuc1lWTXQ2WTJOZnV0TC1JSQ?oc=5",
+   "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Xenon Private Equity",
+   "buyer": "Equita",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Asset management",
+   "country": "Italia",
+   "ev_eur_m": 70.0,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Milano Finanza",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUw4aTBET21xVHhib09YNjVZcDRPUVdwbkVpTjVPd3ZCMGJEYzhuZXBDeVpuU00xRDZlWlg3ZTNDZWVFY2tTcEZiX0VBRmQxbzhUanF4NUEwdnlYMXJFbjZReGt6QzF6Y3F1d2hiUVRQcjdpNWNvdDlFX09vLTQ5RW1QTG5qRk5hNm53WnBuVVl2OXNLLXNwM29iWWtSUzl0a3oyQzBRMkQ?oc=5",
+   "title": "Equita acquisisce Xenon e radoppia gli asset gestiti"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Deutsche AM European direct lending fund",
+   "buyer": null,
+   "seller": null,
+   "deal_type": "Fundraising",
+   "sector": "Direct lending",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Target fino a 2 miliardi di euro",
+   "banks_advisors": null,
+   "source": "Private Equity Wire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaGFGTFRqVXdkLTZ3ci1STkI0OFpsbnl2aUJIYnJQNGwzSFZ3aU1VdVdsZ180WmRtRHNVWmxfdmNNUUotZU15aGo4djBnMUpHVUF6bTIzU2dVWXJVWHVGUFd3N2thaFZmWDhHd3pzQi1TaFg1bnBoZE9TcDl0dENvWm1iUnd6NW9oTlJOLVd1blR2dXVaN0tSNS1GZUxkbEhFN1MzdnhJT2Q0VEtEbnRmWV9Dc3oxM1FD?oc=5",
+   "title": "Deutsche AM nears first close for European direct lending fund targeting up to €2bn"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "MacGregor",
+   "buyer": null,
+   "seller": "Triton",
+   "deal_type": "Financing",
+   "sector": "Industria marittima",
+   "country": null,
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Bond high yield di debutto da 600 mln euro",
+   "banks_advisors": null,
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFhobXFITDRoYlRndjIzaW9aT3d1aF82Y1hZUDhfOW1XR1lzelE0a2szWDdsTlpMZkwxSEJiSzROTkNNdXpsVlByVFJsSVMxbV95NDQ5YzlOQUNkSE82WVp4UHVmVDdFY1llcWZLYmN5eEFWX3cxeUI5OVFLOE9sLU40LUJWNC05am5wWE00VzRTNlVRTjRkSQ?oc=5",
+   "title": "MacGregor raises €600M in debut high-yield bond under Triton"
+  },
+  {
+   "date": "2026-11-24",
+   "target": "Global Payments",
+   "buyer": "GTCR",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": "Pagamenti",
+   "country": "USA",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": "Blackstone, Apollo e Warburg Pincus in trattative per sostenere il deal",
+   "banks_advisors": null,
+   "source": "Teleborsa",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFRTd3A3TnhleVdKVWNERlFObWxkSDItYWdmTXp0NTEyVFd4Q3FRc0c4YjFUQ3o5TjZqR2lIU2dhczF3cDdVLWNpRE1xMm44ZHpBcHA4QW4wb3lYczNmTmVzdXVJTDl5ZG51WkF3SWhXb2FsdkZIY0UzXzd2STVZdjhUVzdrRm1oRnJkTjlUaXNFRDNjWWdQc3dJVEVBV25NekZ2Uzh3R01TYXhsZEQtemcteFI5WEhPeWlWZHlCV1hsNENWdlRDSTVNalVsblBZT2lWLVppdVBJc2d4RkhJ?oc=5",
+   "title": "Blackstone, Apollo e Warburg Pincus in trattative per sostenere l'acquisizione di Global Payments"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Liski",
+   "buyer": "Macre 2014",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": null,
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJlTGFlX3B3SHpsQUt1YXl5Z1dwbV9aRGtsYURQYkNBT1JJWGFiV0RBMl9OSzFKX0xLbnZUUnF5Z1lDMWNiT0JaZnd1ckYwTGczem41YWZqNVBFdERwNGxKcGZQRzNJbTNYbEVhaVY3NDhVMC1MM0lZcVlQajNFU3pVZEcza19QRlE?oc=5",
+   "title": "Macre 2014 compra la maggioranza di Liski. Gli advisor"
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Cariboni",
+   "buyer": "ITAGO SGR (ITAGO IV)",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Nautica / idraulica",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOLW94YzZCbWI5Um5KTS1qWUxTOUhscXd2VGFKa2tTbk85Z1U3Yk55Znp3NnZ1SXI2NTUwWEdHX05FTGhJOW51RjlteTFScU9XSzNqQkM1aW9uNHFLNnVTSXJ1eWlnWEFQMi1FajRQcXRURTVRRlAwQ0xiZml4R19lZl83VEw4ZHlwM3JNektOckxyZmFnVWpGbDc2OEFpeTVnUU8yTmpaY1ozM1BodV9ReUtWcTE2d2ZNQ01SZi1XRHFPU2tCY2JzcktDR09OS0ZJc2RVV2JVTG0xMmRZZnktQlBvR0ZyOHRBTjRfd0toeF9JMUs2U0daeElaZ0thTm04U0dRZ3pmR1hJbG91VUc2M3ROSzhiTHA0MERYdUlwYw?oc=5",
+   "title": "ITAGO SGR, società veneziana di gestione del fondo di private equity “ITAGO IV”, ha rilevato la maggioranza di Cariboni, eccellenza brianzola dell’idraulica per la vela."
+  },
+  {
+   "date": "2026-11-25",
+   "target": "NewSolar",
+   "buyer": "Equita Smart Capital ELTIF",
+   "seller": null,
+   "deal_type": "M&A",
+   "sector": "Energia solare",
+   "country": "Italia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Il Sole 24 ORE",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTJiU3NaR01lV2ZuTldJbE1ycHVidEt6LW5OaXVzNTZrX0pqY2lDbGJRY1ZMVXJHNFNhNjVfcDhKRUJjeXg2N0lCSXFVN1VLVFBuX1pVTlhpd3ZDbHIwSXpITC1vckhsajYwVE1GUmxES3k5M3UwLTFjVDRqaHJQenRaeUNLTVdaWHpmUGpWaEE1bl90UjNDM2tJWnJXeXdQUVlXZzJoZ3pDR1ZJUzVBVWY5eEZoM1Y5V2k4VkxBaDFhOXFNaHhwNWI1UmVOQQ?oc=5",
+   "title": "EQUITA Smart Capital – ELTIF perfeziona l’acquisizione della maggioranza del capitale di NewSolar."
+  },
+  {
+   "date": "2026-11-25",
+   "target": "Bureau Veritas",
+   "buyer": "Advent",
+   "seller": null,
+   "deal_type": "LBO",
+   "sector": "Testing e certificazione",
+   "country": "Francia",
+   "ev_eur_m": null,
+   "ev_ebitda": null,
+   "leverage_x": null,
+   "debt_package": null,
+   "banks_advisors": null,
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXhyMzYyOG80N3d2ZEtoR09tZkxjdFIybjFleW5DWlJnRjViVVR6XzdqTGVNWDVLREdLSHo3MHoyZmhEN2YxMWt5QjU4VzgzclllbDVyN01LbDh5Ym9tcXVUWnVud08tLXMwSm5HS2l3LUJTZExUYWlNVm80WkY4Z293N1ZKdGRiMnpoeG8yWkxaR2ROT2R2U21KaS1Od19yeVBtMmtFcw?oc=5",
+   "title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas"
+  }
+ ],
+ "date": "2026-11-26"
+}
