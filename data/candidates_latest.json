@@ -1,5 +1,893 @@
 [
  {
+  "id": "a799cc1a8f",
+  "title": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlFfb2ZwYzBlM1lBVThaMG55RTZDYXpNMnFidlZ6dWlydTF0d3RqZ1NWSDRXUmVJWDJMNFQzUnBWWHZnUWdjZ1NtTS1yOVE4WFpfeVBhVlFreHVPby0xczRIcFVReXh0X2hFUG9wZW5nbWtyWFpyV19ud0RtWlVYR2J5QWxlMXZ3SHZPX01SVmxuQ1lHdFE4YkY5dVBtcm85d1E?oc=5",
+  "published": "2026-11-28T06:21:17+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "12b6f97c46",
+  "title": "Inaugurata a Genova l’ottava Panchina Rossa di Cubo Unipol in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/arte/inaugurata-a-genova-lottava-panchina-rossa-di-cubo-unipol-in-occasione-della-giornata-internazionale-per-leliminazione-della-violenza-contro-le-donne/",
+  "published": "2026-11-28T06:15:37+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "66712d521f",
+  "title": "Bandi SIMEST 2026: 9 linee aperte e fondo perduto al 10%",
+  "source": "Incentivimpresa",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDLXJOX205LW5Od250UDY4TkRFdl90WW92M0tXb0lvc0hMbS1JNzhjY1JXVmdTM1JkX29nemlYX3l6a1YyRG40eUsyQkNhRlBKVXBPcDdwX2MwZ2Q2STFqNHdB?oc=5",
+  "published": "2026-11-28T00:31:52+00:00",
+  "topic": "Debt financing Italia"
+ },
+ {
+  "id": "6360d91f86",
+  "title": "Markets Bet on Fed, ECB and BOE Rate Hikes Over the Next 12 Months as High Rates Could Last Until 2031",
+  "source": "KuCoin",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JRW9xWjV0c25Kdm5LTGVJNzVFX1pMbHVlQkdNaXlFbnVzLVVXTlhLeGxrNWJXbmNpVWFXMExyM0JWVUxPYWNodG1qazE4M3JlMEFseE1zbjdTR2NCR04wbmZTaEtJRU50NEJaX29Ldk8?oc=5",
+  "published": "2026-11-28T00:14:37+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "55ac44dbaa",
+  "title": "Norton Rose Fulbright advises Truleum Venture Partners on launch of tokenized private credit fund",
+  "source": "Norton Rose Fulbright",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT0Zfbk5GN2tqMC1iMmNJOE1jZmhRSXNsLWxCQUx2SEhwMEs0ZkZXanFJbV9CS1NiTS10aTN3a3VaNmtEa0s3SlN1dmlweVFRTEFjZFBTNDRtZFJPclhYQk5qMXktRTEyWkUwTGZkLUI2NkM4ZFpMUnRhbnZXYUoxYjE5NS11aktGajh0SmtOQWtVbG11c1VMWldhN09RMmNSaXJEYjNEaDVOSmFaVFlLQ1ctRVd6eDBSLUVGWmxGYVR1SGxfcFRjTzhUVHB3WHFiUFpwOXBlSlVNMnp5cUpCUi1aajdPYVNtWG0weHpwU1duaEdpekRB?oc=5",
+  "published": "2026-11-27T23:08:38+00:00",
+  "topic": "Private credit Europe"
+ },
+ {
+  "id": "197baa14b7",
+  "title": "Form 8K T. Rowe Price OHA Select Private Credit Fund For: 27 November By Investing.com",
+  "source": "Investing.com India",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkZjYnFGcEYyVlRVZy1fZzNiUThnQnB4YTVuUnJjZ1UybC1lOEU2RHFfbHJ1Y2ZraTYxNXFjRUlEMlBHY29xbEx2UTZWT2RVckZMV3VsaF81b25hdk85QllPYkh3U1diVWFSS0VlVlhqVnl3QlR0dG9CLUVpT0ZnY1p6NS02VVBqUWhKd1NYNUwzZU5jUlEtVkNHSmxwaE9YMVU4MjBGQTJnR3pIZzRWU3R1d21CX29yRTZ3Vk5NbkdWd0VXMHFF?oc=5",
+  "published": "2026-11-27T22:17:10+00:00",
+  "topic": "Private credit Europe"
+ },
+ {
+  "id": "68161aea63",
+  "title": "GEF Capital Partners Raises $615 Million at First Close of South Asia Growth Fund IV, Topping Its Target for India Climate Investing",
+  "source": "HedgeCo.Net",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVi12Qk00WjhfMnBYZml1Z0RrUVBfRTFWVF9mV2JPUnRuYWZNY3pXWm1JQWF4OTJ5cGFWREpPc2l2d2dFMGV4QlAtMlMzQXVUQUhKay1XTm41cVc3dUs5Vmx5akZURVVKaTdLTl9MQy1WMmp5Qkl4M3hHYTNRRTBlVkh2Smk3dEFzVGFtOFJmb0xGR0ZSUHo4QkF1eXFGeTRLSXJlRWEwa3drejVEc1ZpT3JnX25mbmVPdG05Q1NqbnR2VmNHdzJLOGZrZlFtWlJlSFQ1ak5jOE9UeGdNTUo1c3hhODM2SzRFSjJnQkx2MFFTUXFpVk12TENxSmE?oc=5",
+  "published": "2026-11-27T21:51:18+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "8b7cf23f0b",
+  "title": "Fed Rate Hike Bets Harden as Inflation Hits 3.8% and Tech Stocks Slide",
+  "source": "Around Prague",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTczemZXcDNhTWVsdy0wbi1BRklzWU80ekFDZDdsOWVySkNkTEk2T1pVVjhaU2ZUVlBlbWQ2TXJKVDZ3aXFPVnZNQUQ2ZWxRWHRNTjc0N252cFNpWE5HLUx4TC1ULUJsU3V4RlVjckFoeDVTUW1vZ1FrT0ZTZGxoUzZTeTZtMXdJWEpDZjRJVW1YZHBja0tPSV85QllNY1NPNUpCcmZIOA?oc=5",
+  "published": "2026-11-27T21:41:21+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "75f7811605",
+  "title": "Ares Provides SEK13bn for Cary Group Buyout",
+  "source": "Wisevoter",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUW1CYTBSM2xBa2E1UjgyVzVlOVFfSUxPVnJBc3VUOW5NQkxnWHZrZVBoYUFHNHRhbWhNeXB2YUVEVGxVRFpfOGg2U3dGd2EtQWMtb3M4STYwczhKWGdnWWhrdTdIREl2SXp0YVhCUnM1R2xUVEc0Vjl4aE5kR2RaRFM0LV9MUQ?oc=5",
+  "published": "2026-11-27T21:16:22+00:00",
+  "topic": "Private credit Europe"
+ },
+ {
+  "id": "a2d4ca981a",
+  "title": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
+  "published": "2026-11-27T21:10:41+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "9fa2ce7ca4",
+  "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNElnc21mUVJWTGEwdHJtLW92M2loQ2dEUW1majlOZzhqMThGeTdYUHJiS2xfSEFIY3JQbnhZdUJjV3VtVG9HYUdYY2JaU2M0bmhIU25aQkNPa2tmSlR1N0VGUlNQekJlMEtHS1hYQWZZYmh4WXFRYndQTzNNdlFkMm1oU3NiS3VhaWw0NVFObVktazlrR0dLamM4Uy1wNkkydmFSS1hOa0pIMmdjUHR4dzc0VkZ6SjRqa3RPXw?oc=5",
+  "published": "2026-11-27T20:47:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "3249be233d",
+  "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmhUS2hfSENsVnNTc1FUcmFiYjZPSndvTnpmQzVsTDktbVEtTUpPZE9oTGFhdFRkckd4Y3VUMURSeThfSVU5NGtnc2tRbzVsVmotNlVoVUhBc0ZRZ1ZsNHhaelFXbFNxRy1lTjgxbmEzQTNwVFNMT2hldC1jejN0c0VWM0NZZ3d4Vmx6RHJUdFNwTlpmUU9qT083NkVGbTBZMW0xa0hmbG1kMlBwSDRSQm13?oc=5",
+  "published": "2026-11-27T20:20:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "4fa887e298",
+  "title": "CVC to acquire Irca from Advent",
+  "source": "PEI Private Equity",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDJMcFJpOXlGUGFldWtGcWdyeG8zZG44YW02bDhsRWtPd3NaTTYzVzY3cGQtMG5UQzVsYzFCbFdmQnQwWks0NEFpcXBMQVVZLXZKbldZWEVNWW9nclpmRl9BbklIZThIeGQwVXN6a2tUV09CWEd6a043NGhQVldUTA?oc=5",
+  "published": "2026-11-27T20:13:56+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "1751a3a902",
+  "title": "Blackstone tra i fondi disposti a finanziare l'acquisizione di Everaxis, azienda francese del settore difesa",
+  "source": "la Repubblica",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzFoNjdRcU01MXJPbVFIZldiZFlMNV9vZTRDMnNpX1U5bGN2R3A5MzV2RHE2Zmhjd3VtQ3FiTTBqTnlUbG5icVA1MS1LNmRmeWc5U3dobnBMbkxyR1lMUThaOWJ1azY3ckpXZlNSaFhkUlJYSFZHOGswcWFpOXdVUmhSa0JZajRUY0ZvclhLS2w3ZzRQWnFWdWdJYUFrS1Jvb2ZpWVpNdU9zTnZ4cXZ4ZEY1VFJtbXBsdm9hZGxkWFI0emZ1MDR1QnVoN0kwTDh5UEtKWm1CdV9MMGdpQmdLbG1LZU9SX3FiMEdPcHhn?oc=5",
+  "published": "2026-11-27T19:33:00+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "dc2ac8076a",
+  "title": "Piazza Affari chiude in forte rialzo, FTSE MIB a 49.276 punti",
+  "source": "BusinessCommunity.it",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVF1TmRFaDIwQXl5YkdVS3lpenhpREYwcjFwaUJuZVYxalpWQ0NYekV5Q0hVdDNXQnhBUGZBb00wSkdjSE50aWdaOWtvbkdMVUFLbGNXbFNHbW95OUNTVWlIbEVpSlQ3TWk0UGhIN2xKTDNfREs1aHBqNzdWLTFlSFY2X2hTUEh2V1hPdi1yZFhrYnZyMURfQkp6dTZPVUI2WFNsWndmeDc1TUxKTlpMVkVtMk94djk4NkdWYTI1WFdqVExuX3fSAcYBQVVfeXFMUC1RdU5kRWgyMEF5eWJHVUt5aXp4aURGMHIxcGlCbmVWMWpaVkNDWHpFeUNIVXQzV0J4QVBmQW9NMEpHY0hOdGlnWjlrb25HTFVBS2xjV2xTR21veTlDU1VpSGxFaUpUN01pNFBoSDdsSkwzX0RLNWhwajc3Vi0xZUhWNl9oU1BIdldYT3YtcmRYa2J2cjFEX0JKenU2T1VCNlhTbFp3Zng3NU1MSk5aTFZFbTJPeHY5ODZHVmEyNVhXalRMbl93?oc=5",
+  "published": "2026-11-27T19:05:28+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "31d447a67e",
+  "title": "Banque Postale accelera in Italia con Lfde. Il ceo de Berranger: puntiamo a 100 miliardi",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckM1UWcwNmJ6TmxIdkFILVpHZ3VCUTNhYTVXREFzUG9xM0s3c051cnVMWUVrY19OSEpHbm9JdDlxdVBQeDRHQ3NIRGF1dC1UZm83QUF3S3cxcXJLU0daZHR4QXBkVlRxRS1VMkI4Y2NvYVdUTmE4cm84TkhnWlVKa1VhUDZEdmJXSFF5UEpnNVFDNk52Z1FJUzM5eUhsMnBuZ0RINmFMSGZiWHBNVXNZNHY1RlYtSTNzcExZdGkxaDJYRXFZaFpwYXl2YTVLOTdqRlNTRzNn?oc=5",
+  "published": "2026-11-27T19:00:00+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "51fab1fc7f",
+  "title": "Energy & Utilities Roundup: Market Talk",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdl81NVQxV0VDOGt3bmpiRWpKMzF2c2t3cW5tTmJwR3I4WlNNSGRjQmd5a3MyekpQSVRQc0RUUTdzOFlnZUl1elFqSnRINTBWVTRuLXdxRHc5VThzOGRsaXh0ZkRIZjdzZ0JYNy1HSjE4VXFmbkpTX2daRk5zamhjUGpVZ3psRTVwRXd3?oc=5",
+  "published": "2026-11-27T18:15:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "f3cbd7e85e",
+  "title": "Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3NCakg0Z04tRDdFSDU5WFVZRmpzT1BqcGxlRUUta2FXTUdSaHZpSjVXTkVLVV9WNEZLV0d2a3M3Y3F4QnVFVmd0ME5pWHdXZUlRbXF4aGF4eUZWRmU2QXIwN3NDRmpsOWJFaGotcVlzcENVY2Vtbm1FRFlzNFp0ZmlsS2c?oc=5",
+  "published": "2026-11-27T17:33:17+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "433bbdceb6",
+  "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzFFM2ktMW9uTG81dUw2dGhZTkhNTV9leUNsczRQRWRGNUYyN2htRzZfeXlEQXZDRDFhaDJiSElabkVUN3ZzOG9ta2NaTlU3Q3A3empUZU11TnNXT0ZuZVpjTktYR21BdlktZWE1QXVFdTdKUVB0QS1hRnI5YUhCb183S0o?oc=5",
+  "published": "2026-11-27T17:29:29+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "f663e8f6f9",
+  "title": "Novembre sui mercati: la paura fa 40",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3dfNF9RbkpKY2lsVWR0NDFfREY0Wjg2WUtwdjNUSDRHN01nU3pQRWJRT2JxbDM1bDFNSjNmNVZ5eDIyVlNnY1NYaWtBQjJrSmVRTW53V3hlTmFtOFNGVGJkVlFRdVpCTGZGRWpjcmxiVG03WV90ODU4d1JKdlpxbDYySVRPbzA?oc=5",
+  "published": "2026-11-27T17:17:34+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "814297006b",
+  "title": "Ultim'ora news 27 novembre ore 19.30",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDRFbTYtZ1dnT2hWQVp5TFM0by1SUG1SYnd5bkItbGM5VzREa1ViYWJYV3NKY1BMWUlKemp4d0lFenAyZnh3RHg4NUhHem1Eb3J6ZlZzSUV0UHlPcm40RlNaVGt1ZlJTY1A3a180bEQtcG9UcWtxaFFSVDZCcG5Fdy1XMFFiMHp2?oc=5",
+  "published": "2026-11-27T17:09:52+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "123bdfef00",
+  "title": "Private equity, ecco perchè il mercato obbligazionario del Nord Europa conquista i fondi Usa",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0Jyd0lSTE9rbHdKUkxiakEtZzBYZlBaUW9XbFo0WmpfV1h4dmJLcVRtZzNJcGZ0OE1YT0FVVkd6ekwyWjNleUhYbjR2OC03V0IzYkptTVZLNHc5UG91ci1IeE5Fd1BqdGJROEZESUxGQ29rTW5fV3NpN1RpR3hYX3dfbkxnZEZwLVN3Z2o0RFdMMWlJYVYyRFdlVmZQSjNic3FrMWNxbXFwdVVYbTlrajM2S0Jmc0tjU3FZSzdnaEVtVXlaX3VJN3JSMHBSd1hjUHc?oc=5",
+  "published": "2026-11-27T17:02:00+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "70e81aa827",
+  "title": "Borse 27 novembre: Piazza Affari ancora regina d'Europa e il Nasdaq riparte con l'AI. Anthropic risorge, Nvidia no",
+  "source": "FIRSTonline",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVJnSlZzbkx1Q05ycDZ0Q0lWM0NiTTZ1TUVmVEhSdzd6dl8xcS1xRkwyTWhwcmpqWTdMbmVKempVeXZDWDB4b1RpSEZUemZHTGFvdEE5NUJucGJTam5wME9rQXRxcXVJQlVYZ2JjUjR4RXU3d2xoT3VWakVjVTl3NlgySzBFaXdTZ0t2VWVSLUVhWDYwOWpQd1RXMUlIbTlCUWZONEFSY1ZxY3ZVa2d4dEE3bGs0MUJsdkdIbjVRNEF5YVAwandaallCd3JsSmxBVDBObllB?oc=5",
+  "published": "2026-11-27T16:47:19+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "c057736073",
+  "title": "Piazza Affari maglia rosa d'Europa grazie a Banche e Difesa",
+  "source": "Borsa Italiana",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1ROZUdmV0Z1akZjcVk2V0xpYTcwR2I3R3VkSk9PenpKSWZTOEJKT1dadVlpdFlNS0tHRUttbGNpN0Z0dnVteHdzeTV0QjFrU0M5cHZ5WERtNHhPeXVmY3RQdmt3bWFGOE1KS0FTVTB4X0hpTG1TUVJIVjl4SWhTRzJaMXZ0Q0xvRVhybHVfVmtvTnVaajNPVERQYTdQcl8yUWVYZGFscDdDSFFNeTZRMVY3TVJEOTkzR0ljdV9GSlVHUTJ0dENFWGRlV2lZQ3dXR1BvMUtwaW1HaV9lTnc?oc=5",
+  "published": "2026-11-27T16:46:00+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "da17731b9e",
+  "title": "Altea Federation (Chequers Capital) rileva Elmi. Ecco gli advisor",
+  "source": "Financecommunity",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkpLV2NWRTFJdjc0VHpZNVV6VEJlT1pzNHhSRTZOeFA2dmxBUm5aZk1RUGVSSnh2RHBDNGJhRWJobC1OYTczaFJuV2RQU29qbXpNWGF3UDRGMU1iS1cxdmlPUUFEcEdZZkVhVnlhVnZzcXhRSEhrd1RibzlWZGhLenNmVU9TSXR3N0oyREFpdGdSZm1jSWc?oc=5",
+  "published": "2026-11-27T16:39:15+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "065c060560",
+  "title": "Altea Federation si rafforza con l'acquisizione di Elmi",
+  "source": "The Innovation Group",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFJHWkpEVmhyTVlRc0NIRjZVakJacF9ULWlpaXliQUNkUDB4ZzFEeWZNMnlHa0xHa1lwbm9la0pOYnlyNTVMNm45TGYtRS1tN3FfSzd1RmFkdHdxY2VfN05rLWhNQldWV1FvZDFycTJEWnFHTVp3LWV0TWNYeDRxQ0VzNThOMGU1YUNUM3E3NWtzT3dZdEFBaGFjOTNGVmFDQml6YzY4Qk1PMUE?oc=5",
+  "published": "2026-11-27T16:13:54+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "f3e88eb40c",
+  "title": "Canada’s Bankers Head Into Bonus Season After a Banner Year",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZnBPV3JxWk9pUUEzSzFmYzJKck5DcXJnNnVhdFd4dWZIakNuMVlOMnZWeExBWTRneEJvODczMFpmVHhFZEpBTTQ4dk04SDZSQ0ZTR0ttZjBSZUltZF9qR09XNzNPYlJYckdMVmRMY081Z25OY3p4VUkyc0FTN2pCU0ZlZDNYR3JGMXpCMjJaeWlpVmhLMGhmdDU1R0dQREs3enU5VkI2RkxydkRaSnU5RVM2YldONTdRaVhSbVM2RDl2d1lsbEpV?oc=5",
+  "published": "2026-11-27T16:04:15+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "1410e26ee8",
+  "title": "RÖDL con LCF Alliance nell’acquisizione di un portafoglio di 11 impianti fotovoltaici da 10,7 MW",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHpkblVCV3M5c3BNRzRlcU80OWpOOWNTTElFV2ZLVGkxT0gtZHlQcWVsdFh4aVVjZUV2X1plOTZRVDhVWUpkNjBTWnhIVXRILUU2c2lpc3VTdWtmdVB1aDJRdEc0aXVtTS15VE5BU3RiTG5Va0p4UGRDZUtJOWN4VnRGZ25EZzh2SWZDdk5JcWNROG52WkxhaEExNnJkZEhnWmNtd1lHSFBqM0Rqb3F1TUJiZDJhbEVOdlpUZURyekZ1LWtaWEhtTWNzMXVtdw?oc=5",
+  "published": "2026-11-27T16:03:10+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "d24c12961e",
+  "title": "Tristan raises $1.85bn for European real estate credit strategy",
+  "source": "PERE",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmliQWx3c2xBOVBWWEh4ZVhkRjhyUUZva3ppb2o2MERuVV9zbnFiLTA1a011LVJVdU00cy1Jb2V1MGd6UGVPRnM4OG1ZSUJaRlZEZlFlY1MyLXpsRjNEem1oMERsWUpiNTM3RVRLN0FFaXRuX3NQOU9SRy1neFlweS1fdi1YbldLY3RKSHp4d2hJY1NjTEFpYXZQeGxBdXZyNDYtX3RMdEpfZDJV?oc=5",
+  "published": "2026-11-27T16:02:06+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "5dddc4d31a",
+  "title": "Who is Luiz Carlos Trabuco, the banker Lula tapped to steer Brazil's economy?",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTNzd0lxMGdXNVJXMjhta2cwLWlxT1pHWkV3a0dUUC1iTGlKakQtckh4SHVqY3BKYkFvekFLMXJKbnVneGJHd0RpcjJnMjRVbk9TQnNaYTloQnRQX3NFRFZTSU1vQlEyYWhlSG9FX29DaE9ZejUtRWd5NGE2V2lFYkhUeWdCZzFJYVNEcm9qcnZNLWZzcjRwNU1oVTVhNlo4Ul9jQ1M1QkRjX3Btc3hCcTh3SEtZU1BYMndsTQ?oc=5",
+  "published": "2026-11-27T15:48:55+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "c4fc739f28",
+  "title": "Rivean buys majority of Italian IT group Errevi, €50M+ in revenue",
+  "source": "Dealroom",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkhWU1NnMTR4aEYwWm5CT2Mxd1BPeHpYWTlOTE15QjlIMU1Kc3NkdkxsQ0s1RWJGVFE3OVlUMTZWZVRsQlRndXoweTRYNU9reUsyeWdQTUM2dGRuMXYyUW9vQ3dVU0Y5Ny1HQnFZZHFuQkxYb2tmbDlNZlhBeFg4Rjl2U0pSRGllUV85WFJwTy1sRXhwV0ZIU09KX08?oc=5",
+  "published": "2026-11-27T15:46:04+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "0532d3c129",
+  "title": "Finanza complementare: minibond su, giù il crowdfunding. Lo rileva il Politecnico di Milano",
+  "source": "Financecommunity",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmJNRUxydFZUUGlUeTJmb2RGQlUwS2VVMVYwcnFLZ3AzYlRUaXJyZTBhNHFraGpSczcwS3BiR3gxUGU3VU5HUWZHVU1POFREZ1BoVzAtdWI0cDBjREJWbGs3dWZ2MWduX2pCTkhfb2M2YkQ1UGZyUFY3N2JOMXFudDY1bkZldUlDN2dhV2g4ejBEYUlGWV9FcEVXZmpubXVQcldjTnkwcHJydzJzVF9Wd2MxaG9YaEg2?oc=5",
+  "published": "2026-11-27T15:39:13+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "d930f848bd",
+  "title": "British Pound rises as BoE hawkishness counters Fed rate hike bets",
+  "source": "FXStreet",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2NDVHVFSGZQRVFsWGo4QzBZT0hjQ0t1UkVKUGJ1RkpNaUdhQWVRbTJDWUEwZTFwZEYwX196VWZsaXpCN1Zzb3RRRTc4alRmWGlGenNCbmZpMjFLYnN0Yk0zYjJpMG1HOGpsZzJPQk9Kald6c3N5dEQ1dFp0TC1VV0pJX0NLZDlhTy00MTJUekJUWjBZa1ZZdlYzZEptOW9pbFFidzdXRVFNSTdHWmc?oc=5",
+  "published": "2026-11-27T15:33:54+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "fd73a27d4b",
+  "title": "Chirurgia e medicina estetica, il private equity accelera il consolidamento",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUZ4ZGx3Mkt6TmlsdzJQczlvLUxWdHQ2RENNdlNFS211XzRRRHhva3h4c1Z1ZDdfM1hqRXhxbW9ibklBU0R4dEplM2dwNFJtalJNZ3lTN2s1aVlKR2tzcXdLRnBQSm9sSWZKamZPbEx0ZGJPU2dMT1pubTFucmo5TWpEOXNOSnFGeVY4cG1GOU04ZW9sbnlZWmxRSjdMUmZ0a1V1dV9zZnk2b19xVXc?oc=5",
+  "published": "2026-11-27T15:30:43+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "056bf8f2a4",
+  "title": "LGT prices fifth Legato CLO at €405M, lifting platform to €2.2B",
+  "source": "Dealroom",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEdQaXpxUVdseUhsWVJ0RDBNUS1VTk1ObHpzM1p1dHdrNTZGaHF1eUU5Z1YwNzFwbVdsQW5ORnZaQkotNU93N1RMX0lyaWdRTU9JNzl0S3p6TXljdS1jT0I1MWJ6dlVBVzBtcnpvRHNmUDZubHJBTDJZSEhZVHhjbGFWMjNUSVdKOEtDTWxIbWhleTRCbWlzaENn?oc=5",
+  "published": "2026-11-27T15:25:56+00:00",
+  "topic": "LevFin Europe"
+ },
+ {
+  "id": "62256ffbf9",
+  "title": "TPT Investment Management launches second-ever Reserved Investor Fund",
+  "source": "PERE",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFpFTUh5blZCQUttb0RHLXU3WVNqdDdydVJQMHZUOHRsek5qaGNQMVRmdmVUUTU5Z0oxanB2aWFNOE52MHJGaVpZdTZiMndzeXAwTXBYTU5uM0otMFhnQkEtc2wtQUNOX29PakkwMTlkTFNzeThXWEVVdk1XV2M5VVdsU0h1QXYwRk1ZNnY3YUpONnhOd1hUc25ENGlocUw5RE9jWHNCUF9LUlVJcE40NUNxV0RMUQ?oc=5",
+  "published": "2026-11-27T15:22:52+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "f6f9c9f281",
+  "title": "Dentons named “Central Asia Legal Adviser of the Year” at the GBM Awards",
+  "source": "Dentons",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdGNzTjh0eWFCeGlTUFpJcnkxbTFncHlnWTJPZkhHZ0ZzczQ4THRJdHJZUU5aSDljUG1XRzRhY1JfbWJneGhTZXFfeFlDSEF1NmN5RHVvT2VGQ1pwcXctZVdLMmlLc1VLYXRHM1BjN1RrWG5hX1RaaXNESm8tODgyOHFTR3R2MV9aSmhPRmY2eklwZHc4U200dUpzeXBYMHV3aEVUcW5zMUdncnMyMVpxVWx3T0xfNFRCX2N3TkxBRGt3TjdNX2FUaWI3ZUFCZHp4b2dEcy1ic3pHVGpRSkVOZnhRNXg0RC1BMGU5MGVOeFo3S1lSTUFxNTA1djVoTUtCeFRN?oc=5",
+  "published": "2026-11-27T15:22:06+00:00",
+  "topic": "LevFin Europe"
+ },
+ {
+  "id": "fd061a4be0",
+  "title": "Programmi elettorali 29N: Cosa propongono i partiti su banche e sistema finanziario",
+  "source": "Demócrata",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcVlCbmlmZmRhZ2VMYVRTSzhzWHVZTGJhRTI3NTNEaUFzZEtPLVhxaGZqbkE4U0Zwa2hZMVkyU082Q1FCLXZxa1hobWNSMUQ3anBtYXl6LVJaNktaTEdLN0F0eVZOdXlwNlNROGhkR05HbVZ3dzhHUHRfVXlqZDJsU3NsWVdtcHRPY21UR3hLcU81TDhqaE1Wd2tLbTJNU1Y4SW9WUnJyQ245X1ZVT1VqRE5Mcl9QbFdTNTJYeGVGaHhYVkw2UG4tUG1XcjE3NlNqYnVhZGlqSENmejTSAdsBQVVfeXFMTnFZQm5pZmZkYWdlTGFUU0s4c1h1WUxiYUUyNzUzRGlBc2RLTy1YcWhmam5BOFNGcGtoWTFZMlNPNkNRQi12cWtYaG1jUjFEN2pwbWF5ei1SWjZLWkxHSzdBdHlWTnV5cDZTUThoZEdOR21Wd3c4R1B0X1V5amQybFNzbFlXbXB0T2NtVEd4S3FPNUw4amhNVndrS20yTVNWOElvVlJyckNuOV9WVU9VakROTHJfUGxXUzUyWHhlRmh4WFZMNlBuLVBtV3IxNzZTamJ1YWRpakhDZno0?oc=5",
+  "published": "2026-11-27T15:16:13+00:00",
+  "topic": "Debt financing Italia"
+ },
+ {
+  "id": "d7b2a395ec",
+  "title": "K&L Gates insieme a VINCI Energies Italia nell’acquisizione di CO.I.M.I.",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Gblo4amtWZGduWTljNThUWUpGZ0ZNaG5NSHBjWGxVMEVHOTZfeUpLcGxGYVgzR3VIYTV4bVlIX0V1c254U1BrTks1aHRXQWlDTVRhUnFjaWRSRmVWMzNF?oc=5",
+  "published": "2026-11-27T15:10:00+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "6938e2e85d",
+  "title": "Ughi e Nunziante con Pighi nell’acquisizione di O.N.P.P.I.",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUlJd2FhUlJVYVVKWGs1b2d6anBGajllODdocExzNUJhMUJ6dlNsaE9JOG5xdVVvbnJvb0ttVV9lLWJ6cHl2bFBKRkZVZTRYR0oxTWczZTBLcnBRZ0RkLTNzRFVJUXRacmQ5M21zeE5Nd2cwbjVrMDZ4Wk9sTHJCSzMxblMxVk9zLTUxRjNkZkZaNFNVY05oWElwdjhWZw?oc=5",
+  "published": "2026-11-27T14:51:00+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "22c31860bf",
+  "title": "Bain Capital’s Luca Bassi Picks His Next Flywheel Investment",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlhhclN2UFBFa3ZuSWxJRXctZ05BLUVZcFR0d3dkQkRtbWw3eDdteTNEOEpPWVhXYVlxYXpQLWVMRE9sd0x2MnVpLUFkODAxNkxJbm1Pd01NTzFJNDFOa2laTDcwUmtHNFdicEs0WF8zQklrV1hFVFJ2YV90VnF0MEx0ZV90YkFJVFhRRzZ5YUtLZWpKOER3MjV5NGU2VEpnaTZxM1hjTE5ZZw?oc=5",
+  "published": "2026-11-27T14:49:42+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "3ddedac429",
+  "title": "«Astidental, piano tardivo: non consente di difendere la piena occupazione»",
+  "source": "La Nuova Provincia",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGRxVi1hVllMQU9kdlVoeGtodllOVExNZHE4VGV4bnZBYmE3SVJ1MzRCQ3Q5VHZzTFU1aC1tZEhnbkdRQzhVOWg5NFFlT09pYkVnTzhPMU5zZDRtNzNTTTdQb3RENmdKUGYzeGZfMWp0ZlJzeVh0NkZ2em96cF9udlY2R083Zll4UU1Da28yTmtTTGl6cXBDWWI4RTJvZDNCeS14TE91TXJjOTRhcndmMi1DYzNrazZxUEdNaWNRT0tSaDAwX2hqSg?oc=5",
+  "published": "2026-11-27T14:45:24+00:00",
+  "topic": "LBO Italia"
+ },
+ {
+  "id": "c9a87013b5",
+  "title": "Gallazzi (Sri): Ecco come rilancio gli asset di The Italian Sea Group",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWN1bE5XZ2ZHbWJnc21DejZseWVjWDB5ejJaVU5TSmJPdU1ubVdiU0dnRnhNZ3phdmhkMXpvUTJqYTBGWlo0Uk12X21RR1E3NUh6X290aDlOQ05kMTR5YVBFRVU4TVJKRE5Lc3I0MEpoc3BiWnNlN3RDWTRoYmdJeUdlN1ZjcUF4cWhTbWZ4dE95TVhlcDVZdmp2V1MtSEN0LURLSHBkbUZHT2h4akllTg?oc=5",
+  "published": "2026-11-27T14:45:10+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "624528cba1",
+  "title": "Gli advisor della cessione di Edilchimica",
+  "source": "Financecommunity",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01dW42TEtfcUtrV0NuR0ZzNjBCRGtGbmltM3N6MXJVMkZ0U1h4dVVOZFdrSWlwRW5CVTN5YlUzTFltVUZ3bUpuQ1liVVpuNm9IZXZ4bTJ2V1FTQmd5ZjVjWWlxMlJHOGVpci1USTE3V2NibTg2NDR5T3Nn?oc=5",
+  "published": "2026-11-27T14:39:51+00:00",
+  "topic": "M&A Italia"
+ },
+ {
+  "id": "0e2286aee7",
+  "title": "EQT Healthcare Growth to acquire Kelso Pharma from Apposite Capital; Ardian’s Fermax looks to expand in France with Noralsy deal",
+  "source": "PEI Private Equity",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWHFySXJKeG5VSGVjckZnbXNoN01tcFNXc0kyd3p4Z1dUSGtmd3VOc2lXT3hKWmlJcXU4S0JmMTR0TFVoQjN6ZS1fbjR5VFpJc2tQQ3dhODJNLXN1dDJXTEdLS1Z0bmFjblRrMUdaV0pPSUh6anE0V29VS1pFRjg3MVEwMTZwOTRNN3Frb1NsdEE1SEFadFdOZ0FydEVfcnBVTzYxa3d5ajI3VGk1ZVJkbTFyRU4xUDRCOWJFdURHSW53MXpfSjRKUXpYSTVqYnoxQkltVTRkSW5VZ1lMdUtrcFdvcFNVUXFjcUpuMy1DalBWdTVqZm9PNTVzM0FFUFU?oc=5",
+  "published": "2026-11-27T14:38:33+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "afdf9b0441",
+  "title": "F2i raises more than €1.2bn across new infrastructure funds, already surpasses debut credit vehicle by 18%",
+  "source": "AltAssets Private Equity News",
+  "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQdVFSQndWMlVTdFN6ZGF1dGFLNFg2MFRVZFdmMTN1QjBRTmo3MWRMOU84R0pFcTd6Qldma0VGaElXV3k1aTZsbXl5MG1wRTdCalhjckVUOUhYRnJUdkVtelFkN3F3VXZRSVh4UVNUTXU4OHo1UGxYZkVqdVZDSnJqY2d6Y3N5ZXB3UnFKWDhFck43a1hmZHBFdVpzZlJnYndfYXVSeE14Z0Z6Slo0YjJQbnk0dE1HTTk0UXZ4bDBUNnRjd3hiMW9wb2QtTHlpUHBjRGs0Vy1YR1NLQ1paNXdiaXYtdzBGUUZZQ1VlOXBzZTRPNXlJZ2NjckNTMWw4aWg2Z1BSckFwWGZNeXI0VWhQb0FpSzkzSTdRckNqLWJHOVozTF9MTnRlUFJ4Rm02ZWp5Y1ZjbG02UUlKeDdfMVVUTlhreVZCRmxZbmVIaGNiSklWaEtDQTFkWm1FX2ttRXVYT3hST3VKVkxpNEM3?oc=5",
+  "published": "2026-11-27T14:36:30+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "40dd3d473f",
+  "title": "UN warns famine risks rising as hunger hotspots increase",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWNhM3c3WEpxa095UE53ZEF2eFVxSVZLQ2kzWlFuTzFoekNXV0p1OGJITENvbjJ6REwxMWI3VXAxUExJTXBHUzRoRGVCYnY4QzBkZ2tOQlNuTnhPQ05XN2NsNl9vZ2ZaTkJIZDNQSFB5MDRPcU1tLXJXSWQ0MHNMRDcySGV3QjVxSlloeVozUXYyRElfdW9EcVk5blZMR2ktZjdQb0tkU2x5cjI1R0lr?oc=5",
+  "published": "2026-11-27T14:03:37+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "e5da23a3ce",
+  "title": "Azioni Acea: scenari a Piazza Affari dopo l’accordo con Eni",
+  "source": "Borsa&Finanza",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUdTWkRqajJtaV90RlhNeU9QS2RUY1dpYlBlUjBGVFVEblJndlEteF9yNlNsSll6VFFFc2ZpNzF2S3h2eUdmWXFmckRTY0lyQThIR25tQXJ2UVRNcE5kSDkyd2Z4ZzFWS1ZMbUV1NUs3YUh5RlZ1RmppTkJPcFpqLTN6RGdxQ0U?oc=5",
+  "published": "2026-11-27T14:00:00+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "b2c1730cbb",
+  "title": "THINK Ahead: The ECB’s new boss has timing on his side",
+  "source": "ing think",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEEtUl84UXc1aWgxWFA0cC01clJPNEdSclpUd0YxbnRXbFVvbFFQQ2VJeFF1NjA5UUs0Z3d6US1XNm93dDFhVGJibmxveUNwWUxCS3ZTSUpIdk1mc2hHQm5ZVU9pNWIxbEM4ZjBXTTVkNXhJQ0lQYWVNemtldllBZnNiQWlONkw2V2ZQNA?oc=5",
+  "published": "2026-11-27T13:57:39+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "ffe400a579",
+  "title": "Wealthy Europeans Know Alternatives Better Than US Peers",
+  "source": "Outbound Investment Group",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHF0MzhuQVNoeHhHTWJTMjBtMjVRODdTN1hzMVR3SWFhc0w0TmRRTXhEbHQwbUpHVC1TWmxiRy05UWhGWTJRcHIwUm1MWjhQRXhiQzhsMGFxY1JWWWxOU1ktbkVlbFlLcFQzUW5WZ2dHbUdoSVhRMEw3RW5ibnAyeGRnZDlWOFJjTUprTmUwMkFQTHhsdmUwNkZR?oc=5",
+  "published": "2026-11-27T13:29:20+00:00",
+  "topic": "Private credit Europe"
+ },
+ {
+  "id": "9c15ce24c8",
+  "title": "How Europe can sustain its private equity momentum",
+  "source": "EY",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDZyNmFzczF3VXZXS1NHSmRHbndjYXJ2aXFQR3NXOHBuLVBSMEpFY2xyYTJOT1hTRDZOclB5ejBtcDZ6bTlfTUE4ckZWV2hZc3g2Rno1MG5rMndYX3BxWWR6SGV5S19kRm9iX0pwN2k5VjNvTENnc21xNU1ZUm11TG9uOWJXR1FYMV90eFdqUHNNZTNRWkJ3Um5mMHdZb3R6Qk0xakpxZUhlMDYxV2c?oc=5",
+  "published": "2026-11-27T13:24:04+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "cabb002b00",
+  "title": "ECB May Raise Rates Further as Euro Zone Inflation Stays Above 3%",
+  "source": "Global Banking & Finance Review",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rSUV6QWJWY09xV2dYdU9vN0pFaFhYU05SWTR6cHppNHd1M0hDMG05aEFQQ0JTN2RBVFZMeW1xcXdVVWVWak5pSjB3NUdsVUs3UjhQb1FjbW1rOWlPbHQxQWxfb3BIMWJlZ0Jhc2tDczQzYlZUaEk0aG5zWWlxcm8?oc=5",
+  "published": "2026-11-27T13:17:44+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "7d953d5a08",
+  "title": "Korben Raises €10.2M in Seed Funding to Expand Robotics Software Across Europe",
+  "source": "AI Insider",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3J6N0ZOdWNLQUliQ3V0N3hTWklLa29rWFRMaXgzQlpmRzdCWUVVLWZRbzBucHdjb054LVU3MzUySjZ6ZUI1czhoOGpyR3MwRkI2djF5Y0hneVdLMFZ0dWN1NUJra1hLYndVeWlkRjg5el9qOWlGcFNBWWpzazNKanlFenczeEg1YllCLWg5bkhUWlhrWHNWQXpWeEkyRnpBQUFqZWtkbUNkQ0FXMnpYYlhNLXpXZFk?oc=5",
+  "published": "2026-11-27T12:55:32+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "6e1bd38e7d",
+  "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWp1SnJRNWlGX1dTWWsxN2pCT1ZSaFpjUEJNNllUZnBmZWhXOU52TFQ2Mzg1SzA1eElIeXVwZ3hPc0hRTzhCbF9rdndQcFhqOE1jVFdaa0haMzNuV0d3d2doWXVabXRWbDlvU0FaLUY3VURjS21xei1NbE1malNJNWgzdEdyUWZIbG1LT2hIWVBTQld1ZWJkM3EycUJLb3FKdVU0OFBBd2dzS24xaW1IQU54b3VQdFV4U0ZnNWhhWXNmVXRGcnExTjBDUQ?oc=5",
+  "published": "2026-11-27T12:52:23+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "0dfd1e80f5",
+  "title": "Ricerca: Intesa Sanpaolo sostiene Uncover, la violenza lascia danni alla salute delle donne",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1BMb0VHYm5XNDc0d25UOHhNeTRRMlZIZGp4M0h6akpvaDkyNFBjYTYyem1pQ2VQcS04MXBfQzdaTjZtM0NRV1phTGVXLUlETWs2WFVHWWZLa0YzQ0ZfajVBMUQtbmtjdW9CNmtySUQyeVR2V0hhR0tnWHBjUnMxSS1WOVVyYzBUSTRybkU5YjROWDVPdkpZdlpHWmVYc3dJZUM3MnF6OVplR195MndhV05TUlFXTnNPcm5mS1l4UTliZHJuR2dBaExFV2I?oc=5",
+  "published": "2026-11-27T12:44:55+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "a679e9b68f",
+  "title": "ECB’s Two Rate Hikes to Date Aren’t Enough, Dolenc Tells Delo",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnRLWU5fSDVMeUxHSmY5azROXzVqQkRlc05ZYnY2bEwyMU4zNVdTamhKSUtLY3REbmZGUW43T2lnZUtLZEpUYng3Vkk0VlFZRzRlcnBVNU9IcVE1cmhCZ3BGS1Rtb3Q4bWZmTkIwZUVNbnFaakNlaXFpeGNFNGtxNnRHRUpSbXlydXJQRXNOd09CS1gzb1czbGVaeVZzRl8taXUyaGpkblRiUnh2TEo1Uw?oc=5",
+  "published": "2026-11-27T12:38:06+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "73d36e5334",
+  "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
+  "published": "2026-11-27T12:28:09+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "de7d96ded3",
+  "title": "Global diesel market to run into deficit in second quarter of 2027",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUh5OURIMC1MRmNIM3pMa2ZMUnBhZjl4TjRVUWl6QTg4Mk9FdXluQWVubzNSOUNMUmROMGdnWGp2Wlp3Y1NxdFdaQ0tubFFoZTVlS3hydlBkcDJUWURvLVZKamppQTlvSm8yYkV0NE5rRlp6TVUtSzNsOUtGYUJtR1pWMl94TjA5UFRta3lPVldBaGtxQm95Wng2UVlwckszVVhaTHFYQ044cjNPQUE?oc=5",
+  "published": "2026-11-27T12:25:44+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "f746d7eef9",
+  "title": "Big Tobacco Goes Bigger as Altria and Japan Tobacco Eye Imperial",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2wwUUlPRWF5cGxEcXczN2M2UklvaGNxWDVHOXJRLXpPNmlteDQ5Wjhhcl9hY3gwNElHc3RkR2t2MEFpYWpINmVKbkRQRjJ2TFdHQVNoNEYtbUtUNWN3T3FxQkdOUVk0TDZHSjdNWVJnNnhlenpEcUNwNlBUUzIzNGI3REIwNjBTcnhBcUNURHoxMU9zdmZwRlVxa2syLTdZSXg0b1RDMzJmN1VQUDdLcVVtc1ZlUQ?oc=5",
+  "published": "2026-11-27T12:04:14+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "0a2cf971df",
+  "title": "Gold price rebounds above $3,660 as tech stocks recover despite Fed rate hike fears",
+  "source": "Equiti Global",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1E1Z0hiOTZsY0tQLTBJOTl2WUtPUnBGdHVEaXRtS19NbTdocVExc1dNbmZEaG15UzhPdXBBQ0dvdmE5VGZTM0hYcFR3Vnh5UWFIdlJzTmhTWE1SM2lXWEZMNmc3amUya01ybWtiRC02NkdqcDJKdW5ISzU4LWhjRWQ4d01ybmNaRUhNN1RoaVVWYXJGeFoyeDdaa3V1OW1aVTdwakdR?oc=5",
+  "published": "2026-11-27T12:00:43+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "068ae1e840",
+  "title": "France in technical recession after quarterly revisions",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTER0b3otWTRCSmNQXzlVUXVMamtxeGxHV3BMQkVoRnBLTkhsYnFIdXdySXRYNUR4RWxBVU82Mk5oVDl1U2lNaTJ3U3FaVnpLUFM2UDZvSU92VERNcVBaOUtpVVpkek9vTFhZWG52TUQxUDNFVWs1UVZJQVpuM05SOGFQN29nblhlb19NeW9KYVM5OWlDV3NycXJkTG9Zc3d1Zm92VGNLaWlCN2It?oc=5",
+  "published": "2026-11-27T11:50:26+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "c9845efb1b",
+  "title": "Focus Certificates. Marco Medici analizza mercato e opportunità post-IPO di Anthropic",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVVadHc4QkZvWF9Wb0VmYlRhRW5aVUd1UEVsbV9pSU0xTjVzWlhGaktSbV9YQk5ZMkFKQXhTZzlUSW55NFRiX1g5S1hGQ09iRzh5b3RRNnU3eDR1Z3NURklwRWRZeUlPeUZuSUJMSW1aeUNRZ2o3S3ZkNDZCMndkbjc4RGQ0Mmc3aURsaXpuc3JMWnBRRlh2bU8zcmlyNVdEdkFrYmszdkppZGdpX2x4cDkwMVAyMHRFWDhoMm53T2ZIRmJGTU1QZw?oc=5",
+  "published": "2026-11-27T11:49:54+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "f01282e2fc",
+  "title": "Marco Medici analizza mercato e opportunità post-IPO di Antropic",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWx5QVI5V3ZEMl9fLThoWGVyOFBvVGRBa2FPdHloTnU2VHJXWFVUSXVuU3FiQ2VRUDBLenJzSHY2SDI2NHJTbTNoUXFUZEhkRk02Vkx0R2ZwRWotM3phSFRkV2QwYkMzWmRZbGZYYVJXa1dYeHJEQnMxRkdEcVlETnRqS3RMeVBGMkhRbUtYdURVSGdERzc4RWlxajNMQ2Q3YlhpTURqVjZVUkdZdlE?oc=5",
+  "published": "2026-11-27T11:49:54+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "08f0051132",
+  "title": "Everly si quota al Nasdaq per espandere l'e-commerce alimentare",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QYzE3dWhIS21sR3JyUFNiR3pXM0dVWGNYUE5ab3JpUVJjMDBTOGg0ZlBubkVXcG12N29TdU5QOWZaQm41dFdTUzZzbEgxMHd0MlVXMVBoS3A?oc=5",
+  "published": "2026-11-27T11:45:06+00:00",
+  "topic": "Milano Finanza"
+ },
+ {
+  "id": "a0d06d29f3",
+  "title": "Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+  "published": "2026-11-27T11:02:00+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "7769b19f38",
+  "title": "Swedish Investor Harald Mix Sees His Green Dreams Stumble",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFJwcUlPaloxZzNkaW5VUGczZndhQWR4cnNZQkEtdzl6WmNnT0MtbU1Sd3BRdDVvZXhvOVhTM0ZjQmxzMU5Cd3VTVTNncDlnZjZ2a1NIRk1HZDlYdXJ1SW1NMWZHbFZTSi1BRTFRYm9wQk1yVkNrOGRJdGFYYkpJSjNxX0Z6NDZGWC1faURCNmY2UXBFNXNSWG1fVU1ueWNNRy00eFdiX1o4d0toMFdBWjRRdEIzc203ekE?oc=5",
+  "published": "2026-11-27T11:01:50+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "fbc854bf32",
+  "title": "Andersen assiste Edilchimica nella cessione al Gruppo Adler",
+  "source": "TopLegal",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wd1hFWFROX2pLNmVjRURFUHJaNVc5T2VWaWJVaWs0cFpHbUxoTjNYT3hVaUg1RXJBUkR5azZSV1pSZV96SDM0b2pBNjZydXA0NnlwSGNVOUJqRmxqZnZVd3VBYm8tQzNjQkMwOHpDT0VoM180?oc=5",
+  "published": "2026-11-27T10:52:08+00:00",
+  "topic": "M&A Italia"
+ },
+ {
+  "id": "a63d7df169",
+  "title": "ECB Leadership Change Has No Material Impact on Euro",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkdlR2dYLURqVzYyRl84azV1UVJnblJWb05nOF90c2FtaEFTWk9RLVJabFlnMXI3OUpyQ3hhaTNOTmhNSnJsVTNVd1NBdlc5X1F3LXNTSG1zSmMwTmt0Zl9kdWRHQlQzNmt5MzZJTlhUa3RWTTZjdFRJYkRCcEZqbFRqZVNYbEI1R1RxY0RuZkhhdkNPcmF5NzRn?oc=5",
+  "published": "2026-11-27T10:49:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "1c5b621449",
+  "title": "Germany's Rheinmetall trims 2030 targets after project setbacks",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc4RHhHVWNUWWRCeU1VSlVQN25XRDVIMEJxRU5TWk8zaWxmQkFHMUdJNmg1Qm45Q2gxYjFDbHlhXzA3Y1dmS1VTanhMWENaOW5fN3RpMTlLQ2NOV3VHNWVxdXc5bC1PVmNpYXNZUUpndzNXSG5ObElRZmVvZXZUV1Q3MHNLblk1WVdVdlhiSlJhUjJibENISUluTEhOUFkyT3ZwNm9Na1pqOGl6UERYb1owblMwa3RiNlBVRmlWQUx3TUdOT1E?oc=5",
+  "published": "2026-11-27T10:48:16+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "f6eba6cd2d",
+  "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5",
+  "published": "2026-11-27T10:37:25+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "7b0a3fcc95",
+  "title": "Bonus Turismo 2026: quanto vale davvero il fondo perduto",
+  "source": "Incentivimpresa",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RLUp3Tlhib2ZHOXdtVnBZMENMejlQWktsZXE3V0M1RDRJbXY4Mi1NWWZJQlBsOUhJRm9lVlBnQzBSUEh1cF9BcEpiMzdtNnZSMGY0Y0hRMHlsbTFwbTNrbjdnWUJZa1NfUmlkQlIyYm1lU1FvSmNMRlQ0dDM?oc=5",
+  "published": "2026-11-27T10:31:02+00:00",
+  "topic": "Debt financing Italia"
+ },
+ {
+  "id": "b2280b7114",
+  "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkpRejhPeEh2RnhWZndBWFpzM0pBNVBpaVVpOVBMaGVPSW9oVlgzU3hNVVBqTnZWejQ3QlpYX3BheFh2M3RwanhvdmZESll0UDI4eHRYUEJIUUtYSDB3ZmxNdDNQSVJsZWgybW1VT0RSSWpUb1drY2ozY2E5VDh0OUxxME5oenctV0lpWE1xYk9kY21Zal9jVA?oc=5",
+  "published": "2026-11-27T10:30:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "c910229cd2",
+  "title": "Global equity funds log biggest weekly outflow in 14 months",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTZpU3RzSnllQi1jd3N1NUlfSFBGN2NkaW8yYWI3QV9GNTlpVWc1VWxkTnVJS2FKbnVUckJ6VGhVUHlEQ2FaNWRNdFkxbFh3UTdncUI5WVA2ZGhFOFdYQ3BoTExrNXhBb01lNFdVQm8zY05jV2twSnRxYzRaOGlzTFdR?oc=5",
+  "published": "2026-11-27T10:25:10+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "eae5b81312",
+  "title": "Pictet favours infra over private credit as taxes make it 'a no go'",
+  "source": "Citywire",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0FyRFVnYUp6bkJqLWx2Z3BIZ2RfR2pZdFRGbF9wakd5eERwS2s1SzI1elUtMkRWVjVkdm9OWmZhZHVXWlhMMEs5b01DM3MyWEFlMEItOEY5anRqYUtXcWdvZGQ2NWxTV1N5ZzJlSXhTREhRQzl5VVQxT25sRTBqekZmc3dWRWV0TFRsUkp0RWRFVHJqZlVQQV92RFlHM3VmQ1hENXNEbEp4UzZzb0E?oc=5",
+  "published": "2026-11-27T10:23:31+00:00",
+  "topic": "Private credit Europe"
+ },
+ {
+  "id": "9678728503",
+  "title": "Seri Industrial, respinta l'istanza di liquidazione. London Financial Guarantees prepara ricorso",
+  "source": "Milano Finanza",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYVZOMEljN3ZmZlhrOXNNSU5HUFl4cDFNUzl6MzJTdUo4TGFOWDRpdldLMDdSNlYxQ01ES3dTYkVXMUd5TldBa1pndFV5cG5aRjRmSExhekJmRjdJM0FIelItTlFMUXdsVlpFemZZcFgwSlNPaXpKSW9YX19JcnZ0NjhSSDRaT2Z5SlMwdEw5R0huLTBDMkVUeFl2Vi0zZTFUVjNHM2tsV0drUUxaX04zVVd0VWJOdUZJdXdIMkowTDNNTXBZcUp2M29tNEFJU3FuQlpMWjYzNEhCRnQ0YmtXZQ?oc=5",
+  "published": "2026-11-27T10:20:00+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "145d9cd4d1",
+  "title": "Tesla plans to acquire German manufacturing systems group EMAG",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3Z3REp5RGw2dXhwWEtJNEw2dHh6OUNsX2thc0llSTdDR0kyWUtrVENkOHdJSVhEZThnaC1DdHNvblJXX3BjQWdRTVJfWlMtbUM2U0UwaXFqdmR0QXhwei1tX1VIX0dhZkVkLU1CaEVZQ0xJenZpLU54LTFjNEszT3pJYkREMzI3TjA4RWNPZ1oyQ0FXQXlhTE8ySFQ4bUpzS3h3?oc=5",
+  "published": "2026-11-27T10:13:51+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "0510c8b45d",
+  "title": "Intesa Sanpaolo: Uilca, accordo su Fondo Sanitario e' tutela patrimonio collettivo",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ub3BETGRCMFpRbWt1X1JSemd3bmdOQjQ2U3ZpZlE4a3JsY1ZaN1duWjh1QUhfM1BPeHJScE9lR19aeHhUbzNyRHh5d1RwVXBQMEZzSFRUbUJxeG1CZVNuNmpaY0h3VERHTHlZaGZB?oc=5",
+  "published": "2026-11-27T10:09:50+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "d5aaf4bb90",
+  "title": "Archimed to buy another European diagnostics company following Diesse exit",
+  "source": "PEI Private Equity",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzVmYjdWamw3TGJILTUtMU9rZ0Q0OGRXenM5NVc2NV9vTTQzWF9qenRfWFFhQjd5ZUVpUWJiLUY3STNMNXFLLURlYk1tdlFScEZ4R1hubkhqblhyUm54QnlrLTVHbHVyazRaU1hoMGpYSDJNLVRpc1lZUEpYSGNXVHdRbTNybkUxeEs5dDhJUExLdG81MkRVOEdDeWU1ZWlfX2QtX2RtMU56ZjF2OEVCUnVJSlRsOFBKSEE?oc=5",
+  "published": "2026-11-27T10:05:13+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "96dd8e39cc",
+  "title": "Borsa Parigi: Thales (+2%) punta i laser Lumbird (+19%) con progetto di Opa",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCRzY2QVN3Y3AtV08wTFhBWWUxeThEdndRMDdxazBzakxvTlN1UXRTZVdSdS1CNU1acVBJTGRoTGN4aXpiaGF1U2lPUy1Zd1kzeTk0dUlYbU1SaHctUVY1OV9Vblh0M2FCQV80NHJR?oc=5",
+  "published": "2026-11-27T10:04:49+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "d825bdfd38",
+  "title": "Former government chief of China's Guangxi sentenced to death with reprieve over graft",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXpEaENJRlIwSHl4dEZuT0pwQTVreDduek1JSVNKVTB4UkJFMDZUZFBtQUYtYVlHYVZSdklGNXNsbU1vWHc3cS02NkFGSnlSa3Z4a0dybGlwWHpXYW9TUGwyLTJjSmFNNDIzOE5iRlRCS3JBYUpFcVhxOUQwR1dNem5EZm15akU4YV9uc21tYUVwa0tXRmRkdmFuZ2FmeGlScEd6MTljM0RrSXhpazNJSVV4WVVJRDhXc1l1RHdyUWZpVEdmQkE?oc=5",
+  "published": "2026-11-27T10:01:23+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "3b7c51c1d5",
+  "title": "Risk Capital In Luxembourg RAIFs: Where Can Sponsors Turn When Diversification Requirements Do Not Fit?",
+  "source": "Legal 500",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNElFSjFUcGJfQkJETHo0WGJZRXM4ODBiVmtEV1hTM3I2WnhwQmpCNWhSc0FTa1JhemoyV19YYlloRWlLV1dfSXBtNDVWbzBLaDhucGtVOWlMTTU3MHVLdmVTckEyM09vcFZOcXZBbC05clhOSjRuZWxGZS1GUzZpSHJfeW5Xa2hubndkbEU1ajZrTmY2YTh3c2pwOTZlY1NwOE9WWlBBdDA4TGxNWmM2YUJQNU9FLVNkS19iOEQ5WlhaNWNQY2xIVWVPMGtXQmdyRmVjak9vTXdXbkhGQ2lUTzJWTC1KRHFWWnVDVjZkR19rVVY2NGxnUDVqZlRQSjQ?oc=5",
+  "published": "2026-11-27T09:41:15+00:00",
+  "topic": "PE fundraising"
+ },
+ {
+  "id": "bb6b92eab3",
+  "title": "UK Stock Market Set to Shrink as Imperial Brands Attracts Suitors",
+  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjc1TmVBOU56SU9kb3dmZnZLV3VLNDJ5eXVOdDR5RFk3UFdjTmlsNkJNSFFILWlxN09hNFZkQjUzUjZMbG11NGtiR2pQZEJlcHowWjlCbGQwUzkwd2tPaHNqS05uclI0NkFKMWVPc2RtNk1CN0MtTk9IN2h6V0hrOGdheFJiSWhxRWhKZ0U2UlJKMk5MOXQ5ZEhjems4M19fb0RiU3RVN0dpRXF3N0RIN2hCakVHTmk4NWZCMXhXOVlFOFJNSWc?oc=5",
+  "published": "2026-11-27T09:21:32+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "bb5359bfdb",
+  "title": "Intesa Sanpaolo: con Fabi e sindacati accordo per salvaguardia fondo sanitario integrativo",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKX0xjZWJyaG5CTWJ1LWpPR2tNRzVYUVROa0U3MlRpWnlsWHdVbWpiSmpqZm93OG10ejJIMjNiOXZDYjNJTDhYaXA1RWZYakdKWVg0dzFiMEFzdVFrcGhaTmFnei11aVRaSVo5bnp3?oc=5",
+  "published": "2026-11-27T09:19:54+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "d50f1fe8d2",
+  "title": "EQT strikes deal for majority stake in Apposite-backed Kelso Pharma",
+  "source": "PEI Private Equity",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEdpS2p5U29yWlFKS3VCWGxNVjVZbnV2d1pCNXlBVHlfdzhXUlpvRHV4VkpFRG9jMXdSeHRtWlBKRF9NWUJMcTI0RG5SLVB0VVYwelc0WFhyNlRkU0pDX2t3aGlRczhHdUtIR1Uzdmg1R1FUU1NsMmVQdUpPN1otbzlOYVRWZzNuaFhtcFlCa2M1QTU2UXhHdHhHYmFtdE5RTzgyV3Vza0JncVhCeVQzNA?oc=5",
+  "published": "2026-11-27T09:10:19+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "f27f79e978",
+  "title": "Weinberg Capital Partners acquisisce il marchio Etat Libre d’Orange",
+  "source": "BeautyBiz",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlhIRURieUdKa0pBR3ZHbUNRUVVvVER6bWVMYTBMdWpUOUlEdUZ0LW9MN2M2WTB0d0ljN3ZwYmNVckN3MzQ5NHNaNlpIT3VIdWdJWFBPMGhfeEZJaGloR2FCR2gwRlR3LTNqaUI4TUxNbW1ZaDliaGFER2NWaWdvYmxSa1ZjdDNPZUsxcTYwQ2hsZWpMWnEtdGp2U1Z4RE5NaElNM1JR?oc=5",
+  "published": "2026-11-27T08:52:30+00:00",
+  "topic": "LBO Italia"
+ },
+ {
+  "id": "93a266c571",
+  "title": "Monte Paschi Banque (JC Flowers) rebrands as Banque Nouvant",
+  "source": "BeBeez International",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0hFMWUzVHFkeTAwNWl4NmlWVzNvNERkRndXYmVrSHIyeThHMzdoT0JWNXdselpwTmlobnRlREVqYnpzU0VhdlY2U0s5eVYzSXhxTVAzSGRmYkxMNlZZR0hGRlh3WHRfNnczYWhhaGZEZ1ViV2tYOHd1UERPNF9tY2I3RjhqQXJMRjBmVzZoeC0?oc=5",
+  "published": "2026-11-27T08:43:55+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "f1a4dfb7ef",
+  "title": "Park Gstaad attracts a 350-400 million CHF offer from George Procopiou",
+  "source": "BeBeez International",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1dXbnZCWlRxTXlwcGRRLXYxVF9FU3pEeWFGR2xURlR5UmtVSTJkZWgzMk9YRTlpQ2dORWpWTE82NWJpVEM1TU9RUWd3cnBfMXNhbVk3dnlzWTNsdHVVWU5NbndpVXVaR21JaHNWazJ6VUNoYUt0aTlkaEt5QWxIYkxyWkRnMXRBNEk2aVJQYkpIeXNvWExza0REa1M1V2MzQ0E?oc=5",
+  "published": "2026-11-27T08:33:53+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "9ca0f6e560",
+  "title": "Gasolio, -30% dal picco. Luci di speranza o spie di allarme in fondo al tunnel?",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE42Sk5XTnJCbjlFdDRwakk4STkwTW5tVW9VYUxGOUpkdjctWU13RHZValVza2luYjNNWnhWQ1NnYU1qNU9RMjA3bzJQcnhPTDRMU1hSdUczV0N0eVJ6QkpsNVlvWDFoYnZyVUNsTS1FQUdJNThLN0JaRC1oOWhPZWFzeUduTmZUNmZDNEtHa2czNlVWMEJxSU03cTR0RVdpRjdHRnR2Y2dSOUZ4a2Zz?oc=5",
+  "published": "2026-11-27T08:27:20+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "f6c59fc31d",
+  "title": "EAM SK Euro Plus Fond",
+  "source": "oPeniazoch.sk",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0k3TWpQbEpyZXBFeklnZG5ONW5fUzJzYV9USWtlVnRVWXhzM2ViUE5NNURqNEh1Z1lHNUZyTkVDT1BXekpfV0ZNcUxCLXRmaVNjMWpkY3BwQVRjaWRGS0E5M1UyUDliQ29jYzNxemdaa0RKeGlWdTVNYmxFbnBSRlpKLXQ1Mmh4X0FEVm9sSVlEZk1LdGZtdXFWSlhfSnRsUnlmdEpkaFNSdmdBbEkycF9hc2E2NUNIRXgwXzZOVmtxLXJQNUE?oc=5",
+  "published": "2026-11-27T08:18:09+00:00",
+  "topic": "LevFin Europe"
+ },
+ {
+  "id": "082db1352e",
+  "title": "Italy’s Real Estate weekly round-up. News from Park Gstaad, Squircle Capital, Silver Fir Capital, Etnapolis, UniCredit, Alpha Bank, and more",
+  "source": "BeBeez International",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbmRvT1pwaGVXdGVLREViVEV3QXlFM0Jyd2lwYlltVkMxMzZJdHJWT3d6VFdEWkl0SEFUVVFaczcxSW5Sd3VEVy14cVIyTEJLckRWQkF5elVpWXQyeHFpLTdmMnd6QTU1c2FSczBoU01Kd0FvSnJMczBsUzlwY2RaLUp2anZGMF9KWWJ6d2ZsOA?oc=5",
+  "published": "2026-11-27T08:13:49+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "7d632dc1b4",
+  "title": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
+  "source": "BeBeez International",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0tEa2NjZTdRdkxKYmJuRll1ZDVGY3BuV1E0Z3AyQWc1NjJWb2FKWGI2UU9lUHlBdWppYlJrSm9GTzU3M2NhZnhzNTRlRnFvSko3R2tDd1I1eXV6bFo3NGRpQldWYUQ4ajJsMWlQSXlsTllXcWRaN1NHS2VtNUhWVDNGaThHbEJiaUhsaUdkTWF3eWpUVVFHUkNEQkdJV2VqOThTOWV2RV9RZTFzbFN2cEVFd3BwUGdzY0o1UE1oQTZxdEp0OUI5b3ZrellrX3hQNHc?oc=5",
+  "published": "2026-11-27T08:13:49+00:00",
+  "topic": "PE Italy (EN)"
+ },
+ {
+  "id": "a4ba666302",
+  "title": "Clariant punta ad Ashland",
+  "source": "Polimerica",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWmwtT3pJcjJUWm0zTHM1Sjdqd3EwZ0tHY2lSNzVWSGtwRzNsTlBXaVYtcjg2QWpKT2MxeVpXYUhVZk14Y1ZGMXBPN2hnMnJiWENBQWxraEV2THc?oc=5",
+  "published": "2026-11-27T08:10:00+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "ec9d27b630",
+  "title": "Thales: trattative esclusive per 51,6% Lumibird, offerta a 30,10 euro per azione",
+  "source": "Il Sole 24 ORE",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDBMMXlrUzlCTkhqT3k0VHVfYW93SnNYa2NrU0xPUmFiT09heU9PX3FjNnhEaTByOEZwWk1XT2FhYS11X0V5X3VfWFNxQ3JUemxhaW1uS25wVWVLb1BnYms0d0pGUHJ3cWNnaDBid3E3Rkczd2xUaUREQ2ZBQy1NY0hTUVRnamltamJMQ3BDWEpIUndZZGw3Q1ZPWlZoOWdsckZnVHRxdzF4WHVCNjQtbk5sMEI?oc=5",
+  "published": "2026-11-27T08:06:27+00:00",
+  "topic": "Il Sole 24 Ore"
+ },
+ {
+  "id": "909bb9af49",
+  "title": "Avvocati: promozioni e assunzioni, nomine e incarichi, ingressi e aperture",
+  "source": "ItaliaOggi",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFMtRzhmQkE1QUpEWVNQa3hNYS1pdUhJSjd3UUF2TjdtZnh1c3RBMG9nNmNPUzVaaFZMcUQ4a1VvY215Z2NRX0R2ZWZGYzZicERHS29wY25KRmhOcXFMT3EwaHRHVjhjQ1dIaEVZR0Q0MFZoellhbExEM3JadF9NQVJET3I5bzJsaFNSOWdMaDdGYk9BRzNUYk1ZUVZMc09wY3F0MGpoOU1yd0MzcHl3TWVSSDJWWC1tR1NoVTh6bGoxTHhwT1E?oc=5",
+  "published": "2026-11-27T08:00:00+00:00",
+  "topic": "PE Italia"
+ },
+ {
+  "id": "55334936d2",
+  "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
+  "published": "2026-11-27T07:34:00+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "5add017d6d",
+  "title": "Pound-to-Dollar Forecast: GBP Steady as Fed Rate Hike Bets Support USD",
+  "source": "CurrencyNews.co.uk",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGxwYVNxQjQtejB3b3YtOUs5OTNNSzVFbDhfRGJmOS1vTnFzcXNYTzdDU0N5ODFCMWZ5d1JFQWlTV05pa3Y5NU9rSHdTZGphREJoQ01OQ2ZuaXBlZ2E5bVMweFpVS2pVejlLbkV0NXV3WTNDTWdvOG1XMkZOT3B3cXIxOUdoWXVkQmVPdWMzYzhQSUNrUXNCZE40c0JOTDlzajk4TUxHcS14bGhZTVpLTkFMWXFEYVdnaFR1Y0FwZFlSWTFNM3pYRg?oc=5",
+  "published": "2026-11-27T07:31:01+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "4875b18728",
+  "title": "E’ online BeBeez Headlines News di oggi, venerdì 27 novembre 2026. Il podcast che riassume le notizie pubblicate ogni mattina da BeBeez",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/bebeez-podcast/e-online-bebeez-headlines-news-di-oggi-venerdi-27-novembre-2026-il-podcast-che-riassume-le-notizie-pubblicate-ogni-mattina-da-bebeez/",
+  "published": "2026-11-27T07:30:07+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "f4dcc5ee90",
+  "title": "I giri di poltrone della settimana. Notizie da KKR, Finperks, Deloitte Legal, Orrick",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/manager-2/i-giri-di-poltrone-della-settimana-notizie-da-kkr-finperks-deloitte-legal-orrick/",
+  "published": "2026-11-27T06:59:41+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "7365d0934c",
+  "title": "Monte Paschi Banque (JC Flowers) diventa Banque Nouvant",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/private-equity-breakfast/monte-paschi-banque-jc-flowers-diventa-banque-nouvant/",
+  "published": "2026-11-27T06:58:58+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "57b7258202",
+  "title": "Mineo Energia (Sosteneo-Generali Investments) ottiene un green loan da 176,2 mln euro per un parco fotovoltaico da 151 MWp in Sicilia",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/greenbeez/mineo-energia-sosteneo-generali-investments-ottiene-un-green-loan-da-1762-mln-euro-per-un-parco-fotovoltaico-da-151-mwp-in-sicilia/",
+  "published": "2026-11-27T06:57:57+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "295fb50ab9",
+  "title": "Hippocrates (Antin) rileva le Farmacie Bartoli in Umbria, per 20,6 mln, mentre il private equity prepara l’exit dalla catena di farmacie, deal da 3 mld",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/private-equity/hippocrates-antin-rileva-le-farmacie-bartoli-in-umbria-per-206-mln-mentre-il-private-equity-prepara-lexit-dalla-catena-di-farmacie-deal-da-3-mld/",
+  "published": "2026-11-27T06:54:02+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "78f1fa46a8",
+  "title": "Per 124 mln euro, Banco Desio compra l’85,3% di Cassa di Risparmio di Orvieto da Mediocredito Centrale",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/ma-e-corporate-finance/cassa-di-risparmio-di-orvieto/",
+  "published": "2026-11-27T06:51:27+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "8591551856",
+  "title": "Aksìa e Finint Investments aggregano Kintek e Serinex-EVT. Nasce Nexum, polo da 35 mln euro di ricavi",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/private-equity/aksia-e-finint-investments-aggregano-kintek-e-serinex-evt-nasce-nexum-polo-da-35-mln-euro-di-ricavi/",
+  "published": "2026-11-27T06:50:51+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "bf8bbf5603",
+  "title": "Angelini Technologies entra in Oversonic Robotics, che a maggio ha deliberato un round sino a 30 mln euro. I fondatori monetizzano 1,45 mln",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/venture-capital/angelini-technologies-entra-in-oversonic-robotics-che-a-maggio-ha-deliberato-un-round-sino-a-30-mln-euro-i-fondatori-monetizzano-145-mln/",
+  "published": "2026-11-27T06:49:48+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "1f4552616c",
+  "title": "Riparte lo shopping di Ca’ Zampa (Nextalia), che acquista il 100% del Centro Veterinario Genovese",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/private-equity/riparte-lo-shopping-di-ca-zampa-che-acquista-il-100-del-centro-veterinario-genovese/",
+  "published": "2026-11-27T06:49:40+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "2ae9b71449",
+  "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWVfeThwSG9TRTFYUnFPTlJ0dk50Z1RwRXFGMERYbGJjTHoxbWJaelJXcFd0TUdTdWlLZXhJbFJEWVk0OElnUjBVaHFuSUdoTlNOYjZUakpKQmY3RUR0WGFYVEoyUHdmeU1NOE0tbWU4QmhsRlNLM0hMM3hDXzJqZmZ0THI?oc=5",
+  "published": "2026-11-27T06:47:12+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "c71fc1599d",
+  "title": "Caccaro punta su Milano con un nuovo flagship store di 800 mq",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/moda/caccaro-punta-su-milano-con-un-nuovo-flagship-store-di-800-mq/",
+  "published": "2026-11-27T06:30:37+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
+  "id": "372879e6ba",
+  "title": "‘It’s not nation versus nation. It’s hyperscaler versus hyperscaler’",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV000ZE5HREhkZWdLMHppcVVwODhPQl9Nbk42amNvZURUS1Q0Q1F3Q1RFSTN3V2k0Rl9zSVVtSUZNSTNHajcyVVV1dmxlSFh0ZUdmWVlaOTROX2QwcEEtSWFaSjZuZWFBMTktdlFwcm54WXdaZEVTckFjbUtHN0xsaW51ZzM?oc=5",
+  "published": "2026-11-27T06:30:02+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "31c7990b18",
+  "title": "Pininfarina, PF Holdings proroga l’OPA fino all’11 dicembre 2026",
+  "source": "SoldiOnline.it",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcktQM2E2OGtITmhtTnZNVU5FNWgzd3lKSFFmN1VEZFdNcnJ2bnVCSTV2Ykdoa0pZTkVCQzIzRnlFOTdHSzA1UGF1M1U5WUxVZ2ViVVpHZ2ZqWmpTWlA2b2VENXVxdDk5NHgwU0ljbEF0M1g3aU9YR0FFUm9zbUhxcGgyVWtydXRKOVAzZw?oc=5",
+  "published": "2026-11-27T06:29:00+00:00",
+  "topic": "Piazza Affari / EGM"
+ },
+ {
+  "id": "3610c45d50",
+  "title": "China stocks surge most in two years as Beijing vows stronger market support",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5",
+  "published": "2026-11-27T06:24:00+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "aa6bb6c0bc",
+  "title": "Eurolam acquisisce Sirmet e accelera sulle infrastrutture per la transizione energetica",
+  "source": "BeBeez",
+  "url": "https://bebeez.it/industria/eurolam-acquisisce-sirmet-e-accelera-sulle-infrastrutture-per-la-transizione-energetica/",
+  "published": "2026-11-27T06:15:58+00:00",
+  "topic": "BeBeez (feed diretto)"
+ },
+ {
   "id": "1ad12da3f4",
   "title": "IGD, il delisting che cambia il real estate quotato a Piazza Affari",
   "source": "Idealista",
@@ -8,72 +896,144 @@
   "topic": "Piazza Affari / EGM"
  },
  {
-  "id": "51d347ced4",
-  "title": "VLRS GRP BidCo announces the final outcome of the recommended public cash offer to the shareholders of Triona AB (publ) – BeBeez International",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2VzeFoyLUhNdkJyUVFhZ0VuWktuWFNENFV5Z05kSTNlOU00NjloNE5Kb2gtdWRrb0o4MG5oSVVBcXN2WDlSNFBEZnZ2YkMxZE42RFJjUkxYcm0zWnpOZXA0cjBMUm5ZaFh3NGVreWcyMFlFTFRBaGVRUG42M25iLTE3dDlOYWZaeGpoVEFEWDRTMzhMcVRvVy01b21CczZqXzdDMEtfQkFhOUZmNGtKSHNrRm5XVXpRQ1F6VmtpWWp6QzhtTlg5WllhbXdtM3BxVVQzQUtwd2JkdDh6R2U3cg?oc=5",
-  "published": "2026-11-27T06:14:05+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
   "id": "8932e39c64",
   "title": "Private credit’s ‘alpha’ problem",
   "source": "Financial Times",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vQzI0NVF4cm9YUHlER2JwUFcydHE0eHN1TnFQaGV5RXdaNkZ3V0lwYmdhZ3RVZ1A0Y3Y5WS1fQlNDRmV5SkVwdlhBY3ZEM2k1MlNWeFlRbmhwZjNELU1jQTdLRTBob0YyVGNXdFI0Nmc?oc=5",
-  "published": "2026-11-27T06:00:25+00:00",
+  "published": "2026-11-27T06:00:02+00:00",
   "topic": "Private credit Europe"
  },
  {
-  "id": "99a0510e15",
-  "title": "Fsi, Iccrea e Bpm si dividono un dividiendo da 58 milioni da Numia",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZThMRERtczVCdnp6b0lWVGNGc2x6MkpfajFZMlN2anFLSUxyelVpT3pmSFlGQVMzWkxlLTBuY3ZBbVpFSHhsZHV0Z2o1Q3NIVVh1U2ZlNW1Ldms1VVZoZXRXejNabi1nS2hkWlpNZW41ZlRQa25CUWtlcDAydThudU5URHZFbEk0UnM0cWxUYmVnUlMxYTZxWHUzWWVmTXlJRXFmaVQ3NEwyaklhMnpsRk1OaWdqemFZWXc?oc=5",
-  "published": "2026-11-27T06:00:00+00:00",
-  "topic": "Milano Finanza"
+  "id": "31e30d9c10",
+  "title": "Gold, Silver Rally as Market Sentiment Improves",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNay13QlFQZDFheTk5ODZ2VERSb2U2RVBzSTBaLVpLTWlvMWxvcmFTSHFKbXdVR0ZHcjl1UE8xNmwtR3VhMHVxM0N2VWlydXU4UnJjQ3dwSVNjaVpqbFVNWG05MUVqRG05b01HNjMyZF8yaXRvbWVXd0pFR181czg3LWNRQ19ZSzU3anpxUjA1Qzhka3pBRmxpQW5YRlZZeG8?oc=5",
+  "published": "2026-11-27T05:59:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "056fd44cdd",
+  "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnRDczhFTDhaVXp4YmhscHNzZ3M3Z2JIVkNtdXJoQlJxai1BYnVtczd2Z3B6LThnRUVaWUxtVllXZnZWY0gzWVdTUlJSOFNMVXZfSWEwX2wyUVRnWUVtcVJlY1E4eXdaSk5wNDV2Z0lMSlBuUm13dy1saXp6ZlhLTTdBNHVLT1huOGpjYXNFbWtVdw?oc=5",
+  "published": "2026-11-27T05:53:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "38508676ed",
+  "title": "Morning Bid: Is this a dead turkey bounce?",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE5IZ1ZaakNkaEMxUmFKRGxIRHdHUGhKZXdjVkRJdXRiOXJLN1RnNmNFaEVjVVVDcGVEZTJwTjlJT1dpdTN6eDduT0NwSVpwN0c4Qzl5U3JoMFVJaWRMQ3NxMzVzZnpiRWxZQndQbmZ2SXZuTWhvaDE1OEszOUVIY2Vzaw?oc=5",
+  "published": "2026-11-27T05:33:00+00:00",
+  "topic": "Mercati globali"
+ },
+ {
+  "id": "dcf5f43a49",
+  "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnpMamgyaFNPMXBQN3h5emR4WHRHZVNUNVZiQjZjUEtrNC1YTng0YWFVSVRmanVOQnUySURRTXpETkpiU0dlTE5QME5Jc0FhMTJuMzBtNWNoOHF2Z1BwQlZtSVotMGJCdDdzMWhBQjBZRXFMYTViSlEwd0g4azBPV0JSM1VNdnhxT19fU0pFalk3S1dBQWhiai1XRnpmMk1EM3RrQnhNWkJwcEJid3JxX0YxV0xjUWFQTmtHamh2UEEycGMtSGg2dVJR?oc=5",
+  "published": "2026-11-27T05:14:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
+  "id": "ffe2e5bde1",
+  "title": "St James’s Place faces second financial adviser lawsuit",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi1YcWExWFA5MFZhSUJUa3hDeTdpelZLd0dVd0pJUC1sVUtQMTdsOUM3UXhtTHFHOW5KUVRVbTRKSmZ6Tk5iSzNrTHFLWm9RWEFJVl9XVXZtMzAzVWhXMmlNTDBxbFVfZFl1SVBNZWtPQWg4ZElkRmhydzVTQnNqUHY5cGk?oc=5",
+  "published": "2026-11-27T05:01:46+00:00",
+  "topic": "Internazionale: Financial Times"
  },
  {
   "id": "ff7f6502bb",
   "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
   "source": "Financial Times",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHZYQk9OdXJDZFRZN0xTY0RjTHF3OVY4ZEtVVWNMY0pTM25fbVEtUnU5b2lTX19PNWFFRkJ5VDlROWt1a0VxVVpkZGhPcFdQYjdMWTlHMGYzOTVhV3A1QXVfNTRlLW15LXMtTU93UXZXZVRkdFdiWm50YnlMUEJjRFhHbHQ?oc=5",
-  "published": "2026-11-27T05:00:23+00:00",
+  "published": "2026-11-27T05:01:29+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "b940d87c37",
+  "title": "Burnham’s popularity with young voters puts TikTok strategy in focus",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWNjQmczWFJxVEhPeEJNNXQ5ZGFLWHNwVnJhQW11T0dXNUd6aUpLekp4eFNNdWZ5WmdUWF9SWTRIdWpKM19hUUNuVk9mazRoR21VSXFJRXR4RjRTWVhIMDlJM2o5NUY5NE5PYkxMNG5Ibl8wTkNTRy05M2IxYVVidlVySEg?oc=5",
+  "published": "2026-11-27T05:01:25+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "d6f2f44599",
+  "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
+  "published": "2026-11-27T05:00:31+00:00",
+  "topic": "Internazionale: Financial Times"
+ },
+ {
+  "id": "b5e0fbd5d6",
+  "title": "Lesson from Poundland: being cheap is no guarantee of being cheerful",
+  "source": "Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWThXRFcxUk84Q05jdUdyelRQTkpRaDhaY3RqSHM2RFZfT0NKd1VHTGM1UmNqQ0ZLUjlNeE8tTzhlNmlMNkl2dlJMcTJpblYydFdBQnV2dWJWLXFub29qZ0t6LWxwMXFzRE8zOHhCNkN5ZzV2RlR1M0xxS0piWDIyUGtaZVc?oc=5",
+  "published": "2026-11-27T05:00:22+00:00",
   "topic": "Internazionale: Financial Times"
  },
  {
   "id": "ac7f4ce69c",
-  "title": "Gold rebounds from one-year low as AI jitters ease",
+  "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5",
   "published": "2026-11-27T03:28:00+00:00",
   "topic": "Mercati globali"
  },
  {
+  "id": "5542d2a912",
+  "title": "Crew member dies after diesel tanker capsizes off Ibiza, no pollution so far",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmZUbzlMdjVtVDNjMmxRZHZ2Rk50anZIMDlOZ0swTEZBNi1aakVXV0NBT19oTkkzWTk0cUhXbUJEN0xuczdibXF0Y09WaUxmaWRwU2RvOVY3cXhNNE44XzY4TV9Rc2hISnBiSGI1T3FpdEdIR2JETGYta01tc203a2RJaVNhc1VYTEh5UTAxNGRreEFNTTlHcGJiT09QZURZdW9yQWtwX2Y4ckRhUkRFZE9QVTdlM1N1WlhjUGFyTno4cXBtcjFvLQ?oc=5",
+  "published": "2026-11-27T02:53:20+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
   "id": "93415fdd8d",
-  "title": "Shares bounce after bruising month, dollar on course for third monthly gain",
+  "title": "Global markets rally as end of bruising month approaches",
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
   "published": "2026-11-27T02:01:00+00:00",
   "topic": "Mercati globali"
  },
  {
+  "id": "948250ed59",
+  "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0RQVG9idG9zbWotXzlaZEU3MXBkLUQ4T2g5OTZiZ3p4c20zTFhVM05BU2l5V3hlNEppc2RfLVpIbGo3XzZLX09jbFhnZW9mRnpNU3BYZGllVF93R19rTTdIbGc0dmtYNDJ1c29vUE5TcUhqdFFqb1NiRHltME9pVUlTZkpBWlZhNXMwSkhQbzk?oc=5",
+  "published": "2026-11-27T02:00:00+00:00",
+  "topic": "Internazionale: WSJ"
+ },
+ {
   "id": "9fc258c69d",
-  "title": "Oil on track to snap 3-week losing streak over supply fears",
+  "title": "Oil notches first weekly gain in November on supply fears",
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5",
   "published": "2026-11-27T01:55:00+00:00",
   "topic": "Mercati globali"
  },
  {
-  "id": "9fa2ce7ca4",
-  "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNElnc21mUVJWTGEwdHJtLW92M2loQ2dEUW1majlOZzhqMThGeTdYUHJiS2xfSEFIY3JQbnhZdUJjV3VtVG9HYUdYY2JaU2M0bmhIU25aQkNPa2tmSlR1N0VGUlNQekJlMEtHS1hYQWZZYmh4WXFRYndQTzNNdlFkMm1oU3NiS3VhaWw0NVFObVktazlrR0dLamM4Uy1wNkkydmFSS1hOa0pIMmdjUHR4dzc0VkZ6SjRqa3RPXw?oc=5",
-  "published": "2026-11-27T01:48:00+00:00",
-  "topic": "Internazionale: WSJ"
+  "id": "ae48646e19",
+  "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
+  "source": "Finimize",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
+  "published": "2026-11-27T01:47:54+00:00",
+  "topic": "Macro / banche centrali"
+ },
+ {
+  "id": "bf7b498ba3",
+  "title": "The search for Vietnam's stolen pets at wet markets and slaughterhouses",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2dYeElFYjEyMGxyeHFRdGd0SzUxZ3ctdUhzdVp0c0NSS1VKTWJSTXpxdHdyTGFQTGc5d3FvUUxpN2xEMDBlU2o2bHRRXzh1NUMtRUtTOTJsRmxGVzNoT0VDQ000Qm1lcTRnTUp1SDRSUFU2bXY1QVBsS19mSTRIMkxaTkVjVU9WdXNVV29ZaEhNR3BRV1RULWpEUjlLQnJ5Vmc2blVlRmFKUkpKOEFtdFZR?oc=5",
+  "published": "2026-11-27T01:06:00+00:00",
+  "topic": "Mercati globali"
  },
  {
   "id": "eb556b17eb",
-  "title": "Dollar lingers near 22-month peak as AI worries simmer; kiwi rises",
+  "title": "Dollar set for weekly gain as risk appetite returns",
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkt5OU9rSlNUam1waVVQSzc0cWNjMWk3N0xXSnk5Q1p4UlVHSG5JdGpkZGxVLWI5bW9QOVUwMGRsOExnNkc1VkZWUHllWWQxOV9QX0xTLUVxbGcxOFV3NHQxUnpUQUJRTFh6aXZ6MlpOb3d0eHRucTNQOERjNHlfS01YTlk3dTBwX2ZfWVFjdER1Tkl5V0NDODlzclpSckpUT3c?oc=5",
   "published": "2026-11-27T01:03:00+00:00",
@@ -85,23 +1045,23 @@
   "source": "Reuters",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
   "published": "2026-11-27T00:25:00+00:00",
+  "topic": "Internazionale: Reuters"
+ },
+ {
+  "id": "127490cef1",
+  "title": "KKR to Withdraw Buyout Proposal for Sankei Real Estate",
+  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHlHRm9qMHFZd2JtR2lqYk40STZmQkcwTmJRaWpRODN3YnBYOVhPc1ZTUXVCaVZtMnlrcW9GeE42MzVXUlZWR05OQmMtQkRhWWlGTENwMDk2N1gxU2kxSjZLeEVTZGFPUDhPVnc5ZE9VMUFQbl9jaVoxUjBDdzlJUnNuT3RVVG5NM3hFNjB6bFR0VWI0YUdycDBTT1RQUXVYVDJxdWQxVXA?oc=5",
+  "published": "2026-11-27T00:20:00+00:00",
+  "topic": "Internazionale: Bloomberg"
+ },
+ {
+  "id": "c4b42ed8c3",
+  "title": "Tokyo core inflation at 16-month high, bolsters case for BOJ hike",
+  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUU2UTdMSzhabVJEYUYzN1Y1SGk3MWdLeVo4cV9iWDVCd3RZWDVDR2lFZ0dtUTRlUUxxbExIRlJDeGx3dEVVLVBuRU1qaDlrXzd6aHpwUHVWTEhMemE2ZzdaSjROTy1HQUF2dkdDcFhNYWtnMU51a2dsSURKSmlfdjlkTnMzeDdySmZLbWotTnR2clUxR0hrQ255ekNnM3dR?oc=5",
+  "published": "2026-11-26T23:42:00+00:00",
   "topic": "Mercati globali"
- },
- {
-  "id": "ae48646e19",
-  "title": "Gold Holds Steady As Markets Brace For Fed Hikes",
-  "source": "Finimize",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcwVkJaNXVDNThkZDJVQTFLOGZteWdEWkVGdG9VTFFOQjFlWUtVbDRHRkJvYTVobWUtNGNtbUdQdHJHajJjM1BpQ0JQRGV3UlpSbEhRX01hRVFSaXdLSXhoOUk5czdrQUR4ZWFnb3ROU0hOTVZTcFhLUFlyd1ctYXNMNA?oc=5",
-  "published": "2026-11-27T00:03:54+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "0eb42cd60c",
-  "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
-  "source": "Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSE92Y1VCeEx4X0ZtajJnZ1RRS2ZUc2R6VEtiNHZfWFV1ckJEemhNMmNHYkE2a3Z5anhzX0dZSVBxYlItdDAzQ3VLRVc0MlBzVXZYQjA5anVfM01CYjU0RUpsT2c2MVRzTi1LWmdJR0owTFRqMkk2ZUZNaGc0bE1Fa3E1N0t0cmtwLVQyUzA5QldDeXEwUnhKbjJNMEVPeFdac2VsbWZSVnczZGVXdUdBWUEtZlo0QVNMZGJiYi11ZWZxUHM3TGtyN0lpX1gwQWR1c0E?oc=5",
-  "published": "2026-11-26T23:53:35+00:00",
-  "topic": "Macro / banche centrali"
  },
  {
   "id": "ab06607ef3",
@@ -128,20 +1088,12 @@
   "topic": "Internazionale: Financial Times"
  },
  {
-  "id": "8c4da9aa2e",
-  "title": "Munich’s Orlando Capital Closes Fund VI at Its EUR 380 Million Hard Cap in a First and Final Close After Less Than Six Months",
-  "source": "HedgeCo.Net",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRloya1o5SlVjbHFCa1J5LXFqNnJrUVZNRHBaZ2NmRUFzUVZWYk85YXFpdWZyN0E5RTNET096ZmZnUlRNb2FkaUV2SzJxNVNrd0tiV3NoTmFPT3IxQkEteXNCNFNsUkJPcEdkTHpQTW1DQXBTZjY5R2V0QWxLZU5zS1Y4R1BhVGVydnNIbjJEZkR3VV83dHh1OGVwaTk4SEFJcVFTU2daeHZPLTRMT0NXZzJUclVZMzg5RVFZS2dsRWpia1lnYkMwbGFud19uZWNPZzJpY3RWZlZzV2tGNXdLMDVVQ3JPU09udzlHZ1pnU2ZVMlJM?oc=5",
-  "published": "2026-11-26T21:51:15+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "fc54a92a29",
-  "title": "Transcript - Reuters",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTFxMXdnTkR4OTRsNGlJWF9fMG0yQ0htQkQ0ZTYtS1JuaTJseFM0RDJKbEZWd1ozOWVGajBDc3VlS2hrcnp5N1VxcjRQaWFwR1loRnNVZzBRem5wdEFUaVVDLWZmR1RGeTFaWGFtVkNCUWRFeEU0ZTI4MlBxS2VwelFRRmZHUjU2Vkhz?oc=5",
-  "published": "2026-11-26T20:00:00+00:00",
-  "topic": "Internazionale: Reuters"
+  "id": "0027eaedb5",
+  "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+  "source": "WSJ",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQy1uVkhEa0s3U2pJdkp0T0t5M1g2Z2llLXBtTXBSQjdyeE9va1Nid3JJWW45VkhpTzNVeVNKZ1V0ZUpPZUpTRTlwNGg2WnBERVZJRExBT296SEEzSXRzQVV2RTBrQnVXUzF2YWVYS3FWaV82SDFsS1lwemctVXhFVkkxOWx5aTFzZWlVVGxXOUN4elVDQjRmM0JJUUFEdHU1MkFXNjVuQ2JyQXNNWFlEdEFYSUlLUkI4cU03eWVFWEMyQQ?oc=5",
+  "published": "2026-11-26T19:55:00+00:00",
+  "topic": "Internazionale: WSJ"
  },
  {
   "id": "9306e903f8",
@@ -158,901 +1110,5 @@
   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc3JWMFNLcDFyVTNLQ3owWW5JNVR0emMzWENzUEs4ZDRMc19EYnVsQnI5QThyaEl1TWlKVkk2aWhmMllhWnRXbkJVLThpYW5uZU04RTdmYjNNcHN3cEZHeXB4VUZyeTltYmNfa2VsVXJYSTN3dy1vTDRKOURXXzhaZEVCb0szUFo2N05JTUpGUEJyTEJfaS1GMUJJT1NSYWVzbk1CNzdLSkJSdVNYM1VURTNoYnFiUl9VcWdjU1dDZ2hsTU9iMkk3dkotS0ZLbG5xU1NiS25Uenpmam94?oc=5",
   "published": "2026-11-26T19:31:58+00:00",
   "topic": "Milano Finanza"
- },
- {
-  "id": "19efe5328d",
-  "title": "Bollettino Regione Sicilia n. 12_2026 - Qualità della vita, Comuni siciliani in fondo clas",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPay1MVWQ2Unk1RXFJT1dLWWV6dDlsc3VYRUlZalhsWkM0Q2ZHMlRPTDFOYWljdURSQVdBZkFYbGw3bVBNRF9yTElYZmxJZ0szanVnV2t3Nnh4d0FOZzROamwwV0lnaFRZLWlFYUVpTkFmeHJqRnhBSGcwMlFFNVdINnZ0cUV5UTFvbzJsVDctaXFiVWJvN1ZPWUFGSVhtYldzVDZYQWphQTVydE9FQXc5YWNWY00xcHU3ZnNDUXNua2toSGVNN0JLMjV2eTd5OGt2WmZHSnhnOC1iS0N1eHZYeVIyR2FDXzVOTW1JN1VXRk1WWjVM?oc=5",
-  "published": "2026-11-26T19:16:01+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "2d2ed8eaef",
-  "title": "Ultim'ora news 26 novembre ore 19.30",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmZVZFRVSVoxYXBGYndhc0VZbU9Vc1JraVhaYVo2OHZDcGFJVHQxRjJXd2FEOHBNVG50MllaSGdfUF9UWEtjSHV5RkdnZ2thS2pheDZ3ZEgxZ1E0OFR3SS16OVpLUVJMeWl6bEVaNkl2LWozVElwMFpMaV82dHphREQwSngzZXhI?oc=5",
-  "published": "2026-11-26T19:09:35+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "9382020433",
-  "title": "Credem e Fondo Italiano d’Investimento insieme nel private equity",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUJvOFJ4N081eldmVkRfNGJhV3lXX2NCT1VDTTJ3VkhRVTlCa1J6VF8yYkFNRXBydlVRR3pIUHBuM29Sd1pFRTdaWGJJSXZ2bkdTWTE4aWV2MjlFdHR3OUJwaEFOaFZuMXJmT2RlWXcxMUhmVjlwTlE4WGx1UDdHYnIycUZYVGNPNEFrTWhITEpONU1peDN0bERzWjNOWFlndEtMUkxTSmpjclpnandWaUx1N2N5blRnMkE?oc=5",
-  "published": "2026-11-26T18:15:00+00:00",
-  "topic": "PE Italia"
- },
- {
-  "id": "c608dc2815",
-  "title": "Celero Capital Raises €425 Million For Its Second Nordic Buyout Fund In Seven Months",
-  "source": "Pulse 2.0",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU5QdUx6Y0ltTWZkeE14dEZJV3ZzZ0lMejlDaV9TRjI0LU4zcThHYjY0YUNzVC1NNUpidTl0YjdIT0hKQjlmY2VJZ09CX21xbzRBeXFyc2gtX2lCM3JzWmZJZ1h1eTYwa0hZcTlGWmVCeU9GdzhXa1ZVY00xMEs2NFQxcnF1YjhSQlhwZ01Ga2Zvbk9TTmpvN19RWGh4a1pqOGVEQWIzRQ?oc=5",
-  "published": "2026-11-26T18:05:12+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "795838736d",
-  "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-  "source": "TradingView",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRk1hRXBYQlVtVTNtUVNtc1N0SkVPOTBhWTNtcmlQeDZSN0ZoUEYyLWRFckVIdVJlbmdnYktTNGFxWmtVaUdPYTdaam1hd2pkdldMTXcwRlRldjN6ZUdfZTlEZ2FMNEJfWnVjRGJMc1M4OWNwRnI5cU9JbFhMb0VJUk9kbVFLN1BCdXhhZlBvSDd0YlJ1cXZ5eEVGNkpwN2lxd1dWdi1yZ0V5Rkd1cGZSX05iejM0TVlrMnNn?oc=5",
-  "published": "2026-11-26T17:39:53+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "be2859c3ce",
-  "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
-  "source": "FXStreet",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3I2azA4ZTZIak1RbHRHTlg4M3QzMXduSEdVenV0OXU1VU10djQxUjZyZ3dSZjF4ZklPSzIxUWxyWG1WRXlVcS1RVkZ3bExOandMTWJpYlFWT1YwNENEMkNCVnp5cU9RbkFpNGdsblBRbjRrcm5RcDJySzIxbXlEd2FxWFBFYmNLMllZeUUtdm1EekFFUXZwQ1FmRjVUcWFYa2wzSTZMYzdkc0RUUmt3N2hIZ1lsZw?oc=5",
-  "published": "2026-11-26T17:32:31+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "24f27f7dcf",
-  "title": "Godspeed Capital targets $1bn for Fund IV, its fourth in five years",
-  "source": "PEI Private Equity",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFF5Y2VBV3hxakJLYlcwbUpmSk5nd1lfclZEVWt3NHp4M2JUZ2c2Rm5CNVhRaVhfcWRJT2VvcEpXSUJGNFIxblpqa09USkNGOV9zOFBKdUdraGl5b1NicmVBa3FlUkpCZnFHcGdNcFRhcE00M2R6MjJJanlKakU4eFZVTDN1NDFUS3RtR1RkclpSNlpyRUVfOG5lM015bmFqQ1J6R1JOMU1pQ0xGQ2c?oc=5",
-  "published": "2026-11-26T17:10:13+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "8e0eb399f2",
-  "title": "Gold’s rebound shows markets fear recession and doubt Fed rate follow-through – StoneX’s Stanley",
-  "source": "Kitco",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMm9rMGNtNFVvUm5FVFpkWXFoVHlYaHlhSEkyb3dwa19IUXZiVk9rYkRXUVpBeWtXQTVfcUhYSTY5RUI0NVdNeWNZU1V2T0xzN211cWtwNWJBMzV1OWZCUVpoclloM2VxNWg2bkZUaUdFY0pZZ3NOQ3R6aWVYUmRMckFtNGJMbzdmRzBhbjdMeEowR1l4cFg3M1ppRGlDeDZ2Q3lTbFd6Tk91V1ZmMVE5LV9yT3U?oc=5",
-  "published": "2026-11-26T16:21:03+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "f5ce780d7f",
-  "title": "Il 2027 sarà l’anno dei titoli di Stato: largo ai Bonos spagnoli. L’outlook di Anima sgr",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR0VBbmNVUm4xV2dwN053V3RtSkdTMUZtaVM2N0Z1TDd5M0dPX2RtMDZiTC1uMjVRc3hoS0lDVW80SFAxWk8tTGdGYlVSZFZSclV1MnZ1NURLdFMwZUhSM1U1WTc2NTZvcXFnc1gtVEVFU29HUGRCNnpuNFRUNzZCSnlJQV93MWdoaEt1aHhORThzSGtjRHhlU0VhZFRXZ2d4Tld0clFEODFrWTBCcnVlX2N2N1ZGRnpoLTVEMmhKck9HLVFCTW9YT3BDQ0gtNnNvU2IzYmZWeF9vcTZyN1R5U0U4S05RRzBu?oc=5",
-  "published": "2026-11-26T16:20:00+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "6dfa34b870",
-  "title": "Nextalia rileva la maggiornaza di Di Bartolo: tutti gli avvocati nel deal",
-  "source": "Legalcommunity",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEdIQTdkN1hPUjZPeEpILTBYeGpkMXhPalBVaDZnUFNJOWtWSmJMX1VLazkxQ2RxVlB0T1RCNFFCbnhFSGQyT1ZDYUI3dkVMVm1YNUxUeFF3VHR1YVdObTVsVkVhaGdoaFJBNEZjbGNQZXczbXRnRzlHeFNyRkc2OXlva3h6aVM1a2xLdFp2ZXlhd21sV1g3UmVsV1M1Smct?oc=5",
-  "published": "2026-11-26T16:18:35+00:00",
-  "topic": "PE Italia"
- },
- {
-  "id": "db3290fb9d",
-  "title": "Pmi quotate sull'Euronext Growth Milan, 2026 positivo ma la liquidità frena i volumi",
-  "source": "Websim",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUgwWS1UcllzLTFBempkUU5WRGZhSzVuMXFiXzlUbzl2Vjk1RVJHZVVFelMzTW13M1RrTWRVSjJsMERsTWVFRm1UT21LX1ZDNFlFenoyVU5JMk0zYUNuSVdUb3phcURXLXpqM3F3QUc3TThzWEdGSmwwdS00dHdRcGFSSmFkN2Q0ak82OEphdXhPdHBfM1piakJjd1lrSnEwcm5lX0RCVXFyU1YxMXYyOGNQSQ?oc=5",
-  "published": "2026-11-26T16:10:12+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "19459abd63",
-  "title": "Proroga fino al 2029 per il fondo di Garanzia prima casa gestito da Consap",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk9OUlUzcUFmcGtua3FGeTJEVDFoRWE4SW9LQ1JXdFVpX0RQWWlSeV9Jb05TR01Gajg2ZlhETzVBQUdrQ3dsbmEyOTVkYzdJTC1XVDI3elFkQXdfM3RCU2o5b1lYQzdxRGpTVG5OZDNZWVhjai1vdWI4NjRrYzdJYVM0dXNxdFBmYktxNXZBaDdyMnZXYXNPZWNkMXliRE05T1Nidg?oc=5",
-  "published": "2026-11-26T16:06:36+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "3b45235026",
-  "title": "Ostrum AM says markets entering ‘new regime’ of higher rates",
-  "source": "Money Marketing",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVd2bkRkQlZ3ak14S2ZSQTBXXzlmT29DQ3hoYnpSZUNsRl9idjF5RFNMWWxhSjJpNkZULUlDVzRJVUZtaVlCZkw1WkZvYXhzUUYwSUx0dmZfU09wNHY3VGVSQXBhTDhiSi04STFBaTYwOHgzZ2xhQ0hTVTh2SVByc0xWcDJfcXZtMFVBLVM3YURQQXV0OUJXb2xWQmV3UQ?oc=5",
-  "published": "2026-11-26T15:09:17+00:00",
-  "topic": "LevFin Europe"
- },
- {
-  "id": "3a11806250",
-  "title": "Azimut completa l’acquisizione di Yapi Kredi in Turchia e arriva a 33 miliardi di raccolta da inizio anno. Il titolo vola in borsa",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNak1meElmYnpKT1l5dlQzTGJGSVpYVnR1djhyTUdLcmxjYW1qUS1zY1ktX1JSUHQ2dEVidjFlSlNYdnlmaEF0c1JxZVFkblA5Nkw4dGVNd3AzSTN1NG9zUWdkSDdfSU1NV1pMR3hCUkk2d0UwWDEtQm9USVp3ODZKTml5TG9RRHJGM2tCM3RKbXdtRk54RFM5cDFINkMyQlBiQmI4d2szRElGc2FMNkx6MzcwSTRmNXo4azRXdDhuZjJCTzVsUlNiblZOc01lMS1hTG52aXFxcWhScmdoeHFsSnh4ZGVaNWg4?oc=5",
-  "published": "2026-11-26T15:00:00+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "4b063c3b2c",
-  "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-  "published": "2026-11-26T14:58:45+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "0b48f73648",
-  "title": "Azioni Intesa Sanpaolo: +2,1%, la Fondazione Mps aderisce all'Opas su Monte dei Paschi (26 novembre 2026)",
-  "source": "Finanza Report",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3hFWkFsam1uUHQxYW9mcUF6S3BpQnpqTDQyc2tNcFlIZy05andZaWRrWE53LWlZZ3p2Y3RHbFZQMENPRTZPYnpIRjhoa0sxbmN6MXBaSTZJMWNULU81UHdLeWhsaG5WRV9NVGpUaXJiZjhCVERhVGVCQ1FyT0M4R2Zzd0hrQ1NkMktEaTlHWFE5UTFweVFpMEM1ZTdEZw?oc=5",
-  "published": "2026-11-26T14:53:04+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "a476a7460a",
-  "title": "PFA invests DKK450m in Danish tech venture fund amid long-term pledge to Europe",
-  "source": "Investment & Pensions Europe",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTEwS0xzY1BXMnR0S0lNMTVIczNwUzJqLVNSWlpFTlVkTTQwdkRiMWNUd2lvb2p1bFdnY3BscUZEV3g4cl9Vc0RQNmhadS1LdnFwdldJaGptNDdGMTFKbzk3YzF3MXVncHd6VWpPYUdiVmd6WEF5dG1IQUdyZEdpdVh6WURNZXFaWGpfNTNsbFZ1MXI1M3JiZE9YaFI4bXpRV0VWdlZfR2w0cVBNeHJDY2pOMzA0T1ZnWS1wcUpB?oc=5",
-  "published": "2026-11-26T14:33:34+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "85924d2683",
-  "title": "Arrow Global deployment jumps 47pc",
-  "source": "Alternative Credit Investor",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaTI1WUJxRmFvc3VzSVYxaFBwQ19UMUxoekpKbmo2bTJIUU95a3BWR3kxSU95X3VtQXVXZmdmakpRSTU5T3ZvSXNjM2FXckxKQm9icXo1Rngxc0ZucncxU0dPcEZQSlN2WHVWd1h0bWg4T1RERkppR3RIWUVrNm1XM2RFSlBDV29RNDQwMA?oc=5",
-  "published": "2026-11-26T14:32:58+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "3b4a9b2ce5",
-  "title": "Direct Lending Funds In The AIFMD II Era: Almost, But Not Quite, An EU Lending Passport",
-  "source": "Legal 500",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON1p2MHhLOHFNV285Y1VYYmlHeXpSV0lQLW9USEJ5M2FqYmtBQVNpSU8tekxGR0p3VmJSOVBjX3VXV0g5cGpBNHBtZWQtSE8zSFJTam1qVGxmdUhjdGZZQ01hTi1QYzFWSzVsdWEtSjQ1WnpENDRybUFPeXpwRnYtOTludDMzeUpmcDQweHFhSEZidkh2S1VvcUp0V1ZpN0VyZzlKLTRTdXZZTWlsUURmSmtmVmsyaE5EWjczMkdrQ092d0llVXRzX19lUTNzUzdaX0FucUVHVnd4bU9DdkFzYVhGNTV1UGZETTRzRmhB?oc=5",
-  "published": "2026-11-26T14:20:41+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "f412b51ba3",
-  "title": "Euro’s Recovery Prospects Look Limited",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGFfTndsdXdOb3BFazJON3VYOHhndXJGcE9SMDRhQmdweDEyNFV1NExWQURNSmRUdlN4aWhubmhtb01TZnJaVEw1NnYteHZyRXhKRTQwRGRJRTJ6bUpTaVEyNUJhMV9ncW5OdmZScXVFOFFtUjdYUXZtQ09FeDd3MXJwdUREdTVBNy05Smtla2FvdEZMdmo3QVBLSkR6QlNjUktvVlpaaUxjMEI2WHhBVQ?oc=5",
-  "published": "2026-11-26T13:36:57+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "6250637f5e",
-  "title": "Altria explores takeover bid for Imperial Brands",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORDB6MFYwMEJCMzYwVkJ6SUN1M0xlOVdKajZtaUx5MllIY3p0R3FmRUdpTUR2UndNUkNqZEN2WmhZamlSajBNRHNvNE83TTg3ejRCZFVIOEdpWmZoQV9LS2dGRjZHNmJjVENZOE9JVEM4VlhSbERFbXJvUFhOOUI0aXIyYTA?oc=5",
-  "published": "2026-11-26T13:28:17+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "c4c90dc18f",
-  "title": "Motion Equity’s Olyos to enter haircare market with Luxéol; Afendis, Davidson Kempner team up to buy Germany’s Dr Suwelack",
-  "source": "PEI Private Equity",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ3Bhc1VZSkdQbEY1WUpwcmtnTnN1Z0psSUlzbjRDcE5ZVmhjTHRtZGN0VXNlUGF4RWpnNGwwVnNWSTAxdVNsMmxqLVNWQk1sQ0ttaGswaHphNTRMQ1A5S2p5NkpMM2JDX1F1TjZwaDlkVHZEbVF5VlkwbFV3MjQ2X29iT2JWRkJIc1ZXcXJidW81WldEdG1yaldSRDFVUGROVm00bnZTX2VycjR2V3RvREtqYWUxYjIzLXhYeWYtSU5KU3V0UUN5TVk3bHdncHd1VkZZLUdkNHJiUjFHNEktU3pMN3kwYUJZc21kaldlUW50U3Vt?oc=5",
-  "published": "2026-11-26T13:27:08+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "afdb0b09c8",
-  "title": "Prestiti chiusi in anticipo? Ecco cosa cambia davvero con la nuova sentenza Lexitor",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXdfS2Fud0diM0xkX3F4b0wwYzVOc1NQa1R6aUdBRzYwQjV3aDdrRU5peTdjQVNiRl9GMGtHdTY3VGhNb1puUXVSODEyN1FrZ2VIckV3Nzdsa2N2OC1lYWEtYjFOa3FGWlI2ZUxNSlRPRHRjS1Z5WXIwV0J4U2FkYkllZ0h1bFdsUi1FVFpHeDdnTUs5RGlnOWNRUmIzVEd5QWF1WjdxMGFPV3hGQjA3dlEwWDhEVk04eE5qbWczcVgwcVZZZ2Y4RHIxZFhUSVFE?oc=5",
-  "published": "2026-11-26T13:20:00+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "b8d744082f",
-  "title": "Pininfarina, ultime ore per aderire all'Opa di Pf Holdings (Mahindra). Verso addio azioni a Piazza Affari dopo 40 anni",
-  "source": "Forbes Italia",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMm5VOUx6ZmlCRExFVnVZNkxXRVo2WUZOaDBtTk12WER2MEx6bHVyRGhkRGZVUkNzUVRiM1lvLU1iempkN0ZiVG1sREtIaVhyTlh6ZGR6Tnl0UVg0VU1UTGhrb2xOSllMazNCV2lDSGpLU1hYYjl0U1BMT1VzTS0tVEdjQVFRT2lpOXFLQXEyU0s?oc=5",
-  "published": "2026-11-26T13:17:23+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "4b74bb1a4c",
-  "title": "Financial Services Roundup: Market Talk",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1hDWVpqdTVtcXJfZmw5eWdIaTdsUFB1ZU9fWVoxOG1YMUhtLWFQeHEyWGctV0ZXc3ZwRHFtNndpdVNrMVJnYjZVUnJlMU5YZnBXY1lYdHdpVTA3MmxkMzRpbWFDaG1ocmItQWR1VXNpbDR2NHRndUJRZ2hDWTlBZ213?oc=5",
-  "published": "2026-11-26T13:14:26+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "462a1b47dd",
-  "title": "AI Firms’ $4 Trillion Web Amplifies Market Risk, BOE Says",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1lUYXU1Y3ViSk9EZjJSZXBCcmtnTGNYM1g3TVJMQURPRkpNWVNCSkVSZGlRX3JET3FVdERWcDVpbHl4QkdpNkRPazJNVXJXNkVSOE5zblBib0ZvNzlxTGJiWERDTlkzREtXRVFZelp4SFNHajBXT0N5OURreDdNZ0NHY2lwUkhEOGV4UmhYdjhhMkRRaWxJV25BMDBIMWtLSVo2ZkFCOXFhbGs4aUVYVw?oc=5",
-  "published": "2026-11-26T13:13:07+00:00",
-  "topic": "Internazionale: Bloomberg"
- },
- {
-  "id": "39e1041d8e",
-  "title": "Fortitude Capital plans 202MW AI data center campus in Sines, Portugal",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhXWXBzVEVSREpBeGlSVHBZblRRZ1ZMSGp0ZWdwcTA2SVAwY3FrU3owdkhhNFV3Y3dhZGdGbnZXRE16bUtCWDFBUkVxWWtqV3hHRWdLX3dtSEswbWNidndyZWcxdHFnV25idVZIMUV3Ym0yTmsyeWRfRHQ5cVNHWEZ0WkJsekhUbGJHY3VBbloxRmFnaUtmVjVRby1lTzJQ?oc=5",
-  "published": "2026-11-26T13:09:32+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "088476584d",
-  "title": "IQM to deliver Radiance R3 quantum computer to QAI data center in South Korea",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWpuc25qT196UHFfcGZlb0NKRVV5WnRnbDBURXBzU015THJaSnZKc0ZmNk9xZ2xDQk92ZEhscHExYXVTTk9ubHdNMTF6U0NJRlRiS25hM2I5WF81ZGtrY0xjbEtmQU9DdnlOWHNyVEpXd0dFdThZQ1ViVm9TYXlpejE3SXRkWnByOFNMVTkxeEJhRFpRdEN1RFU2WHNXMDl0dy1IY2hza2lsZ28?oc=5",
-  "published": "2026-11-26T13:09:32+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "26b95ed589",
-  "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5",
-  "published": "2026-11-26T13:01:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "f0ea6d8ea9",
-  "title": "Crescita del 12% nelle operazioni di M&A in Italia",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHpxMVhYc2JfYUVNNUZkZVUzMHZKWS1hMW1KUzVOckNLWGVTMHdNOUNZNmNOTjFnMGpnZGd3SlFLeTllVjMwOU5feWtscU5BOWxJUWl4T0dpSmJ4Y0lrUWg4eVVfdVFUV2tKRFhfMklIc1dCaDV0WVVaWktyZmdOZlo0MW1KOE9Dek1QQVZxa2tkUVJkOTh2dTFB?oc=5",
-  "published": "2026-11-26T12:52:35+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "e7f3c88a12",
-  "title": "Growth Italia. Crescita del 12% nelle operazioni di M&A in Italia",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnItNmZISXdVUnRiRVh6UGlMeTl1MjFVRWVPOHpvckYzenZsZHRndzBQMVVnbG05TlFUQnlKWUdMaDVTN29hdVZsREVLQ1NsTFZCLUJEaTlLbHk5WHVBT1NMeUZlQTJDR1gyWFRQc09fSzRyUUlfdXkyblI1ZVFpa1JVRTdYMEtULUNKT1RFelphUkxDWHRoNEIxOU9NbS05XzE5WDR3V3BuUkNW?oc=5",
-  "published": "2026-11-26T12:52:35+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "362f2fa6fb",
-  "title": "ECB already had large support for rate hike in Oct, accounts show",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0pwMG9feGVEYVhMdnB4SDFTdFNQV0FtWmt1QWdhS0t4akxqbVJhTW96MXVlU1k2T21mc1VJaVRMM3huQUZLanZrdXVlcTRneXhCUGRpcUJaSEZ2T2VMUTRSR252S2FzYkhkR0wzbHRpQjNhb3kwM09TaVVrUndBaHBBc3BmZXl2TDVVZUxJcTVELWc1WUlJZ0JKNDNOaUxLQldaQWtFTm9CX0p4?oc=5",
-  "published": "2026-11-26T12:50:56+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "bd07919d01",
-  "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
-  "published": "2026-11-26T12:42:00+00:00",
-  "topic": "Internazionale: Reuters"
- },
- {
-  "id": "49013a3847",
-  "title": "UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
-  "source": "The Mighty 790 KFGO",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3FuRW1zakQ0OW9nRHNQVjc5YjN1Q25kdW8tck9OQ2o2dHlEUUdzdjc1UW5fUUtNY2NoTFlRRDY1SFZEbGVqbEliWUJ6aGE2Ung2eXJhX0g4eWxjX1p6X2JVMHNNcFN0MTBBeHF6T0VaNHBLV2xYYUl0MXJuWW45U01uUS1UZE1ycmxrSnNKOU45TG1TU0daYjQ3VTlkV2FQQ2NidlNEdUc?oc=5",
-  "published": "2026-11-26T12:35:28+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "7e5ea3cad0",
-  "title": "Japan Tobacco Studies Deal for Imperial Brands",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFdXbncyRHB5NjBnaExxRnNkY1NtMkctVmRtVU04NkxBN3JmNmcyMWpwVlNXczk2WW9BOFhXR204dV9CZ3VJMzZFUHdZaTdOeW82c1BudkJFcFZnaGFkMERwMF9zQ0VlanVpMjFzR3p0SS16LVFqN1JzVWJZRExqSjZ1enhZS29OVUZhc0gwTGJ2c1lkNFc2UEo0LXU2Zw?oc=5",
-  "published": "2026-11-26T12:23:54+00:00",
-  "topic": "Internazionale: Bloomberg"
- },
- {
-  "id": "1586e35e82",
-  "title": "Manovra, Salvini: fondo per Quota 64 non è in discussione",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUNBblhVb3VsdEI2TGxvQXRLYk0xYlljRzJsZV8zWlI1TXBFZ1V6QXVJX2Qza0RNbjRMQzk5SDYxUlF5TzdXTXJQVXZka05zb1p5THdNdGhiczZwMEYzSGppQzRrMUpXVmFEaGFzekxhZG83cmJPc3BhNUhQVFd5QzdfejZTcUZXUFNYVFdnOEc3MVcwaWZnQkZXbXgwSmgyMzhiN05R?oc=5",
-  "published": "2026-11-26T12:15:02+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "6489c26e34",
-  "title": "Glasgow-founded SUR Wellness secures multi-million-pound investment from DEAL Holdings for Gulf expansion",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGxSbDdua0FuNFhVMGtUME5TckU5QnNaMEVFVTR5UmlENjcyUzlwcGc2djFSQjhhSFo0alhhZG1CZ3JBSVRDTDNqNTlkcGU2aF9UOG5NOG1lQXFjU1VXbjh3Z3l1aFljeU5MTTlVSU9TSjVXcVk1RW1PNi1tc25YRDJvaFF0bE9yLXNWOVhWTkFOWENHSy1nRUNUV0xTTlJuc2V6MVhXaFpwNWQzZ2RPUC1IelAyWjczUmVNWW5ILVVHazJwZWJfRW1NSE1BWHNq?oc=5",
-  "published": "2026-11-26T12:14:18+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "c45e6f7f4f",
-  "title": "DEKRA Sustains Growth and Unlocks New Opportunities",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTBsTFdNSkpoU0ZzOGtrMzA4NkZyRDhqaS05SmRBWElXNm9MSUwyZmZSMHJacTBtWVFTMGwtMEZVMVhEcW0zSVhhVjUySURxaGR5Y2lGNm40ZmFLLXVNeVd3TDZBS2dFeE9JalduMXJkRzROYmJ2eWNtZmRuWlpGaDMwUVo1UzlO?oc=5",
-  "published": "2026-11-26T12:14:18+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "ebfec725f0",
-  "title": "Analysis of the VanEck Semiconductor UCITS ETF",
-  "source": "RankiaPro",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSndRcFItdUUwVWZwdDZUOUxlUmpRVHBuUUNwT08wZzVZck1MNWhueWdNSUc5TmRJTTFCOEVhX2lKUWZkWEdybmNhTGctejJmTEZ6bzl2T0U3VzIzdFQtZE5oT191bVJ1OV90YTBRcWlyX0FnQjIxQnF4VHhRcmRhelRLelJyajhn?oc=5",
-  "published": "2026-11-26T12:00:46+00:00",
-  "topic": "LevFin Europe"
- },
- {
-  "id": "8cbefbaf95",
-  "title": "Brillante Piazza Affari",
-  "source": "Borsa Italiana",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0ZRUXNYaHk3OXpqUWFQX0ZVMm82VGRTWXU2eXpqVUI1elJhRE9BTzlOUkFnbmJpN2VKeFg0VVh0cVJWbGRjX3RtbEZ2MDltVHo4bzVVWElHNG1xZFViYUpXcERZZHc4VGZIMEJ0M2RDQVROU0hXOWNyLWRJTDJoVXVnTDFSZndldmhPQ1VTRnR1cDBwYlliZ0puZmtwMkRBUWpIRUNHNU05anVaYVFV?oc=5",
-  "published": "2026-11-26T12:00:00+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "33165c687f",
-  "title": "Piazza Affari prosegue tonica in sintonia con l'Europa. A Milano traina Stellantis",
-  "source": "Borsa Italiana",
-  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdTdBcm5UWGhOVkdVVkhhbTNjT1JYU3JOZmdwOVg2Y3AxTUhJV3VhbXBOLWo0Smp2SjhsRHZUd3JMeUtyV0xlMlA1U29LNzJlbnI0Z1FheWc1RkhlYUg0d3J4anFCeDhNSTlIVkpKSE4tTklPOUo5WHlRSjBzbDg1LTNSMnVVY3JsUXVtVlRXNUd3S1h5LWk5Sk1zZGZ5c0RTcVlSZmlUV0wzT1FGT1c2U3ZfOWZGa0Q3ZzgycEtqU01NSDR5N2ItQVZ4ZTh3LTExM3h3QU9EUE5Uc3cwVU1iclNVM0tsVXBNQjAwZ3UzelpHTEJydkxKeGNTckVhSS10MTgtVg?oc=5",
-  "published": "2026-11-26T11:51:00+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "75080c2136",
-  "title": "Why Banks Are Teaming Up With Their Private-Credit Rivals",
-  "source": "International Banker",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZG9wVUxYM1pqTlpBN01RNk5QMFd1U1hOeXBWQXRvMnVGXzFReG9IVk5YcWtmQlltT1lkQ3h6RVpzWFRwaURUQXNnN2pFY0JEQmd6WWQ5dkVtLXNUUWFpOTlrN0l4bzlQQTRUVlRqZF8yckRqTTdRZW1WbkowempmTWxvWE1OVjNJZlhOU3hYWjBfUGtSalVBdTB3Z0VCdFk?oc=5",
-  "published": "2026-11-26T11:41:44+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "57707bc6d0",
-  "title": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHotR2FRM0dVS0xOVjFsRDRqMWE2SVdPaTEyRkFEWmlIaG0zZ21HZ2hKS1JPUU1uWDE3SUlmSjE4LThhbEU1dDk4X2dqUDJMTElpakdmVnZZSUlWRlJjdVVYQXM2bUJrdm54S3o1ZnBqSnVNWXp2aXBvLXhuWWJfQ1JoZzhnNjZJSkhRdS0tWHR0a1E4V1pZOEY5VFVGaFBiTkhZQzJIZ2lCTk1XWDRzYzU3cXBnc3Z0?oc=5",
-  "published": "2026-11-26T11:37:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "b1abaca75a",
-  "title": "Gli studi nell’acquisizione di Numantec da parte di Goldman Sachs Alternatives",
-  "source": "Legalcommunity",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUFjVHo0V0gzSGNlRF8xVHBhOWlMRF81T1d1M05ldGUzM2RCeXRxOXYzQWpjemFkQ2hkdElRVmN3UW5ZVTNaM3hTN2VnZ3I5N1VJT0J6LURqakpzd19wTE9aMG1sUDBPRFJLbTJqcV9LTFdLRmxRX2ZTZXNVRko2Z3hFNndRMlZVbnB5N0EwQ1dMRnlLaWdVQUpUdTAxZWJEb3kxREtSWQ?oc=5",
-  "published": "2026-11-26T11:18:11+00:00",
-  "topic": "PE Italia"
- },
- {
-  "id": "2657d2d29c",
-  "title": "Bank of England to cut capital requirements for banks as it warns of AI risks",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDJkbmhUX0JFZ1F3TTYtR2VqanBRckRPRzNsaFgtOEhTVDdDblJoRnNlSW5wSkwzREFvU0FwMkIyd3JObThLYlh2bmdZNUo2X1VnTUFIWUZsSllPWEs2ZUQ5bmxmZzM0OXpYT21vZHV5UmkxeWpkUG9jdTEtWFo5c081cnU?oc=5",
-  "published": "2026-11-26T11:09:58+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "3a3b0d3806",
-  "title": "Quanto valgono le Pmi italiane quotate in Borsa",
-  "source": "Business People",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW5TaldscS14RWZJclNuMFZ6Y0FOUVJDTWZpam1Qcm5BY0EtRm5oa3V5RDh4SHByTHFORjlIaXQ1RnkwMkI3M3ZyV3dWalpNRUgwS1FaYmxNUFNTOHdoTDlaVnJoQjZ1M19KeEpGS3ZlRi1pd3B5YU9mV2ZDN1JoeVpXN3l5bXBScWxHRWZyb2VUa1duZ2VVbGJyT0tZOGhvYUZF?oc=5",
-  "published": "2026-11-26T11:09:01+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "bbfde1be7f",
-  "title": "Fondo patrimoniale, alle Sezioni Unite il nodo dell’ipoteca esattoriale",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnNCVEw5RWdQUWpMUXdDODFfY2lyT0lhS2dDZEdmOTBBMnBOMXFFb2hteDFuT2dHN1lMenBFQnI0dXF6UTVxX0Z6N2paY1RRRktvT3RkS3YzbGdSbnE4UFMxRFd3aFh1cWdsWnVLVGRmSUtPUzlCLTZqMXJFZHcxM09YYmxkOGp4bmFnUktvR3VMMzlTZmJDczVhZkpTbUc2RkFyR1VvQlFuRE5ha0FwRWZVRQ?oc=5",
-  "published": "2026-11-26T11:09:00+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "f093d8bc3d",
-  "title": "VC investors dump old funds at steep discounts to chase AI riches",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWo1MnBVZTBOcklpU3hiMWdIYzBXM1JIeEdPNFpWNkdMbDNCX3JtYW5VZ1dVTVhDZ0I2NHM0aTJXMC1Vc0lqMmhEZXZLTmxGQ013WkNwLVRVVnZUOTBKcEl1VEZPR2R2cGJtOWd0UHhHV3dIY1d3d25kSnFra21RejV4TGg?oc=5",
-  "published": "2026-11-26T11:00:06+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "60d75d465e",
-  "title": "Backlash over AI power costs threatens $67bn NextEra-Dominion deal",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjdLZHZWcURPaGxSRXRQNzJ1VkpOSkpyWmNjeXhPYW1JOXJOQWxGcjdLbU1CajJBdzFURzNDMlhTa255dDBwX1pSc1NibmlIQV9rQ0Q3VXFRVWpWaEJkNzNrUnpGUFFRUWwwMjk5MGxXVnJYV2sxNV9IMlg5TE1oOHNUOWk?oc=5",
-  "published": "2026-11-26T11:00:06+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "d168e3ae62",
-  "title": "2027 outlook: Has the shock passed or are markets entering a new regime?",
-  "source": "IFA Magazine",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDRNNlNpcmFKT1kyTmN6c1ZsMl9xc0dsUl9rQnM4cDFiSzllcEJBZWQ1cUV2dnFlYmtzZkpDM3RaU3AzRDljOWlQQXVCSTBtQW1kdDZNOThBN05POHhzMWZPU3EwZERwYUI3ZTVBckppeTJCUWpHUV9kc0loMGo0ZWVKTVBDcVY2RXM3SWw0YzNpaHRCM3RfTkh3TQ?oc=5",
-  "published": "2026-11-26T11:00:00+00:00",
-  "topic": "LevFin Europe"
- },
- {
-  "id": "8c9c00ac37",
-  "title": "UniCredit seeks seats on Commerzbank board as control approval process ends",
-  "source": "شبكة تواصل الإخبارية",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xVV94S0d1TmVyM2NWbktWbG51dU5rYzNmR0NuZ0NCS2x0U2M4Ums3SGU0NzBkTWR0T21GQjhEd2pDMENJSFhXODBSdTVoUl9JYjJN?oc=5",
-  "published": "2026-11-26T10:48:02+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "712ff97a93",
-  "title": "LMS Studio Legale assiste Washland nell’acquisizione di Cattel Wash",
-  "source": "Legalcommunity",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWS0xMzlHZy0zdHQ2bVRYQVB1cFYzLVp3MG9WcHdXMGVJQkZEbTNSaUhIcTBkQUV3dmt2cE1WLVNfY3lRaFpXblM1cTEycHZhNzA3WEc4UkJYU2tZM2UwZU96M2VjeHBEWnk1Sml6RWNkVEViLThsTUxKZElZeEpIRk1MN2dUZERtU3Bqd1ZZVjBvalBiLWo5Sg?oc=5",
-  "published": "2026-11-26T10:38:04+00:00",
-  "topic": "PE Italia"
- },
- {
-  "id": "43e0187472",
-  "title": "GEF Capital Partners raises $615 million in first close of climate fund",
-  "source": "Business Standard",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORHhiTDc2eFphWi1zYXA5TjNCd21YZWFCX2Zhb3hLWjEyVmREVFMxNmloRUU0VVJCbVhpWUZJSEVNbEZsdnBVTWJPZDRWY1V2RmFVNzB2REVGeHc0TkhrMmRQNVVGTG8xRUFLQmp0b3FYQlhYZDVmVHRWSFduSHc4RHBDZTAwY3prd2tITXRyMXMtWk1tR2dZbXplc2JZTWVyYVU4UUROcElPWG1XMURGdVdoTVB0Q2VSeTZ3VkF5T1JNUF84VlM0U2o5YmVjTnd2YXRyc3lR0gHbAUFVX3lxTE05bzJsUjRtbGhHT0lLOWdQMDEzSzRZN2x6eGdpT3otZml4Y2V1UjZWdjVwZmxpLWRodDd5RmlLMW0wMEUtTS1fVllQUndVV3pKbndkeXJEZzNvUzNmRWt3ZENxMlVkbkpFQ2NMaFNyLW9zeGh2bC1lT2VpeVB0SG00Q0I4YnVXZ1ZlbzExNW1Bdkl6OWtNNi1fQllxUWlTbFdwRFR3SFJsQVpOXy0ySVhyWkxkY0VmRTdlemlxeElOdjAzWU13bXZPMXhsSHo2X1dldUlQeFJmZmxlTQ?oc=5",
-  "published": "2026-11-26T10:27:17+00:00",
-  "topic": "PE fundraising"
- },
- {
-  "id": "2d180b2110",
-  "title": "Franklin Templeton lancia un fondo sul mercato monetario in euro tokenizzato",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb29XZ3ZfOTAtYmtuOWFHaG5jdjVPYXhCbnJjajQwQml2aE1XNEk0MEVUa0dNdGhhc2JGM3VUQURNWFpseWRxb21aVnJNb1pRUm9ydkY5T2R0dFRfbHlvYTFXcGFfSjdQY0NZSkpDSW5uZVVzemlTSC1TRU5IVlBXT2pZNE9KakV5bk9TT19pcm1HVGJzUXg1aG1rVkFBXzhUTUxKdnlnTGFKNGJlTHpCbnI0bExPbFNxcFpIRXExMEJlVTBLY1BhVw?oc=5",
-  "published": "2026-11-26T09:16:00+00:00",
-  "topic": "Milano Finanza"
- },
- {
-  "id": "441c0b141f",
-  "title": "Gli advisor di Enovos Luxembourg nella cessione di un portafoglio di impianti fotovoltaici",
-  "source": "Financecommunity",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFRoZzd4NnhiaEV3NjVtMl9EUENvTXdrVHlyOVlnMTQwSUlkMFNHWTluSUFLOG9PakNULWRDUEt3SVJ2OGFFeHEwMmw2QkR4S0tVaUdnRnZLQjFyY2hxdlYtRjI5dV9sNGNFZ1BZZEM3QmxrRXhWUlJQWFhINnpJdzJVcTRvX2RSMGNMVXdOTWtFU2xva3AwVjlFT00tT2t2VDZDUmNfVDhoTDJjczBjclRRQ3J1RS1aS0tZ?oc=5",
-  "published": "2026-11-26T09:03:35+00:00",
-  "topic": "M&A Italia"
- },
- {
-  "id": "a799cc1a8f",
-  "title": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlFfb2ZwYzBlM1lBVThaMG55RTZDYXpNMnFidlZ6dWlydTF0d3RqZ1NWSDRXUmVJWDJMNFQzUnBWWHZnUWdjZ1NtTS1yOVE4WFpfeVBhVlFreHVPby0xczRIcFVReXh0X2hFUG9wZW5nbWtyWFpyV19ud0RtWlVYR2J5QWxlMXZ3SHZPX01SVmxuQ1lHdFE4YkY5dVBtcm85d1E?oc=5",
-  "published": "2026-11-26T08:55:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "593d762e9e",
-  "title": "AVIO-ICEYE: L’ORBITA DA SEGUIRE.",
-  "source": "Sassate",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIV2t0OFJnTlVhdk0wX0RpemIzVEI5Umk2YlhXMTRLUTNQaXQwTWw0MUlVREw3Y1BNV04tOVh1QUhBdWE1UUF4MWdyeG1zY3BhUldpNGRjOXNITVJ6bHc?oc=5",
-  "published": "2026-11-26T08:44:31+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "49c1f90894",
-  "title": "Webuild oltre +4%: focus sul dopo-OPA Trevi",
-  "source": "Traderlink",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWY5LTJxVGROaDVBVE5lZUxHazNEYkw4bS1kV0xvUlR6ZGNZeVhxQjkybUdmZW9hUEVXcG9FLXh6UUFWajBnekJkZVdEeEFPRHJQRndlX0VuaXQ1MDZYNFFLYXc2RXpTSzU1bjZNNDZMTFVzelYzVTdoUzMtSkV3WllsN0ZPdHRwSkdwMjFxQ3R6eHJmYlE3dXlrM3RYSEVQelBJN1NaR3l5dw?oc=5",
-  "published": "2026-11-26T08:42:30+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "5a9515f337",
-  "title": "Gold Rises But U.S. Inflation Data Fuels Rate-Hike Expectations",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajEySk9PeUN4cE9LZVVCWFlJYUUycFB4TGdFbzl2WXJrVUlmLTNwcVBYUl9YdHdVbnNGS183bTJ4b2VPSGU5c1c1b3F5RUw2cEM5c3pQOXFFcEw4T3laYXU3X1BQd01CNm5qbW13THBGUm9zX0YwT3kxcEhfZXJDRlZfdW1DdklRRzFIX1Z5WndWcFZiZHcwQw?oc=5",
-  "published": "2026-11-26T08:40:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "a81f16fb19",
-  "title": "UK regulator finds ‘systemic’ problems in £8bn private dental market",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjktSkRZQmxVODRSZmJqT0dnZDdNOXNBVWw3eTNoTmtsN1JWbnE2Sno0T1BUaEktMFhTN0JTRmF4MVdHNS1mWUxoZGJUcDNlUmJHUkN1UlNPUjVxZWZTZ3UzTEhMc1BjNWU1N3pLRnhobEV6SWdVRG5uRGVDdnZIM05TOUI?oc=5",
-  "published": "2026-11-26T07:59:45+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "c61eec3ff4",
-  "title": "Private Debt, Fobel (Arcmont): ‘Yields close to 10 per cent in Europe’",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlNXZi04aXlrTGxOc3hTZEtDVlYtX2h1bU5ZT0RGZk5SaDBVV3oycUhUVVMxdS1KTXJFV0k2cFVxb0dIU0UwbjJQd3VmQTVGb2thVUY2WHhpeWZNcDd2STZ1bUFqa1ZvcEozcU5hNkRsc3NBUk1ITDNsWWVEWHlpWFNNMEE2ckQtRmt5anVDUUdPWmxyTUc5RHlEX3VUOVBLMTlERTZabw?oc=5",
-  "published": "2026-11-26T07:48:51+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "d82d95361a",
-  "title": "Italy’s private debt & corporate finance weekly round-up. News from Acqua & Sapone, Etnapolis, TDR Capital, Patrizia, and more",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUptaElSMEZnQ1ZtMThLNElaam16WGl6Z1lEazY5MG50MjlfT181RTlyOG5FTmNMamlJYzdVR2R1QjdnU1NwZS1paFphaWhic3VHRlc4V05scDFwVzRRQXdHWElSbFhVLXJ2M2tjb3BtWmZDbkJBampON1o3d1dqRGJMLS1rQVhQUm9GbHpWYlMwLTE5ZDBRSHl0UnZRREtvTGhTX0RHeGJsUWNzcVRsU0tlMVVUd1pqajNiWHdjX0ZLbl8wWk9mTDE0bUNBZ1puSl9pVWxuMHlrWmd1cDRR?oc=5",
-  "published": "2026-11-26T07:46:29+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "3b59221990",
-  "title": "Un fondo da 50 miliardi per gli investimenti tech nel Quantum Act varato dalla Ue",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXBQTFV0VmdvdERmWmJJR2ZZVk95ZHhneGk1TmZNVEFYU2ZZMjEtODZ0V2NNQ2g2clMtVDRRUlJVbkpMczdUWkpxajZZMDJxSi1mbWxqU0paTDZDbnltZkliYmNwRmoyS2NqeE16Wmw1cHNkOTBSQ0d4RktwbXZCSF8xODJEdTY1OUJNNkJEQVBxVHBqY0o0aE9pazZmd244dkltazU0WGE?oc=5",
-  "published": "2026-11-26T07:33:45+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "047fdf6f5e",
-  "title": "E’ online BeBeez Headlines News di oggi, giovedì 26 novembre 2026. Il podcast che riassume le notizie pubblicate ogni mattina da BeBeez",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/bebeez-podcast/e-online-bebeez-headlines-news-di-oggi-giovedi-26-novembre-2026-il-podcast-che-riassume-le-notizie-pubblicate-ogni-mattina-da-bebeez-2/",
-  "published": "2026-11-26T07:30:26+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "9bf03ac11c",
-  "title": "TerniEnergia Progetti, via libera alla quotazione in Borsa: IPO da 1,9 milioni",
-  "source": "Euroborsa",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hb2UxNHlZZnRoelpab0l2RzlGY2JQMzZNUE0tQVRDOWU5dUpSUEk0NXpVMjZCaHBPTWNMSXJRdjhKSkdCcHpGRDdhaXQyamkzNXlhMnZ1V3psTWFXUDV3UndmOA?oc=5",
-  "published": "2026-11-26T07:00:00+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "00d1c649d5",
-  "title": "La famiglia di Angelo Radici compra il 70% di Liski, specialista delle attrezzature per piste da sci",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/ma-e-corporate-finance/la-famiglia-di-angelo-radici-compra-il-70-di-liski-specialista-delle-attrezzature-per-piste-da-sci/",
-  "published": "2026-11-26T06:55:44+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "09e4c9a520",
-  "title": "FSI affiancata da Simest entra con il 25,4% nel capitale del gruppo delle produzioni audiovisive Nvp, ma presto salirà al controllo",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/private-equity/fsi-affiancata-da-simest-entra-con-il-254-nel-capitale-del-gruppo-delle-produzioni-audiovisive-nvp-ma-presto-salira-al-controllo/",
-  "published": "2026-11-26T06:54:40+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "d6c5b462a1",
-  "title": "L’armatore greco George Procopiou verso l’acquisto del Park Gstaad da Dona Bertarelli, per 350-400 mln di franchi svizzeri",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/real-estate-2/larmatore-greco-george-procopiou-verso-lacquisto-del-park-gstaad-da-dona-bertarelli-per-350-400-mln-di-franchi-svizzeri/",
-  "published": "2026-11-26T06:54:12+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "b45006335a",
-  "title": "Ardian, HIG, Platinum e One Equity Partners in corsa per Polieco (RedFish LongTerm Capital)",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/private-equity/ardian-hig-platinum-e-one-equity-partners-in-corsa-per-polieco-redfish-longterm-capital/",
-  "published": "2026-11-26T06:53:49+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "ec4ac5968b",
-  "title": "Equita perfeziona l’acquisizione di Xenon Private Equity per 70 mln euro. Raddoppiano gli asset in gestione e triplicano le commissioni di gestione",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/private-equity/equita-perfeziona-lacquisizione-di-xenon-private-equity-per-70-mln-euro-raddoppiano-gli-asset-in-gestione-e-triplicano-le-commissioni-di-gestione/",
-  "published": "2026-11-26T06:51:57+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "17a0137c7f",
-  "title": "Dodicesima acquisizione per l’ex GBSapri Convergo (Brera Partners-Headway Capital), che compra il broker assicurativo veneto VCA",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/private-equity/dodicesima-acquisizione-per-lex-gbsapri-convergo-brera-partners-headway-capital-che-compra-il-broker-assicurativo-veneto-vca/",
-  "published": "2026-11-26T06:50:27+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "ca0855b717",
-  "title": "HOFI (Holding Funeraria Italiana (Antin Infrastructure-Columbia Threadneedle-Augens Capital)) compra Alabarda a Trieste e Bologna Onoranze",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/private-equity/hofi-antin-infrastructure-e-augens-capital-compra-alabarda-a-trieste-e-bologna-onoranze/",
-  "published": "2026-11-26T06:50:02+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "0ac6eb40a9",
-  "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ?oc=5",
-  "published": "2026-11-26T06:41:00+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "d5972c75ec",
-  "title": "Autlet Sofà esce dalla Lombardia e apre il primo showroom in Veneto. Entro fine anno l’apertura a Cremona",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/commercio/autlet-sofa-esce-dalla-lombardia-e-apre-il-primo-showroom-in-veneto-entro-fine-anno-lapertura-a-cremona/",
-  "published": "2026-11-26T06:30:35+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "c85664ea60",
-  "title": "Tim Hortons China Is Said to Weigh Options Including Stake Sale",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmluSG90S1JPOV9JbEhDR2xmclpLV0FEbzd1a3dKT2VTRGlELTh1QkhQNkl0OEc4ZG9JWnc4R1RQTUVGMzN3aThoelJNU0wxTW5zOUZjaGtHSFd4Mk1IMVR6dFRvcWMzN3NRMDU3LVpJak1lbkZNZ1NKellaTlRUbUZyZFJvYlpNWHA4TzhrQVRWMEFBY09GTkJGSHdWZVdJVWYtbFVXdzJqOGFDXzFFSi04cFk?oc=5",
-  "published": "2026-11-26T06:19:00+00:00",
-  "topic": "Internazionale: Bloomberg"
- },
- {
-  "id": "2c8fd2ea1d",
-  "title": "R Collection Hotels diversifica nell’ospitalità residenziale con R HOUSE. Debutto a Milano",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/servizi/r-collection-hotels-diversifica-nellospitalita-residenziale-con-r-house-debutto-a-milano/",
-  "published": "2026-11-26T06:15:24+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "0b5d44e938",
-  "title": "GenScript Convenes AI, Biotech and Investment Leaders in London as Faster AI-Enabled Drug Design Raises the Stakes for Biological Evidence",
-  "source": "BeBeez International",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUFktNkdQdjVyXzgxNmNzN0FjTUk4VW9MWVlOVzRMbmk4MUVNZk5zWGRhWC1uSXRrQmEtSUdHUHFWNVlvdWlkTkVEdjY4MlBoZVZIb3VWOGNab0tRUnRmVlVYVmQ3d2RTQ2ZNS0hrRnU0LTJPY0JkUnNvaGE2ZHdQUjUxLXZCd2dmc2JQQkxGUDNmeGJHelAwRTczOUhiaVhWejZwaHZtaVAzdGVQRkJqZjczMlJ5b3JoUnA3V21KeHVXRUdzMjhHSDZwNG9EVmxVdVo3em5wRXJ3YmdvYjdOMXlMd00tRDBtUFNNeEtKT1RKaEdrQ2RfTElRUQ?oc=5",
-  "published": "2026-11-26T06:12:58+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "045b5f8ffd",
-  "title": "World Dimension, il marchio di e-bike WD99 stringe una partnership con ACSI Ciclismo",
-  "source": "BeBeez",
-  "url": "https://bebeez.it/industria/world-dimension-il-marchio-di-e-bike-wd99-stringe-una-partnership-con-acsi-ciclismo/",
-  "published": "2026-11-26T06:00:21+00:00",
-  "topic": "BeBeez (feed diretto)"
- },
- {
-  "id": "49556ae163",
-  "title": "Fidia, verso il controllo cinese: OPA obbligatoria e possibile delisting da Piazza Affari",
-  "source": "Euroborsa",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUdkN0cwX0JtUjhnT2kyRkFmcU1ZQWxLREtDdDdvR3d3OWhZSW0yeS1pdDhtUmtKV3JpT01BMHNPX1pfSS1jb1ZhVTBoNlNyenQ2eW54bjhOeVN0ajlfdVNaNDdZeGFISDhDTWNpUUJuamlicFVDT1dpVU5mRFJZZ0o0WWZERlZKUTZVX0lrUjBnUTdfX0RNZXZXcU9WVVJIN0ljQlhORnlTTTg?oc=5",
-  "published": "2026-11-26T06:00:00+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "dd2ea3a525",
-  "title": "Morning Bid: Hey, it could have been worse",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IM0o4dHlGNWlZNUhwMHlTaFdFX2o4Y0J6dUFoTnNicFFRVTlsX2RDOUhFbGtqVzBsV1lFY2Vvb3RoV2F2RUxHYTE5LWhNYmZyZGhnU1NIWDc4SUp6TU1icVctTV8tQmZyR2Frb2pnX3Z2Z0t5U2JzMnBxWUFOWjQ?oc=5",
-  "published": "2026-11-26T05:33:00+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "ef2d794e6e",
-  "title": "Spain's snap election: Five key questions for financial markets",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
-  "published": "2026-11-26T05:04:00+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "b2420bc072",
-  "title": "The debtlike deals beating buyouts",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpPaDY4NnRqQmV4ajRqcWJjQ3pMV01TTTQ2MUNDUWJxbG9ERlhZRThLOXlQX0lJUXRpdi02eUpCRzJmWHZYSkx3V1lxS0U3NUphNnlDSEhsMEZjdk4tOTBDa2UtS2h6TEtaTVJSZTI4ZERNVGktYWZQSlljT1ZWSFdKVUo?oc=5",
-  "published": "2026-11-26T05:02:48+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "c2bfb38b27",
-  "title": "Piazza Affari guida il rally europeo: volano Stellantis e Prysmian, spread in calo",
-  "source": "Euroborsa",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON05qbnRIN2laeVZKZ3Nxc3dxLVpsNGV6QXFVS1JPVXk5NjBwcXVBOWtWcl9Td1l6aWN5bWRNcS1FeG1BT0RCSW12WTJURDRKdVIxa1NMYTRxRVdPSm1hVndfUEs4S0pHbjVvRU44X1FfUUFUMXZRa1ZtZEQ3c2dVOVVfNGd3dHpkazN5LU1QQkZVTUtkenBEU3RMSEM1LWRKcnllaUdB?oc=5",
-  "published": "2026-11-26T05:00:00+00:00",
-  "topic": "Piazza Affari / EGM"
- },
- {
-  "id": "5192049538",
-  "title": "Poland’s $1 Trillion Economy Faces Reckoning as Challenges Mount",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3haZjlkaW9ySDJiNGpUQkFVWEZaekFmQmtqamVxUDlmQjVVWTJQWEZfbzBjeG4zY2hqdURHZVN3TkwyR2p6cTRnVHZleGUyR0hyZTAxQmNpS0hzZTI5ZHRWT19VZHl2OUlid2lua01tekMyWFJMaEt4NTdRQXBWRXNYd29LV0hBQnZ0OFI4OFBJZWVnRGFhbzY4OXJFYjBVblNpS2JDU2xnLVN2NWVfX3Rqakk1S2xMZ3p5RFEycC12Nm9x?oc=5",
-  "published": "2026-11-26T05:00:00+00:00",
-  "topic": "Internazionale: Bloomberg"
- },
- {
-  "id": "cc77158890",
-  "title": "PODCAST: Europe’s banking superstar tips an M&A domino",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU9nT3Z4bXNicjJyd1cyY3Vib0JjWXJsQVBHQXl5dEVoMFdkY3R1M29VRUtWVkZtcm52UndUQmZaanAwNUJTZzd1ajNpcmdiSlRNWkh1M0VvWlZXMWJiRXl4cFA0N0FqTTg4N0ZKQlRpbWVGWU82bGtPZG5keWxjUHAxV0VYZ2twNERicDhETWNndFdiaUpST1M4c2FESGM?oc=5",
-  "published": "2026-11-26T04:15:00+00:00",
-  "topic": "Internazionale: Reuters"
- },
- {
-  "id": "5db14b9688",
-  "title": "Gold drifts lower as Fed rate-hike fears loom",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5",
-  "published": "2026-11-26T03:39:00+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "ba80ab454e",
-  "title": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
-  "published": "2026-11-26T03:08:00+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "d2af0f56ee",
-  "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGJIcm9ZVllVLXpXNEx0M2d3VE5CSmhwcS1nNzl6S1I0eGp2bE1HZk90UzA3dDVKWVdlRHNhSGd1YmNiYlRkX1NybzRJQ1lHb3A0VDhCSk1JUXFlckQ0YTRORzhIVmpQa21hNElGUjRxcl9yVl9Oc0JyZUJaVzhxR01PYnMwM2VraEx1dmhBOVZkSUxnOVM0a2ItQ1JmblZtQjd5T0MtN0N4eENxSzgwQTBKRlJwQWtvUWRJZFlZM1M?oc=5",
-  "published": "2026-11-26T02:33:00+00:00",
-  "topic": "Internazionale: Reuters"
- },
- {
-  "id": "733bc53be3",
-  "title": "Dollar rally pauses for Thanksgiving",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGRxVzhWY18xWGQzRlVEbmZBbU9lcnR5WEpveVIybFY3X0I5bVNXN2Q2NWZUTUl6eGJYQUZoeHEwSFJqYzhGZDV4Yk9OV29Qc0dXSXFEbm9PY09FQlhNWVlQb2ZEN0FlelZvQVJyT2N3WU42X3phd3ZYVVczQ0RORDFwaW5vd0NxTnozeEpYU3VIVF9NcGtGYng0VWRnT0hk?oc=5",
-  "published": "2026-11-26T01:44:00+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "ce874254f3",
-  "title": "Stocks rally, Europe sizes up next ECB chief",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
-  "published": "2026-11-26T01:35:00+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "aa837406a5",
-  "title": "Exclusive | Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXgxcE1tNTdoYWR4Vld1UWtPeHRadlE1T1RrbXlBbUJad01lVGZZU2ljYURrcXNCY3QzcGQ1RUlxM1Q1Mk1YVTh1dnpGcGxFYlNUSHRZY0NYRWdzNnZzb2g5UURNWEtDQnZBbTNjSUZyRVdsSExOU2otY2FGVnhIYXVadkE1LTFyVGNOU3RFMDhpc0RBNGNURUM0cHA0eVZMSzkyTmpuR2hfaGZSRGQ3cUdVRWtnS1VFTFlGNWJSRHFhZ2JTelE?oc=5",
-  "published": "2026-11-26T01:04:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "7d36f0bf86",
-  "title": "Top Photos of the Day",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzM0aHRXSXd4ZTE0b0VZcGtXd0VfRXo3anlrLXBTbGg0dXNjeDF3RlQ2WDB3bjEyaW95WlpHbDA0aDBGdmE0WGQ0TzlyWVd2QXpuMEZpbU1jT2ppR0p0SnM0QlFOSjFlN1Nab05WSTRzS2xiV2VfaFdjWTV5OFFiRQ?oc=5",
-  "published": "2026-11-26T00:44:28+00:00",
-  "topic": "Internazionale: Reuters"
- },
- {
-  "id": "328d26fecd",
-  "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-  "published": "2026-11-26T00:28:43+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "9dfa700e4a",
-  "title": "Mizuho Extends Global Banking Push to India With Avendus Deal",
-  "source": "Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFFWcXZ3Z2tlZ0ZyMFV5MFJ1WUl2bE5ZaGJCSFZCWTExZUJJLTYxRDVpV0FKblFwZmFfcVhIaXZUTkg0LVhITGJCZVhieHowMXkwQXNhcEh2NWVGZEhtTWpOZnNfcVFUb3BaSlFnZVphU09yRXpfM05kcm9WT20xMjBwdGQtelRzRC0weVYxckJOaGRTWTczMnJmcml2VFlxWWVjQ2lUbDVQdDJRU3pPZzh3?oc=5",
-  "published": "2026-11-26T00:21:00+00:00",
-  "topic": "Internazionale: Bloomberg"
- },
- {
-  "id": "a6e7950511",
-  "title": "Tech, Media & Telecom Roundup: Market Talk",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGtKOUpCV3BZODd4eXA2NkpjMm5MUUVnSGZ3U3JpY0hLUnNZclQ4Ym1lZG56SjhRYkFhSGIxTTVoRVhtSHN0SVotc2dLdDBNYkF0RHdabDNqNjJvYnpnZTl1RC1UdldPSENQZGdYNjQ4U2MxZUhYd3lzdXpWR3hZTjZR?oc=5",
-  "published": "2026-11-25T23:11:56+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "b6327910a6",
-  "title": "Norton Rose Fulbright advises Truleum Venture Partners on launch of tokenized private credit fund",
-  "source": "Norton Rose Fulbright",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYmNJbHFFdTN2bXEwTDgwQ2pZM2o0WXpGZnEwMEJYZldTMEl5emlwbzkyNW1sVV9BNmp2RHpzamRnSkRiZUxBNHJZQ2xHVFVtOHVHMTAwRVpINW5zb3pkYjliRDdMTHU5NkN2RS03UFNvbi03ZUNBWUZacnF1ZnZIeDVtZEJjaWk3WktjOERGMDJGaHRLU2RWMXlLS3BKQUt4cXAzTzI4RThmanYzRjFBUEpSNVhnSGNiUGlEU1lzMzAwaXZFeUNjV2FMYTk1cUVTYjh4Y2pHSGw5c3JDMVExZzlmMWhURVlRRktMZjZCcVhIODNGNENxaUpKaw?oc=5",
-  "published": "2026-11-25T23:04:53+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "100f2422bd",
-  "title": "Drilling Tools International modifica l’accordo di acquisizione per un finanziamento flessibile",
-  "source": "Investing.com",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaE1GX281MzBHVzFGZnhCTng2eW5zQk81dFNWRDUzb2tkQ29INTBGSmpnZE9FSldMLU5rZi1LLU52ZGdXZnNrWkR6MjNTeFV2ZTc5MjhwdXJSdG9IUHAxX29xME9IUUl6R3l4ZE00UHRlbW5CTmVNcVZHQ1NjZ2tiMUtiQlJHRVNqZ21IWm11VGFDTVFUWmxBbk1Yb1F4NU50MHFLTG1zSGlfZjJ6bUZLZnFiMmFTcVp0QlFTd0ROc3ZaMGQ0NjhHRGFwSW8xUURveUlub2hUeWMtVGlvTWhVYXJFVQ?oc=5",
-  "published": "2026-11-25T22:49:00+00:00",
-  "topic": "Debt financing Italia"
- },
- {
-  "id": "b5a265fa53",
-  "title": "NEWSLETTER: Jensen is back. What’s next for Nvidia?",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanZEaGMtUmdmSmZPX1BXTmtqRG4xUXpNcFFiRmxWY0d2MnBmR0ZUWVRJM1d6Q0N6QzVjZ2NnYXVZTFNXejg5N2JaeWZTYTlHWlZJNFZYb09kS1JsY0ZadXVrLXZXN0lWNmRQdThKMmZOV1NBd0FYNk1CNnVPN0g5Zkd2ajh0c1l4VlFLbkNCYldadTl3c0Jrek0zak9XeW9BTWJMVkJ3?oc=5",
-  "published": "2026-11-25T22:25:00+00:00",
-  "topic": "Internazionale: Reuters"
- },
- {
-  "id": "c0f9691944",
-  "title": "Crude Posts Back-to-Back Gains on Middle East Tension",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVlpZnAybHVSc2FubFZDcXE2VkkwaWRUcXZaSnlWUzU0Nlp4YnFHdEtTaUlfYzlfVjZ1eTNIOEZsVGZsYlhiU0gzV25SZTFvRHgwQTE2cENhVHZpd19IcjFJU3JvLUUtUkZKNDVnM0h0SDQzVzY2cE1yNGVjRG44R1laRmx5OUt3VzNPTlRSZTc0d0RTT1VVel9hazVLQkFOWU1ORVBWcE8wRUxlTER6WHozOXMyLVE?oc=5",
-  "published": "2026-11-25T22:09:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "f6d884606f",
-  "title": "Energy & Utilities Roundup: Market Talk",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NVlRamRYdzN0WHBzS1hjQkVuSWhmQUlLdGRmRGJYZmJHVU96S21hNU0wVHRsQmNxbnhTTW1zYmV0T1VVUVlXSjZ5ZHB5N1gzdnBjQjExVGJnSHVFQWdlTlN2bkNvWll2RmZmaUxwbTM3d0RGMVRXNE1yWW1QOWM?oc=5",
-  "published": "2026-11-25T22:03:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "e3d8f8b763",
-  "title": "Airline Norse Atlantic says financial situation 'critical,' shares plunge",
-  "source": "Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
-  "published": "2026-11-25T21:29:22+00:00",
-  "topic": "Mercati globali"
- },
- {
-  "id": "f31993b124",
-  "title": "Il Viminale incrementa le risorse del Fondo per la sicurezza urbana e amplia gli interventi finanziabili",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcDlJMzZwNjN2RFJjMzh4dmZxT1pDT2M0aHlEN3BNYkdXVUNKWXZKM0VKMG1OUzgwVm1ZMVpJRFlBLTAzaVg5b25XNW1maVJoOXNIb3E0ZVdaVjlIb3NnbGNheTVJUzJoS3NmYmhnbWZSMlVhNjBHbnlKVFNlTFV6N0FTWDhmdE9yckxuQmxDelRjeXFKMi1PT3BKZ2tFemtkOTZIdTF1T3pQU2FmNlBXTmlkTnZwVUkxbFNHMG41RjJaWXdKZ2FCb3FkbnpyMVFHRUE4d2pfd1BiUDJ4Tlgw?oc=5",
-  "published": "2026-11-25T21:24:00+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "832e48be60",
-  "title": "Fondo delle risorse decentrate, correzioni possibili anche sulla parte variabile degli anni precedenti",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlcyTEcya1gzYVdyYTdWLTdESUVUYVhfVG5YVWdPMTlIdm1ONGZQUFpMMnN6Q05BNVFIZGJPbzI0eFJzRG9Tcm9iSEpoYW9vdXViM2FyUmxzSHNNSWl6VmphSmY0ekZxS1Y0WEo2ckJvTEVNa09ndE1Hbi1WU190R3pXOWRIbmxRUWV3Y3RqSm54N1FzT2Y2b1RSUXVsVVNxdEtIZUpYMFpMclNGRFV1SW8wdFpXd08zMWM0WmR6SjAzbVp2RUE2ZDYzWFFTVEt4aVVscFBSSQ?oc=5",
-  "published": "2026-11-25T21:19:00+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "044201bd37",
-  "title": "MacGregor raises €600M in debut high-yield bond under Triton",
-  "source": "Dealroom",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFhobXFITDRoYlRndjIzaW9aT3d1aF82Y1hZUDhfOW1XR1lzelE0a2szWDdsTlpMZkwxSEJiSzROTkNNdXpsVlByVFJsSVMxbV95NDQ5YzlOQUNkSE82WVp4UHVmVDdFY1llcWZLYmN5eEFWX3cxeUI5OVFLOE9sLU40LUJWNC05am5wWE00VzRTNlVRTjRkSQ?oc=5",
-  "published": "2026-11-25T21:10:21+00:00",
-  "topic": "LevFin Europe"
- },
- {
-  "id": "15f58e36d4",
-  "title": "Oil Futures Pick Up as Middle East Tensions Persist",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lmRnNkZk4xMmU5a3lHTWEwV3JfZ2pfUW55aTJUNi04clZpa2E4dDJacWRnQVRjMzRFX3FfSFA1c203SFhvd0tHOTZWTUloNmhtTm91QS1raEwwNWJKaUpaZktCbGlFRzRlMXA1ZTFUVHZKWGMxVWswU0JyUWRSNEtxSFBBUnN2ZGxfazFpTEw2QkJpUC1WUHJ5TnRxaFVSa0VZaFJodmZrUkJZNXY0OEVsYXNGek4wTHp2OEczai0?oc=5",
-  "published": "2026-11-25T21:07:00+00:00",
-  "topic": "Internazionale: WSJ"
- },
- {
-  "id": "91ae48b1ac",
-  "title": "Slate Grocery REIT unitholders approve $13/unit buyout deal By Investing.com",
-  "source": "Investing.com UK",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZlFKUGgxcHJsUDM1UG9xZjNGTW9uY01XZ1M2TXU0N2o3NklocTdLZ3B0amF2eHktSW1OWlpqQmdrV29uYTFVVGlGLV9kaXhNREJHNDFGajRTVGpIaHg5U0RndklTcm5PV045TVVFSjYxbklnNjlrSEM5c3d3MmNieDN1cEZkWjhrcnQ2TzdZWk1UU0o1WVJCOEQ4by0tZmFqMWFpTm9ZZWNMVGNXazgyX1FBTnIweFBzdUE?oc=5",
-  "published": "2026-11-25T21:02:00+00:00",
-  "topic": "PE Italy (EN)"
- },
- {
-  "id": "a6a951853d",
-  "title": "Bilancio Ue, Lupo \"Non accettiamo tagli ai fondi di coesione e fondo sociale\"",
-  "source": "Il Sole 24 ORE",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmxWVDJDUDRfbE5rT3ZEWm9UNFhyREI0eUZtRFpZMkxrMXBFRkhkREJqWWRhV1dCR3lqWUxpd1A0UDc4MUJ4akNpMmFwZWNRRFZZejBYT0JVU2lSLXE2bFpHenlyaTNUbFJ0eDJCNDd4d1I4eks5dklhOTl6TWtZX0cteTFSZkRyRllwa0d0d1REV3pzVmxHSlFaei1nWTBzdE1VMm9naFlQS2RZcWlJNXJIZXdnUUtjMWlfRmNTX18?oc=5",
-  "published": "2026-11-25T20:55:53+00:00",
-  "topic": "Il Sole 24 Ore"
- },
- {
-  "id": "6f582a7947",
-  "title": "When The Fed Tightens: What Past Market Cycles Tell Us About Equities",
-  "source": "BNY",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWE9PQU15YnYyaGFrU3Z3LU9raVNENW92SmpaeWNIUjJKcElrU2tJdEc1Sjd5dF9ISDcwWWxDODIzNGVhWm5xVjc4ZEpDTGRuODdHNldnQTRma09LYW45d2Nnd3gzczRLQzlncVZ1bHpMTXBrczk0b3NUczY3bzBDTEcteENCNkFaaV9WUXdfWkxBZHhDNmIyY3BMc1FfSGpOR0xYeWNsZ2NzTnVSVXZISTdHdDB1b1VIWXc1MV9uNmQwbUNFcklYMDdpOXRZZ2FULWdXZ1BoY043Z2dIU1FRTlE3RDFEWDZY?oc=5",
-  "published": "2026-11-25T20:48:32+00:00",
-  "topic": "Macro / banche centrali"
- },
- {
-  "id": "38cf182dcb",
-  "title": "Equita acquisisce Xenon e radoppia gli asset gestiti",
-  "source": "Milano Finanza",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUw4aTBET21xVHhib09YNjVZcDRPUVdwbkVpTjVPd3ZCMGJEYzhuZXBDeVpuU00xRDZlWlg3ZTNDZWVFY2tTcEZiX0VBRmQxbzhUanF4NUEwdnlYMXJFbjZReGt6QzF6Y3F1d2hiUVRQcjdpNWNvdDlFX09vLTQ5RW1QTG5qRk5hNm53WnBuVVl2OXNLLXNwM29iWWtSUzl0a3oyQzBRMkQ?oc=5",
-  "published": "2026-11-25T20:30:00+00:00",
-  "topic": "PE Italia"
- },
- {
-  "id": "ac59fa1220",
-  "title": "December redemption data to test private credit fund sentiment By Investing.com",
-  "source": "Investing.com India",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFptaFJ4SVBZUlE0SzRPUzRtZ3luTFg5ZGJvWTczc0pUeGpfTE04RF9fS1kwWm5mTjNEQ0wxZVlWREFqZDhHVXRfSEhmQ2VVemNJVEs1NEhNdGFsWk1FSXdta2RLdm9LOF9aVEk2N1FDM1Q1cmdkdzJSUFM1Q2hBV0JLeFdfaGRPYm9VcXR2QmNJXzB6aG1ocFVrSENxRHRZdHZlRktWT29wTGNVQnhrQXhZbEVXb2Z2UEFsZ1g4N2w?oc=5",
-  "published": "2026-11-25T19:53:26+00:00",
-  "topic": "Private credit Europe"
- },
- {
-  "id": "45d0d935ee",
-  "title": "Light-activated nano-robots bring more drugs to the brain",
-  "source": "Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVVBR2lOd1Rzd0RMWlh0ODBWbUFKMFpJR2daTDFxWm44eWk2TkU5LTVhVGRmUEN0eFRIamhsT0hJT3NYZExPZ1lhc0I3OUtXWWIxZng2RjB6ZG1sUjlEOG1qX2ZrMXJjVG9fLXRsR3FZajlXVEZoTkhqT3Izb2NocVRGQUc?oc=5",
-  "published": "2026-11-25T19:00:04+00:00",
-  "topic": "Internazionale: Financial Times"
- },
- {
-  "id": "848ab2db83",
-  "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
-  "source": "WSJ",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGh0OFRqZkhfUm9zcTV1NkxZdW0zc2hWVENhRC16TF9XdUdlQlROUVpBZXdDeDhFYjRrVlJtcTlVcXRVeFVUMEZDUXVuOTFWLVpBVDliSVZmTlFSWDc3VjNlc19FUW1LX283Y1BWdnVoNjVzSUEwbGtmWnE4TVhCbjZUZ09tSDBEVk80M0hrTFJuTk13WklUQTBKQlNKajVlUEtTNkV6QkhOTEU2dmJGMHRBTTFNbUx3SlREaXZB?oc=5",
-  "published": "2026-11-25T18:41:00+00:00",
-  "topic": "Internazionale: WSJ"
  }
 ]
